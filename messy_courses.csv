@@ -1,0 +1,16 @@
+﻿student_id,name,course,enroll_date,attendance,avg_hw_hours_week,final_grade,study_group,comments
+2001,Avery Chen,Data 101,9/15/20,95%,5,A,Yes,Great class!
+2002,Blake Jones,DATA101,9/16/20,88%,4.5,B,No,
+2003,Carmen Diaz,Data101 ,9/17/20,101%,-2,C,YES,Loved it
+2004,Dev Patel,Python-Intro,9/18/20,N/A,ten,B+,no ,too fast
+2005,Eli Smith,Python Intro,9/19/20,,3,A-,Y,N/A
+2005,Eli Smith ,Python Intro,9/20/20,92%,3,A-,Y,N/A
+2006,Fin Nguyen,Python Intro,20200921,0%,,F,,
+2007,Gigi Park,Data 101,,-5%,2.5,B,No,ok
+2008,Harper Lee,Data 101,9/23/20,85%,8,A,Yes,great
+2009,Indy Kim,Python-Intro,9/24/20,100%,0,B,Yes,Great
+2010,Jordan Ray,Data 101,9/25/20,67%,6,D,No,helpful
+2011,Kai Lopez,Data 101,9/26/20,85%,5,,Yes,great
+2011,Kai Lopez,Data 101,9/27/20,85%,5,,Yes,great
+2001,Avery Chen,Data 101,9/28/20,95%,5,A,Yes,Great class!
+,,,,,,,,
