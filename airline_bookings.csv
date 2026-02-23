@@ -1,0 +1,1801 @@
+booking_id,airline,flight_type,lead_time,departure_month,weekend_departure,num_passengers,fare_type,special_requests,previous_cancellations,payment_type,ticket_price,loyalty_member,seat_selection,travel_insurance,weather_risk_score,is_canceled
+10000,Alaska,Domestic,32,Mar,1,3.0,First,0,2,,280.27,No,Paid,No,0.0,0
+10001,JetBlue,International,157,Jan,0,4.0,Business,1,1,Credit Card,436.8,NO,Paid,Yes,1.0,0
+10002,Southwest,Domestic,208,Mar,0,,Economy,0,1,Credit Card,536.45,No,Free,No,3.0,1
+10003,JetBlue,Domestic,125,Dec,0,3.0,Economy,1,2,Credit Card,281.36,No,Free,Yes,0.0,1
+10004,JetBlue,International,234,Mar,0,5.0,Economy,2,0,Credit Card,513.42,Yes,Paid,No,10.0,1
+10005,United,Domestic,159,May,0,3.0,Economy,0,0,Credit Card,337.59,No,Free,No,,1
+10006,Southwest,Domestic,169,Nov,1,2.0,Economy,0,1,Debit Card,430.09,No,Free,Yes,4.0,1
+10007,Southwest,International,205,Dec,0,3.0,Economy,4,0,Credit Card,111.49,Yes,Paid,Yes,6.0,1
+10008,Southwest,Domestic,121,Dec,1,2.0,Economy,2,0,Debit Card,135.49,Y,Paid,No,5.0,0
+10009,JetBlue,Domestic,137,Apr,0,5.0,Economy,4,0,Debit Card,474.81,no,Paid,No,2.0,0
+10010,Alaska,Domestic,238,Apr,1,,Economy,1,2,Credit Card,398.49,Yes,Free,Yes,4.0,0
+10011,Southwest,Domestic,114,Sep,0,6.0,Economy,1,0,Credit Card,416.51,Yes,Free,Yes,2.0,0
+10012,JetBlue,Domestic,163,Jul,0,2.0,Economy,2,0,Debit Card,208.97,Yes,Paid,No,8.0,1
+10013,United,Domestic,161,Apr,0,4.0,Economy,1,0,Debit Card,300.89,No,Paid,No,1.0,1
+10014,Alaska,Domestic,200,Mar,0,4.0,Economy,2,1,Debit Card,125.89,Yes,Free,No,5.0,1
+10015,United,Domestic,233,Jun,0,2.0,Economy,1,0,Debit Card,241.36,Yes,Free,No,8.0,1
+10016,Alaska,International,27,Mar,1,5.0,Economy,3,2,Credit Card,356.8,Yes,Free,No,9.0,0
+10017,JetBlue,International,10,Jun,0,1.0,Business,0,0,Debit Card,405.9,No,Paid,Yes,6.0,0
+10018,Delta,Domestic,205,Nov,1,4.0,Economy,3,0,Credit Card,260.19,No,Free,No,4.0,1
+10019,Alaska,Domestic,166,Nov,1,4.0,Economy,2,2,PayPal,437.3,No,Free,No,1.0,0
+10020,United,International,46,Dec,1,5.0,Economy,2,0,Debit Card,354.64,No,Paid,Yes,1.0,1
+10021,JetBlue,Domestic,126,Sep,0,5.0,Economy,3,3,Credit Card,328.37,,Free,No,3.0,1
+10022,Alaska,Domestic,146,Jun,0,3.0,Economy,0,0,Credit Card,371.71,Yes,Paid,No,9.0,0
+10023,Delta,International,117,Dec,1,5.0,First,0,0,PayPal,653.95,No,Paid,No,1.0,0
+10024,Delta,Domestic,142,Apr,1,4.0,Business,4,0,Credit Card,337.46,No,Free,No,7.0,1
+10025,Southwest,Domestic,125,May,0,2.0,First,1,1,Credit Card,493.31,No,Paid,YES,9.0,0
+10026,Southwest,International,155,Jun,0,1.0,Business,4,0,Debit Card,436.48,No,Free,No,6.0,1
+10027,United,Domestic,151,Nov,0,3.0,Economy,0,1,Debit Card,325.26,No,Paid,No,6.0,0
+10028,Alaska,Domestic,71,Mar,0,2.0,Economy,3,1,Credit Card,142.96,Yes,Free,,2.0,0
+10029,Alaska,Domestic,106,Aug,1,1.0,Economy,1,1,Credit Card,272.19,,Paid,No,6.0,0
+10030,Southwest,International,136,Apr,0,1.0,Economy,3,1,PayPal,370.69,No,Free,No,,1
+10031,Alaska,International,174,Aug,0,1.0,Economy,4,0,PayPal,345.33,No,Paid,No,4.0,1
+10032,Alaska,International,32,Oct,0,6.0,Business,2,1,Debit Card,541.53,Yes,Paid,Yes,0.0,0
+10033,Delta,Domestic,189,Oct,0,2.0,Economy,3,0,PayPal,257.31,No,Free,Yes,0.0,1
+10034,Southwest,International,224,Mar,1,3.0,Economy,4,2,Credit Card,339.45,No,FREE,No,10.0,1
+10035,JetBlue,International,18,Oct,1,3.0,Business,4,0,Credit Card,435.09,Yes,Paid,YES,3.0,0
+10036,Southwest,Domestic,194,Jul,0,1.0,Business,4,0,Credit Card,321.06,No,Paid,Yes,1.0,0
+10037,JetBlue,International,73,Nov,1,2.0,Economy,2,0,Credit Card,496.31,Yes,,Y,6.0,0
+10038,Delta,International,167,Dec,0,6.0,Business,2,1,Credit Card,207.74,NO,Paid,Y,2.0,1
+10039,United,Domestic,174,Sep,0,1.0,Business,2,0,Credit Card,147.23,No,Free,No,3.0,1
+10040,Alaska,Domestic,233,Apr,0,5.0,Economy,1,1,PayPal,319.9,Yes,Free,No,8.0,1
+10041,Delta,Domestic,192,Aug,0,3.0,Economy,2,1,Debit Card,350.05,No,paid,YES,1.0,0
+10042,Alaska,Domestic,156,Mar,0,4.0,Economy,2,0,Debit Card,390.53,No,Free,No,7.0,1
+10043,United,Domestic,177,Jul,0,1.0,Economy,2,1,Credit Card,379.38,Yes,Free,No,0.0,0
+10044,United,Domestic,97,Mar,1,5.0,Economy,3,0,Credit Card,302.82,No,paid,yes,2.0,0
+10045,Delta,International,140,Dec,0,3.0,First,2,0,Credit Card,148.88,Yes,Free,No,3.0,0
+10046,United,International,128,Jul,1,6.0,Business,1,0,Debit Card,343.38,No,Paid,No,5.0,0
+10047,JetBlue,International,161,Nov,0,2.0,Business,4,0,Credit Card,214.51,Yes,Free,no,0.0,1
+10048,United,Domestic,92,Oct,1,3.0,First,3,1,Credit Card,369.88,No,Paid,No,7.0,0
+10049,Alaska,Domestic,175,Oct,1,2.0,Business,0,0,Credit Card,204.88,NO,Paid,No,1.0,1
+10050,Alaska,Domestic,238,Nov,0,2.0,Economy,2,1,Debit Card,413.09,Y,Free,Yes,4.0,1
+10051,Alaska,Domestic,204,Nov,1,6.0,Economy,4,0,PayPal,593.51,No,Free,Yes,5.0,1
+10052,Alaska,International,47,Jun,0,6.0,Business,4,1,Debit Card,258.36,No,Paid,Yes,7.0,1
+10053,JetBlue,International,176,Feb,1,1.0,Economy,3,2,Credit Card,182.89,No,Paid,No,2.0,1
+10054,Southwest,Domestic,63,Nov,0,1.0,Economy,0,0,Credit Card,520.23,No,Free,Yes,8.0,0
+10055,Delta,International,60,Mar,1,3.0,Economy,1,1,Credit Card,607.38,No,Free,No,4.0,0
+10056,Alaska,International,156,Jun,1,6.0,Business,4,1,Credit Card,185.62,Yes,Paid,No,7.0,0
+10057,United,Domestic,38,Apr,0,5.0,Economy,4,0,Credit Card,347.19,Yes,Paid,No,3.0,0
+10058,Alaska,International,127,Jun,0,3.0,Business,4,0,Credit Card,428.15,yes,Free,No,8.0,0
+10059,United,Domestic,87,Jan,1,4.0,Economy,4,0,Credit Card,323.56,No,Free,YES,7.0,0
+10060,United,Domestic,25,Oct,0,2.0,Economy,3,0,Credit Card,114.77,No,PAID,No,4.0,0
+10061,Alaska,Domestic,16,Dec,0,2.0,Economy,0,2,Credit Card,167.79,Yes,FREE,No,2.0,0
+10062,JetBlue,Domestic,70,Jan,0,1.0,Business,4,0,Debit Card,182.51,No,Paid,No,0.0,0
+10063,United,Domestic,12,Mar,0,5.0,Economy,1,3,PayPal,214.39,Yes,Free,No,4.0,0
+10064,United,Domestic,68,Aug,1,6.0,Economy,1,1,PayPal,372.16,No,Free,No,4.0,1
+10065,Alaska,Domestic,25,Aug,0,6.0,Economy,2,0,Credit Card,513.68,YES,Paid,No,3.0,0
+10066,United,Domestic,48,Nov,0,1.0,Economy,4,1,Credit Card,169.96,Yes,FREE,No,9.0,1
+10067,United,Domestic,194,Apr,1,4.0,Economy,4,0,PayPal,249.97,No,Paid,No,9.0,1
+10068,Alaska,Domestic,6,Jun,1,3.0,Economy,4,1,Credit Card,204.61,No,Paid,No,7.0,0
+10069,Alaska,Domestic,57,Aug,0,3.0,Economy,4,2,PayPal,400.38,Yes,Free,No,2.0,0
+10070,Delta,Domestic,48,Jul,0,5.0,Economy,4,0,Debit Card,244.93,,Free,yes,9.0,1
+10071,JetBlue,Domestic,102,Nov,1,1.0,Business,1,1,PayPal,218.5,No,Free,No,8.0,1
+10072,JetBlue,Domestic,52,Jul,1,1.0,Economy,0,2,PayPal,136.41,Yes,Free,Yes,2.0,0
+10073,United,Domestic,192,Apr,0,4.0,Economy,0,0,Debit Card,550.36,No,Paid,Yes,3.0,0
+10074,JetBlue,Domestic,61,Sep,0,3.0,Business,2,1,,666.54,yes,Free,No,5.0,0
+10075,United,International,16,Dec,0,1.0,Economy,1,0,Credit Card,371.78,No,Free,No,8.0,0
+10076,Delta,Domestic,170,Oct,0,6.0,Economy,4,2,Credit Card,567.98,No,Paid,No,9.0,1
+10077,Alaska,Domestic,24,Jun,0,5.0,Economy,0,0,Credit Card,280.63,,Free,No,1.0,0
+10078,Alaska,International,130,Dec,1,3.0,Economy,3,1,Credit Card,359.87,Yes,Free,Yes,1.0,1
+10079,Alaska,International,206,Nov,0,4.0,Economy,3,2,,451.18,Yes,Free,No,1.0,1
+10080,JetBlue,International,28,Mar,1,5.0,First,3,2,Credit Card,254.75,No,Free,No,4.0,0
+10081,Delta,International,116,May,0,2.0,Economy,4,0,PayPal,337.68,Yes,Free,Yes,5.0,1
+10082,JetBlue,Domestic,234,May,1,6.0,Economy,4,1,Credit Card,320.4,No,Paid,No,2.0,0
+10083,JetBlue,Domestic,159,May,1,4.0,Economy,2,0,Credit Card,421.28,YES,Free,,2.0,0
+10084,Delta,Domestic,25,Aug,0,5.0,Business,2,0,Credit Card,368.69,No,Free,No,1.0,0
+10085,Delta,Domestic,123,Sep,0,1.0,Economy,2,0,Credit Card,258.16,No,Paid,,10.0,0
+10086,Delta,Domestic,143,Sep,0,2.0,Business,3,0,Credit Card,317.88,No,Free,No,5.0,1
+10087,Delta,Domestic,24,Jun,1,4.0,Business,4,0,PayPal,516.06,YES,Free,No,,0
+10088,Alaska,Domestic,53,Jun,1,1.0,Business,3,2,,436.84,No,Paid,No,8.0,0
+10089,Southwest,International,155,Sep,0,6.0,Business,2,0,Credit Card,424.66,N,Free,No,10.0,1
+10090,Southwest,International,72,Apr,0,2.0,Economy,4,1,Credit Card,675.84,No,Free,No,9.0,0
+10091,Delta,Domestic,119,Jun,0,3.0,Business,1,1,Credit Card,201.67,yes,Free,no,3.0,1
+10092,Southwest,International,55,Apr,1,1.0,Economy,0,0,PayPal,459.37,No,Free,Yes,1.0,0
+10093,Southwest,Domestic,64,Nov,0,5.0,Business,0,2,Credit Card,367.67,No,Paid,No,,1
+10094,Delta,International,92,Jan,0,4.0,Economy,2,1,Credit Card,408.13,No,Free,No,4.0,0
+10095,Southwest,Domestic,85,Jul,0,,Business,3,1,Credit Card,385.52,No,Paid,yes,2.0,0
+10096,JetBlue,International,79,Oct,0,1.0,Economy,1,2,PayPal,261.79,No,Free,no,2.0,1
+10097,United,Domestic,168,Nov,1,3.0,Economy,4,0,Credit Card,215.09,No,Free,No,4.0,1
+10098,United,Domestic,107,Dec,0,4.0,First,3,0,PayPal,359.98,Yes,Paid,No,3.0,0
+10099,Delta,Domestic,178,Jun,1,4.0,Economy,2,2,Credit Card,250.5,No,Paid,No,4.0,1
+10100,Alaska,Domestic,117,Sep,0,1.0,Economy,3,0,Debit Card,308.26,No,FREE,No,1.0,1
+10101,Delta,Domestic,232,Jul,0,3.0,Economy,2,0,Debit Card,471.74,No,Paid,No,10.0,0
+10102,Alaska,Domestic,198,Jul,1,6.0,First,0,1,Credit Card,188.24,Yes,Paid,No,0.0,0
+10103,United,Domestic,205,Feb,1,6.0,Economy,0,1,Credit Card,333.16,Yes,Free,,4.0,1
+10104,Delta,Domestic,156,Dec,1,2.0,Economy,3,1,Credit Card,507.63,No,Free,No,10.0,1
+10105,JetBlue,Domestic,82,Nov,0,1.0,Economy,1,1,Credit Card,289.0,No,Free,No,0.0,0
+10106,Southwest,International,146,Sep,0,2.0,Economy,4,0,PayPal,565.72,Yes,paid,Yes,2.0,0
+10107,Alaska,Domestic,193,Oct,1,6.0,Business,2,0,Credit Card,142.89,Yes,Free,Yes,7.0,1
+10108,Southwest,Domestic,168,Sep,0,4.0,Business,4,1,Debit Card,614.71,Yes,Paid,No,10.0,1
+10109,Southwest,Domestic,172,Jun,0,2.0,Economy,0,0,Credit Card,362.52,No,Free,No,7.0,0
+10110,Delta,International,14,Mar,1,3.0,Economy,1,0,Credit Card,173.99,No,Free,No,8.0,0
+10111,Southwest,Domestic,130,Jan,1,5.0,Business,1,1,Debit Card,476.64,Yes,Paid,No,0.0,0
+10112,JetBlue,International,138,Apr,1,6.0,Economy,4,0,Credit Card,420.32,Yes,Free,Y,3.0,0
+10113,Southwest,International,180,Mar,1,6.0,Economy,0,1,Credit Card,553.5,No,Free,No,5.0,1
+10114,Delta,Domestic,173,Dec,1,3.0,Economy,4,0,Credit Card,144.95,Yes,Free,Yes,6.0,0
+10115,JetBlue,Domestic,29,Jan,0,2.0,Economy,3,0,Credit Card,206.54,No,Free,no,4.0,1
+10116,United,International,56,Mar,0,1.0,Economy,1,1,,467.81,No,Free,YES,6.0,1
+10117,Southwest,International,231,Apr,0,4.0,Economy,1,1,,716.94,No,Paid,No,10.0,1
+10118,Delta,Domestic,145,Aug,0,5.0,Economy,3,3,Credit Card,440.53,No,Paid,No,9.0,1
+10119,United,Domestic,178,Sep,0,1.0,Economy,0,1,Debit Card,462.21,No,Free,Yes,7.0,1
+10120,United,International,127,Mar,0,1.0,Business,1,0,Credit Card,253.42,Yes,Paid,No,9.0,1
+10121,Alaska,Domestic,47,Jun,0,3.0,Economy,2,0,Credit Card,334.54,No,Paid,Yes,5.0,1
+10122,JetBlue,International,193,Oct,0,2.0,Business,2,1,Credit Card,273.22,,Free,No,10.0,1
+10123,Southwest,Domestic,223,Nov,0,6.0,Economy,0,0,PayPal,430.33,YES,Free,YES,3.0,0
+10124,Delta,Domestic,135,May,0,6.0,Business,3,0,PayPal,21.35,Yes,Paid,No,0.0,0
+10125,Alaska,International,21,Jun,0,3.0,Business,4,0,Debit Card,386.0,No,Paid,No,10.0,0
+10126,JetBlue,Domestic,5,Apr,1,,First,0,1,Credit Card,471.36,Yes,Free,No,4.0,0
+10127,Alaska,Domestic,203,Oct,0,3.0,Business,4,3,Debit Card,355.98,Yes,free,Yes,9.0,1
+10128,JetBlue,Domestic,238,Jun,0,6.0,Economy,0,0,Credit Card,545.45,,Paid,No,9.0,1
+10129,JetBlue,Domestic,184,Jul,1,1.0,Economy,2,3,Credit Card,239.38,No,Free,No,9.0,1
+10130,Southwest,Domestic,103,Sep,0,4.0,Economy,3,1,PayPal,558.23,No,Free,Yes,3.0,0
+10131,JetBlue,Domestic,35,Oct,0,2.0,Economy,2,0,Credit Card,259.74,Yes,Free,No,4.0,0
+10132,Alaska,Domestic,78,Jul,0,5.0,Economy,3,1,Credit Card,362.29,Yes,Paid,No,3.0,1
+10133,JetBlue,International,219,Jun,0,5.0,Business,4,1,PayPal,192.8,No,FREE,No,8.0,1
+10134,Southwest,Domestic,115,Jan,1,1.0,Economy,0,2,Debit Card,430.84,Yes,Free,No,2.0,1
+10135,Southwest,Domestic,56,Feb,0,3.0,Economy,1,2,Credit Card,378.41,No,FREE,No,2.0,0
+10136,Alaska,Domestic,48,Jan,1,3.0,Business,1,1,Credit Card,463.41,No,Paid,Y,9.0,1
+10137,United,International,172,Sep,0,6.0,Economy,3,0,Credit Card,117.27,No,Free,Yes,6.0,1
+10138,United,International,81,Oct,0,1.0,Economy,3,0,Credit Card,378.74,No,Free,N,1.0,1
+10139,JetBlue,Domestic,65,Oct,0,6.0,Business,2,0,Credit Card,416.49,No,Free,No,8.0,0
+10140,Delta,Domestic,76,Sep,0,6.0,Economy,1,0,Credit Card,221.6,No,Paid,Yes,7.0,0
+10141,JetBlue,Domestic,44,Jul,0,5.0,Economy,2,0,PayPal,434.62,Yes,Free,Yes,5.0,1
+10142,Alaska,International,78,Feb,0,6.0,First,4,1,Credit Card,40.0,Yes,Free,,8.0,0
+10143,Alaska,International,19,Jun,0,6.0,Business,1,0,Credit Card,342.12,no,Free,No,10.0,0
+10144,Alaska,Domestic,191,Nov,0,5.0,Business,4,0,Credit Card,557.75,Yes,Paid,No,,0
+10145,Alaska,International,220,Apr,0,3.0,Economy,0,1,Credit Card,340.91,Yes,Paid,Yes,3.0,1
+10146,Alaska,International,122,Jan,1,2.0,Business,2,0,Credit Card,259.33,,Paid,No,6.0,0
+10147,Southwest,Domestic,233,Jan,0,4.0,Economy,3,0,PayPal,350.95,No,Paid,No,0.0,1
+10148,United,Domestic,220,Dec,0,6.0,Economy,1,3,PayPal,373.87,No,Free,No,0.0,1
+10149,Alaska,Domestic,66,May,0,2.0,Economy,2,1,Credit Card,485.49,No,paid,No,0.0,0
+10150,Delta,Domestic,82,Dec,0,5.0,Economy,3,0,PayPal,378.18,Yes,free,Yes,7.0,1
+10151,Delta,International,2,Feb,1,2.0,Economy,0,0,Credit Card,466.68,No,Paid,No,5.0,0
+10152,Delta,Domestic,181,Apr,0,4.0,Economy,1,0,Debit Card,372.89,Yes,Free,No,2.0,0
+10153,Delta,Domestic,205,Jan,1,2.0,Economy,4,1,Credit Card,255.1,No,Free,No,9.0,1
+10154,Southwest,Domestic,63,Apr,0,2.0,Economy,0,0,PayPal,163.74,No,Free,Yes,6.0,0
+10155,Delta,Domestic,39,Nov,1,2.0,Business,3,0,Credit Card,412.04,No,Free,No,5.0,1
+10156,Alaska,Domestic,58,Jun,0,2.0,Economy,1,1,Credit Card,40.0,No,Paid,No,4.0,0
+10157,JetBlue,Domestic,182,Oct,1,1.0,Economy,1,1,Debit Card,112.87,No,PAID,Yes,2.0,1
+10158,Delta,Domestic,61,Apr,0,6.0,Economy,0,0,Credit Card,164.28,No,Paid,No,3.0,1
+10159,Southwest,Domestic,131,Jan,0,5.0,Economy,1,0,Credit Card,460.05,Yes,Paid,No,10.0,1
+10160,Southwest,Domestic,59,Jul,0,4.0,Economy,3,0,Credit Card,151.43,NO,Free,No,10.0,0
+10161,Delta,Domestic,115,Feb,0,5.0,Economy,0,3,Debit Card,425.82,yes,Free,Yes,0.0,1
+10162,JetBlue,Domestic,74,Sep,1,1.0,Economy,4,0,Credit Card,215.52,No,Paid,No,8.0,0
+10163,Delta,Domestic,121,Mar,0,1.0,First,0,0,Credit Card,339.49,No,Paid,Yes,4.0,1
+10164,Southwest,Domestic,222,Aug,0,1.0,Economy,0,2,PayPal,351.24,No,Free,Yes,1.0,1
+10165,United,Domestic,106,Aug,0,6.0,Economy,4,1,Credit Card,337.4,Yes,Free,No,10.0,1
+10166,Alaska,Domestic,95,Mar,0,1.0,Economy,3,0,Credit Card,269.47,Yes,Paid,Y,8.0,1
+10167,Southwest,Domestic,90,Apr,0,2.0,Economy,2,0,Debit Card,140.71,,Free,Yes,6.0,0
+10168,Delta,International,157,Feb,1,5.0,Economy,2,1,Debit Card,363.76,No,Free,No,7.0,1
+10169,Alaska,Domestic,234,Apr,0,3.0,Economy,4,1,PayPal,438.07,Yes,Paid,Yes,2.0,1
+10170,Delta,Domestic,129,Nov,1,4.0,Economy,3,0,Credit Card,455.09,No,,No,6.0,0
+10171,Delta,International,61,Nov,0,1.0,First,1,0,Credit Card,371.45,No,FREE,Yes,10.0,1
+10172,United,Domestic,48,Nov,0,5.0,Business,4,0,PayPal,396.06,No,,No,0.0,1
+10173,Alaska,Domestic,136,Sep,1,1.0,Economy,2,1,Debit Card,252.04,Yes,Paid,No,5.0,1
+10174,Alaska,International,91,Feb,1,6.0,Business,3,0,Debit Card,422.93,No,Free,No,9.0,1
+10175,United,International,158,Dec,0,1.0,Economy,0,1,Credit Card,417.77,No,Free,No,5.0,0
+10176,Southwest,Domestic,123,Dec,0,1.0,Business,3,0,Credit Card,318.31,N,Paid,No,10.0,0
+10177,Delta,Domestic,225,Mar,0,1.0,Economy,3,2,Credit Card,366.73,Yes,Paid,No,9.0,1
+10178,JetBlue,Domestic,60,Nov,0,1.0,Economy,2,0,PayPal,356.25,yes,paid,Yes,5.0,0
+10179,Delta,Domestic,206,Nov,1,4.0,Business,2,0,Credit Card,423.92,Yes,Paid,Yes,2.0,0
+10180,Delta,Domestic,47,Apr,0,5.0,Business,1,1,Credit Card,143.86,No,Free,No,5.0,0
+10181,Southwest,Domestic,152,May,0,6.0,Business,1,3,Debit Card,141.08,Yes,Paid,Yes,2.0,1
+10182,Delta,Domestic,163,Jan,1,1.0,Economy,4,0,Credit Card,148.35,No,Paid,No,9.0,1
+10183,United,Domestic,135,Jul,1,1.0,First,0,0,Credit Card,297.73,Yes,Free,,8.0,0
+10184,United,International,200,Oct,0,1.0,First,1,1,Debit Card,423.74,Yes,paid,No,6.0,1
+10185,Alaska,Domestic,57,Jul,0,1.0,Economy,2,0,Credit Card,45.56,Yes,,No,3.0,1
+10186,JetBlue,Domestic,100,Sep,0,2.0,Economy,3,0,Credit Card,373.16,No,Paid,Yes,2.0,0
+10187,Delta,Domestic,111,Apr,1,2.0,Economy,4,0,Credit Card,527.13,No,Free,Yes,5.0,1
+10188,Delta,Domestic,172,Jun,1,3.0,First,1,0,Debit Card,398.24,No,Free,Y,8.0,1
+10189,Southwest,Domestic,61,Nov,0,1.0,Economy,3,0,PayPal,77.36,No,Free,Yes,2.0,0
+10190,United,International,38,Feb,0,3.0,Economy,3,1,Debit Card,432.95,Yes,Free,No,7.0,0
+10191,JetBlue,Domestic,223,Dec,0,4.0,Economy,1,0,Debit Card,393.92,No,free,No,5.0,1
+10192,Alaska,Domestic,57,Dec,1,3.0,Economy,0,2,Credit Card,312.03,No,Free,No,3.0,0
+10193,United,Domestic,208,Apr,0,5.0,Economy,0,0,Debit Card,385.45,yes,Paid,No,4.0,0
+10194,Alaska,Domestic,98,Feb,1,2.0,Economy,4,1,PayPal,164.58,Yes,Free,Yes,2.0,0
+10195,Southwest,Domestic,228,Oct,1,2.0,First,0,0,Credit Card,367.14,NO,Free,Yes,1.0,1
+10196,Southwest,Domestic,210,May,0,1.0,Economy,4,0,Credit Card,427.0,Yes,Paid,No,8.0,1
+10197,Delta,International,191,Jul,0,1.0,Business,2,0,PayPal,262.99,Yes,Free,Yes,2.0,0
+10198,JetBlue,Domestic,43,Jan,0,4.0,Economy,1,1,,294.08,Yes,Paid,No,5.0,0
+10199,Alaska,Domestic,28,Oct,0,6.0,Economy,3,1,Credit Card,280.53,Yes,paid,,4.0,0
+10200,United,Domestic,58,Oct,0,4.0,Economy,4,0,PayPal,293.46,No,Free,YES,9.0,0
+10201,Southwest,Domestic,70,Jul,0,5.0,Economy,0,1,Credit Card,243.78,,Paid,No,10.0,1
+10202,Delta,International,91,Oct,1,1.0,Economy,4,0,Credit Card,252.11,No,Free,Yes,7.0,0
+10203,Delta,Domestic,8,Jun,1,1.0,First,4,2,Debit Card,432.25,Yes,Paid,no,4.0,0
+10204,Alaska,International,126,Jun,0,4.0,Economy,0,1,Credit Card,116.02,Yes,Free,NO,10.0,1
+10205,Southwest,Domestic,219,Dec,0,4.0,Economy,0,0,Debit Card,385.62,No,Free,Yes,7.0,1
+10206,JetBlue,Domestic,133,Aug,0,4.0,Economy,1,0,Credit Card,431.98,No,Paid,No,,0
+10207,Southwest,Domestic,156,Aug,1,2.0,Economy,3,2,Credit Card,170.62,Yes,Free,Yes,4.0,1
+10208,Alaska,International,185,Jun,1,3.0,First,1,0,Credit Card,349.28,No,Paid,No,10.0,1
+10209,Alaska,Domestic,144,Mar,0,3.0,Economy,1,0,Credit Card,231.68,Yes,Free,No,9.0,1
+10210,Southwest,Domestic,143,May,0,1.0,Economy,0,1,Credit Card,519.09,No,Free,Yes,5.0,0
+10211,Alaska,International,214,Feb,0,2.0,Economy,0,0,PayPal,331.21,Yes,Free,Yes,4.0,0
+10212,Southwest,Domestic,222,May,0,4.0,Economy,3,2,Credit Card,566.24,Yes,Free,no,1.0,0
+10213,United,Domestic,130,Sep,0,1.0,Economy,4,0,Credit Card,545.12,Yes,Paid,Yes,9.0,1
+10214,Southwest,Domestic,20,Oct,1,2.0,Economy,1,0,Credit Card,403.03,Yes,Paid,Yes,9.0,0
+10215,Southwest,International,63,Jan,1,5.0,Economy,3,2,Debit Card,659.98,Yes,Free,Yes,5.0,0
+10216,Alaska,Domestic,89,Oct,0,,Economy,1,0,Credit Card,139.57,No,Paid,NO,6.0,0
+10217,Alaska,International,35,May,1,2.0,Economy,4,0,Credit Card,562.36,no,Free,NO,2.0,1
+10218,Delta,International,233,Dec,1,1.0,Business,1,2,Credit Card,322.47,Yes,Free,No,2.0,1
+10219,Delta,Domestic,228,Jun,0,3.0,Economy,2,0,Credit Card,342.26,Yes,Free,No,6.0,1
+10220,United,Domestic,213,Nov,0,4.0,Business,3,0,Credit Card,295.43,No,Paid,Yes,10.0,1
+10221,Delta,Domestic,61,Jul,1,6.0,Business,0,2,Debit Card,156.99,No,Paid,yes,9.0,0
+10222,Southwest,Domestic,169,Sep,0,5.0,Economy,1,0,,439.74,No,Paid,No,3.0,1
+10223,Alaska,International,75,Jun,1,6.0,Economy,3,0,Credit Card,186.3,No,Paid,No,1.0,0
+10224,Delta,International,169,May,1,6.0,Economy,3,0,PayPal,277.26,Yes,Paid,No,8.0,1
+10225,Delta,Domestic,188,Dec,1,2.0,Business,1,1,PayPal,283.46,Yes,,Yes,8.0,1
+10226,United,Domestic,12,Jul,1,1.0,Economy,0,1,PayPal,499.38,No,Paid,No,5.0,0
+10227,United,Domestic,10,Jan,1,1.0,Economy,0,2,PayPal,349.69,No,Free,No,1.0,0
+10228,Southwest,Domestic,53,Nov,1,6.0,Economy,1,1,,40.0,No,Free,No,2.0,0
+10229,Alaska,Domestic,15,May,0,4.0,Business,3,0,Debit Card,234.13,No,Free,No,4.0,0
+10230,United,Domestic,7,Feb,0,1.0,Economy,0,0,Credit Card,141.3,,Paid,No,10.0,0
+10231,Delta,Domestic,103,Apr,0,6.0,Economy,1,2,Credit Card,430.35,No,Free,No,10.0,1
+10232,Alaska,Domestic,58,Jul,1,1.0,Economy,1,1,PayPal,194.4,Yes,Paid,No,4.0,1
+10233,Alaska,Domestic,56,May,0,4.0,Economy,1,1,Credit Card,275.18,Yes,free,Yes,8.0,1
+10234,Delta,Domestic,39,Dec,0,5.0,Economy,3,0,Credit Card,605.05,No,Free,Yes,9.0,1
+10235,United,Domestic,236,Jun,0,6.0,Business,0,1,Credit Card,449.15,Yes,Free,yes,2.0,1
+10236,Delta,International,186,Feb,1,3.0,Business,3,0,Debit Card,196.96,No,Paid,Yes,1.0,1
+10237,Alaska,Domestic,129,Mar,1,3.0,Business,2,1,Debit Card,475.51,No,Paid,N,9.0,1
+10238,JetBlue,International,93,Jul,1,,Economy,0,1,Credit Card,259.5,no,Paid,No,7.0,1
+10239,JetBlue,International,221,Nov,0,2.0,Economy,3,1,Credit Card,475.16,Yes,Free,No,6.0,1
+10240,Southwest,Domestic,203,Feb,1,5.0,Economy,0,0,Debit Card,302.27,N,Free,No,8.0,0
+10241,Delta,International,137,Dec,1,2.0,Economy,2,0,Credit Card,225.6,No,Paid,No,2.0,1
+10242,Delta,Domestic,43,Jun,0,3.0,Economy,4,2,Credit Card,212.51,No,Paid,No,5.0,0
+10243,Southwest,Domestic,138,May,0,4.0,Economy,1,0,Credit Card,400.27,Yes,Free,,4.0,0
+10244,Southwest,Domestic,206,Oct,0,6.0,Economy,3,1,PayPal,487.82,Yes,Paid,No,4.0,1
+10245,Southwest,Domestic,79,Jan,1,1.0,Economy,2,1,Credit Card,412.14,No,Free,No,9.0,0
+10246,Alaska,Domestic,80,Dec,0,3.0,Economy,2,1,Credit Card,299.43,Yes,Paid,No,7.0,0
+10247,Delta,Domestic,217,Nov,0,5.0,Business,0,2,Debit Card,108.37,No,Paid,No,0.0,1
+10248,Alaska,Domestic,1,Oct,1,3.0,Economy,0,0,Credit Card,270.49,No,Free,No,0.0,0
+10249,Southwest,Domestic,177,Nov,0,5.0,First,1,1,Credit Card,184.72,Yes,Free,No,2.0,0
+10250,Delta,Domestic,139,Apr,0,5.0,Business,0,2,Credit Card,551.6,No,Paid,No,10.0,1
+10251,Alaska,International,114,Nov,1,6.0,Economy,3,0,PayPal,304.21,Yes,Paid,No,1.0,0
+10252,Alaska,Domestic,89,Feb,0,5.0,Economy,3,0,Credit Card,402.05,,FREE,no,1.0,0
+10253,Southwest,Domestic,22,Apr,1,2.0,Economy,3,0,Debit Card,311.89,Yes,Free,No,1.0,1
+10254,Delta,International,145,Jan,0,4.0,Business,4,0,PayPal,420.16,N,Free,No,3.0,0
+10255,Southwest,Domestic,61,Feb,0,3.0,Economy,3,1,Debit Card,460.54,Yes,Free,No,0.0,0
+10256,Delta,Domestic,223,Aug,1,4.0,First,0,0,Debit Card,685.98,,Paid,No,9.0,0
+10257,JetBlue,Domestic,112,Jun,0,1.0,Economy,0,0,Debit Card,296.17,Yes,Free,No,8.0,0
+10258,United,Domestic,127,Feb,0,3.0,Business,3,0,PayPal,506.03,Yes,PAID,No,4.0,1
+10259,United,International,61,Dec,1,4.0,Business,2,0,PayPal,398.91,No,Paid,No,4.0,0
+10260,United,Domestic,37,Jun,1,4.0,Economy,2,1,PayPal,279.06,Yes,Free,Yes,8.0,1
+10261,Southwest,International,238,Oct,1,6.0,Economy,2,1,Debit Card,289.06,NO,Paid,No,4.0,1
+10262,JetBlue,Domestic,194,Sep,1,6.0,Economy,1,1,Credit Card,425.93,No,Paid,Yes,10.0,1
+10263,Delta,Domestic,165,Jul,0,1.0,Economy,4,0,Credit Card,318.48,No,Paid,No,7.0,0
+10264,Alaska,Domestic,194,Sep,0,5.0,Economy,3,0,Credit Card,374.69,Yes,Free,Yes,10.0,1
+10265,Delta,Domestic,221,May,1,3.0,Business,1,0,PayPal,453.05,Yes,Free,No,0.0,0
+10266,Alaska,Domestic,60,Jul,0,6.0,Economy,2,2,PayPal,709.34,no,Paid,Yes,0.0,1
+10267,Delta,International,128,Nov,0,3.0,First,3,0,Credit Card,364.55,YES,Free,NO,3.0,0
+10268,JetBlue,International,221,Jul,0,1.0,Business,1,1,Credit Card,202.06,Yes,Free,,7.0,1
+10269,Alaska,Domestic,172,Dec,0,6.0,Economy,0,1,Credit Card,415.72,N,Free,No,2.0,0
+10270,Southwest,International,223,Dec,0,6.0,First,2,0,Credit Card,292.24,No,,Y,0.0,1
+10271,Delta,International,155,Mar,1,5.0,Economy,1,0,Debit Card,625.11,Yes,Paid,NO,10.0,1
+10272,Delta,Domestic,148,Jul,0,3.0,Business,0,1,Credit Card,290.4,No,,Yes,8.0,1
+10273,Alaska,Domestic,121,Jan,0,3.0,Economy,2,0,Credit Card,362.58,Yes,Free,Yes,8.0,0
+10274,Southwest,Domestic,109,Sep,1,3.0,Economy,4,0,Credit Card,447.21,No,Free,Yes,8.0,1
+10275,Southwest,Domestic,12,Oct,1,5.0,Economy,2,0,Credit Card,428.78,No,Free,No,8.0,1
+10276,JetBlue,Domestic,154,Jun,0,6.0,Economy,4,1,PayPal,554.63,Yes,Paid,,1.0,0
+10277,Southwest,Domestic,99,May,0,1.0,Economy,4,1,Credit Card,453.45,no,Paid,Yes,10.0,0
+10278,Southwest,International,134,Jul,1,3.0,Economy,4,2,PayPal,688.01,Y,Paid,No,10.0,1
+10279,Southwest,Domestic,21,May,1,4.0,Economy,3,0,Credit Card,422.93,No,Paid,Yes,10.0,0
+10280,United,Domestic,73,Oct,1,5.0,Business,3,1,Credit Card,541.87,no,Free,Yes,3.0,0
+10281,JetBlue,International,230,May,1,2.0,Economy,4,0,Debit Card,294.3,No,Free,No,1.0,0
+10282,Delta,International,180,Nov,1,1.0,Economy,0,0,Debit Card,636.48,No,Free,No,6.0,0
+10283,Alaska,Domestic,206,Oct,0,4.0,Economy,4,0,Credit Card,311.32,Yes,Free,Y,10.0,1
+10284,Delta,International,206,Nov,1,3.0,Business,1,0,Credit Card,568.04,Yes,Free,Yes,2.0,0
+10285,JetBlue,Domestic,131,Jul,0,,First,4,0,Credit Card,484.87,No,Paid,No,8.0,1
+10286,Alaska,Domestic,223,Oct,1,1.0,Economy,3,1,,369.33,yes,Free,Yes,6.0,1
+10287,JetBlue,Domestic,22,Jul,0,5.0,Economy,3,1,Credit Card,569.39,Y,Free,No,7.0,0
+10288,Southwest,Domestic,118,Nov,0,2.0,Economy,1,4,Credit Card,358.32,Y,Paid,,8.0,0
+10289,Alaska,Domestic,69,Mar,0,6.0,Economy,1,1,Debit Card,551.57,No,Free,No,7.0,0
+10290,Southwest,Domestic,215,Mar,0,2.0,Business,2,0,Credit Card,412.93,Yes,free,No,6.0,0
+10291,Delta,Domestic,83,Oct,0,4.0,Economy,0,1,Credit Card,307.19,Yes,Paid,No,8.0,0
+10292,Delta,Domestic,100,Dec,0,1.0,First,0,2,Credit Card,404.84,No,Paid,No,10.0,1
+10293,Alaska,Domestic,83,Mar,0,4.0,Economy,0,1,PayPal,364.77,No,Paid,No,0.0,1
+10294,Alaska,International,203,Jun,1,4.0,First,3,0,Credit Card,298.05,No,free,No,10.0,1
+10295,JetBlue,Domestic,160,Dec,0,3.0,Economy,0,0,PayPal,392.62,Yes,Paid,Y,3.0,0
+10296,JetBlue,Domestic,27,Jun,1,5.0,Business,2,0,Credit Card,416.52,No,Free,NO,3.0,0
+10297,Southwest,Domestic,135,Mar,1,2.0,Business,2,1,Debit Card,40.0,No,Free,Yes,4.0,1
+10298,Alaska,Domestic,0,Mar,1,1.0,First,0,0,Credit Card,430.19,No,Free,No,7.0,0
+10299,Delta,Domestic,164,Aug,0,6.0,Economy,1,1,Credit Card,463.75,Yes,Free,No,9.0,1
+10300,JetBlue,International,62,Aug,1,5.0,Economy,2,0,Debit Card,563.23,YES,Free,No,0.0,0
+10301,JetBlue,Domestic,21,Jul,0,5.0,Economy,1,0,Debit Card,186.96,Yes,Free,No,5.0,0
+10302,Delta,Domestic,69,Oct,0,1.0,Economy,3,2,Debit Card,217.55,Yes,,No,8.0,0
+10303,JetBlue,International,124,Apr,0,5.0,Economy,2,0,Debit Card,389.3,Yes,Free,Yes,9.0,1
+10304,Southwest,Domestic,148,Apr,0,3.0,Economy,1,1,Credit Card,260.19,YES,Paid,No,7.0,1
+10305,Alaska,Domestic,95,Mar,1,5.0,Economy,0,0,Credit Card,193.43,No,Paid,No,1.0,1
+10306,Delta,Domestic,162,May,0,3.0,Economy,3,1,Credit Card,302.12,Yes,Free,No,6.0,1
+10307,Alaska,Domestic,78,Mar,1,2.0,Economy,4,1,PayPal,309.63,No,Free,No,4.0,0
+10308,JetBlue,Domestic,4,Aug,1,2.0,Economy,4,0,Credit Card,217.81,No,Free,Yes,1.0,0
+10309,JetBlue,Domestic,59,Jul,0,4.0,Economy,0,0,PayPal,216.88,No,Free,No,10.0,0
+10310,Delta,Domestic,119,Mar,0,3.0,Economy,3,3,Credit Card,343.02,No,,No,0.0,0
+10311,Southwest,International,45,Sep,0,6.0,Economy,3,0,Debit Card,157.19,No,Paid,Yes,1.0,0
+10312,United,International,177,Dec,0,2.0,Economy,3,1,Credit Card,154.94,No,Free,No,10.0,0
+10313,Delta,International,175,May,0,5.0,Business,3,1,Credit Card,370.01,No,Free,No,9.0,0
+10314,United,Domestic,133,Sep,1,,First,4,0,Debit Card,570.79,,Paid,YES,5.0,0
+10315,United,Domestic,216,Jul,1,1.0,First,1,0,Credit Card,462.63,No,Paid,No,10.0,1
+10316,Southwest,Domestic,55,Jul,0,3.0,Business,3,2,PayPal,531.17,No,Paid,Yes,7.0,1
+10317,United,Domestic,109,Jun,0,6.0,Economy,1,0,Debit Card,107.29,No,PAID,Yes,2.0,0
+10318,United,Domestic,186,Feb,1,4.0,Economy,3,1,Credit Card,162.8,No,Paid,No,4.0,1
+10319,Southwest,Domestic,231,Sep,0,5.0,Economy,2,1,PayPal,361.49,Yes,Free,No,10.0,1
+10320,United,Domestic,156,Jun,1,3.0,Economy,2,0,Debit Card,3824.55,Yes,Paid,Yes,1.0,1
+10321,United,International,198,Aug,0,1.0,Economy,2,0,Debit Card,449.33,No,Paid,No,7.0,1
+10322,United,Domestic,103,Jan,0,3.0,Economy,3,0,Credit Card,171.82,Yes,Free,Yes,3.0,0
+10323,Delta,Domestic,76,May,1,5.0,Economy,1,0,Credit Card,519.0,No,Paid,No,10.0,0
+10324,Delta,Domestic,229,Dec,0,6.0,Economy,4,0,Debit Card,348.61,Yes,Paid,No,9.0,1
+10325,Delta,International,145,Jan,1,6.0,Business,0,0,PayPal,468.88,No,Paid,No,5.0,1
+10839,Southwest,Domestic,1,Oct,1,2.0,Economy,4,0,Credit Card,275.29,No,Free,Yes,2.0,0
+10327,JetBlue,International,7,Nov,0,5.0,Economy,3,1,Credit Card,143.88,Yes,Paid,No,10.0,1
+10328,United,Domestic,74,Aug,0,2.0,Economy,2,0,Debit Card,478.42,No,Free,Yes,,1
+10329,United,Domestic,224,Aug,1,2.0,Economy,2,0,Credit Card,425.75,No,Free,No,7.0,1
+10330,Southwest,Domestic,181,Jan,1,2.0,Economy,1,0,Debit Card,185.61,No,,N,2.0,1
+10331,United,International,124,Sep,0,3.0,Business,3,0,Debit Card,266.46,No,Paid,Yes,8.0,0
+10332,Delta,Domestic,37,Feb,1,1.0,Economy,4,1,Credit Card,456.05,Yes,Free,No,9.0,1
+10333,JetBlue,Domestic,175,Dec,0,6.0,Economy,3,1,PayPal,388.84,No,Free,Yes,4.0,1
+10334,Alaska,Domestic,26,Sep,0,3.0,Economy,3,1,,430.24,Yes,Paid,No,9.0,1
+10335,United,Domestic,19,Jan,1,1.0,Economy,2,2,Debit Card,286.59,Yes,Free,Yes,8.0,0
+10336,Delta,Domestic,139,Dec,0,6.0,Business,4,1,Credit Card,559.24,No,Free,No,6.0,1
+10337,Alaska,Domestic,42,Oct,1,5.0,Economy,0,1,Credit Card,344.44,No,Paid,No,9.0,0
+10338,JetBlue,Domestic,188,Sep,0,6.0,Business,2,0,PayPal,40.0,No,,No,2.0,1
+10339,Alaska,Domestic,30,Apr,0,6.0,Business,4,0,Credit Card,374.97,No,Paid,Yes,5.0,0
+10340,Delta,Domestic,90,Sep,0,6.0,Business,1,4,Credit Card,444.69,,paid,Yes,9.0,0
+10341,Alaska,Domestic,223,Jul,0,4.0,Economy,2,2,Credit Card,401.59,No,Paid,Yes,1.0,1
+10342,Southwest,Domestic,60,Nov,1,5.0,Economy,1,0,Credit Card,300.27,No,Free,Yes,5.0,0
+10343,Alaska,International,201,Jun,0,,Economy,2,3,Credit Card,86.48,YES,Free,Yes,4.0,1
+10344,United,Domestic,194,May,0,3.0,Economy,3,3,Credit Card,269.0,No,Paid,No,2.0,0
+10345,United,Domestic,108,Nov,0,1.0,Economy,4,0,PayPal,282.22,No,Free,No,6.0,0
+10346,Southwest,International,90,Sep,0,3.0,Business,1,1,Debit Card,267.71,Yes,Free,YES,10.0,1
+10347,Delta,Domestic,162,Feb,1,2.0,Business,2,1,Credit Card,445.67,No,Paid,YES,3.0,1
+10348,United,International,94,Nov,0,6.0,Business,1,0,Debit Card,313.32,No,Free,No,10.0,0
+10349,JetBlue,Domestic,142,Dec,0,3.0,Economy,2,0,Credit Card,553.43,Yes,Paid,No,5.0,1
+10350,United,International,143,Feb,0,1.0,Economy,2,1,Credit Card,328.42,No,FREE,No,8.0,1
+10351,United,Domestic,12,Nov,0,1.0,Economy,0,0,Credit Card,530.22,No,PAID,YES,5.0,0
+10352,Delta,Domestic,112,Dec,0,2.0,Business,0,0,Credit Card,390.03,No,Free,No,3.0,0
+10353,Alaska,Domestic,34,Sep,0,1.0,Business,0,0,PayPal,396.93,No,Paid,No,9.0,0
+10354,United,International,202,Dec,0,4.0,Economy,1,0,Credit Card,264.4,No,Paid,no,1.0,1
+10355,Southwest,International,186,Mar,1,6.0,Economy,3,0,Debit Card,170.91,No,Paid,No,8.0,1
+10356,Alaska,Domestic,148,Aug,1,6.0,Business,2,0,Credit Card,349.73,Yes,Free,No,3.0,0
+10357,JetBlue,Domestic,181,Nov,0,6.0,First,4,0,Credit Card,596.16,No,Free,No,3.0,0
+10358,Delta,International,202,Sep,0,5.0,Business,0,0,Debit Card,295.78,Yes,Free,No,1.0,0
+10359,JetBlue,Domestic,157,Aug,0,3.0,Economy,1,0,Debit Card,273.57,No,Free,No,4.0,1
+10360,Alaska,International,47,Apr,0,4.0,Economy,1,1,Credit Card,335.93,No,Free,No,5.0,0
+10361,Alaska,International,34,Dec,0,3.0,Economy,1,0,Credit Card,607.55,,Free,N,9.0,1
+10362,Alaska,Domestic,85,Jan,0,4.0,Economy,4,0,Credit Card,470.17,No,Free,Y,5.0,0
+10363,JetBlue,Domestic,165,Apr,0,3.0,Economy,4,0,PayPal,530.0,NO,Paid,No,2.0,0
+10364,Alaska,Domestic,158,Sep,0,2.0,Economy,0,0,Credit Card,82.75,Yes,Free,No,8.0,1
+10365,JetBlue,Domestic,205,Feb,0,1.0,Business,4,0,Credit Card,244.55,Yes,Free,Yes,6.0,1
+10366,Alaska,International,151,Mar,0,1.0,Economy,0,1,PayPal,249.41,No,Paid,No,2.0,0
+10367,Southwest,Domestic,113,Oct,0,2.0,First,4,0,Credit Card,519.05,Yes,Free,No,3.0,1
+10368,Alaska,International,176,Aug,0,4.0,Economy,4,1,Credit Card,452.38,No,Free,No,6.0,0
+10369,JetBlue,Domestic,223,Jun,0,5.0,Economy,4,1,Credit Card,507.82,No,Paid,No,10.0,0
+10370,United,International,99,Aug,0,4.0,Economy,0,1,Credit Card,97.42,No,Paid,No,7.0,0
+10371,Alaska,Domestic,159,Jul,0,1.0,Economy,2,1,Credit Card,515.45,Yes,Paid,No,5.0,1
+10372,United,Domestic,182,May,0,5.0,Economy,0,0,Credit Card,2076.42,No,Paid,YES,3.0,1
+10373,Southwest,Domestic,206,Sep,0,3.0,Economy,2,1,PayPal,230.63,Yes,Paid,No,1.0,1
+10374,Delta,International,234,Apr,0,5.0,Economy,1,1,Credit Card,332.43,No,Paid,,9.0,1
+10375,Southwest,Domestic,185,Jun,0,4.0,Economy,1,0,Credit Card,234.9,Yes,Paid,No,7.0,1
+10376,Alaska,International,98,Feb,0,2.0,Economy,0,0,Credit Card,346.47,No,Free,No,0.0,1
+10377,United,Domestic,2,Feb,1,3.0,Business,2,0,Debit Card,422.91,No,Paid,No,,0
+10378,United,Domestic,207,Feb,0,4.0,Economy,2,1,PayPal,556.59,No,FREE,Y,7.0,1
+10379,JetBlue,Domestic,196,Oct,0,3.0,Economy,2,1,Credit Card,228.48,Yes,Paid,Yes,2.0,0
+10380,United,Domestic,84,Jul,1,5.0,Business,1,0,Credit Card,294.31,NO,Paid,No,9.0,0
+10381,JetBlue,Domestic,124,Feb,0,1.0,Economy,0,2,Credit Card,205.59,No,Free,No,3.0,0
+10382,Delta,International,137,Dec,0,4.0,Business,3,0,Credit Card,467.32,Yes,Free,N,9.0,0
+10383,Alaska,International,82,Feb,1,2.0,Economy,2,1,Debit Card,139.42,yes,Free,No,3.0,1
+10384,JetBlue,International,24,Sep,1,5.0,Business,2,0,Credit Card,384.78,No,Free,yes,1.0,0
+10385,Delta,International,67,Jul,0,4.0,Economy,3,0,Credit Card,188.39,No,free,No,,0
+10386,United,Domestic,60,Nov,0,2.0,Business,0,1,Credit Card,366.41,No,Paid,No,9.0,0
+10387,United,Domestic,28,Mar,0,4.0,Business,2,1,,521.83,Yes,Paid,No,4.0,0
+10388,Delta,Domestic,126,Mar,0,5.0,Economy,0,2,Credit Card,288.42,No,paid,No,,0
+10389,United,International,18,Jul,0,4.0,Economy,2,0,Credit Card,390.92,Yes,Free,No,10.0,0
+10390,Delta,Domestic,170,May,0,3.0,Economy,4,2,PayPal,234.96,yes,Paid,Yes,0.0,0
+10391,JetBlue,Domestic,193,Oct,0,5.0,Business,2,2,Credit Card,344.26,Yes,free,No,1.0,0
+10392,JetBlue,Domestic,73,Jun,1,4.0,Economy,4,1,PayPal,141.89,No,free,No,10.0,1
+10393,Delta,Domestic,60,Dec,1,1.0,Business,0,1,Credit Card,459.08,No,Paid,No,6.0,1
+10394,JetBlue,International,170,Aug,0,4.0,Economy,2,1,Debit Card,301.84,No,Free,No,0.0,0
+10395,JetBlue,International,152,Sep,0,3.0,Business,1,0,Credit Card,330.76,Yes,Paid,No,1.0,0
+10396,JetBlue,Domestic,19,Jan,0,2.0,Economy,1,0,Debit Card,369.69,No,Free,Yes,9.0,0
+10397,Southwest,International,47,Mar,1,2.0,Economy,3,1,Credit Card,84.66,No,Paid,No,6.0,0
+10398,Alaska,Domestic,210,Nov,0,,Economy,1,2,Credit Card,263.09,Yes,Paid,No,0.0,0
+10399,United,Domestic,86,Jul,0,1.0,Economy,4,2,Debit Card,378.93,Yes,Free,No,6.0,0
+10400,Southwest,Domestic,151,Jun,0,3.0,Economy,1,0,Debit Card,337.61,No,Free,Yes,7.0,1
+10401,JetBlue,Domestic,138,Jul,0,5.0,Economy,1,1,Credit Card,16.61,No,Paid,No,10.0,1
+10402,Delta,Domestic,109,Aug,0,2.0,Economy,1,0,Credit Card,536.22,Yes,Free,,1.0,0
+10403,JetBlue,International,225,Jun,1,3.0,Business,2,0,Credit Card,379.54,No,Free,Yes,3.0,1
+10404,Alaska,Domestic,182,Mar,1,4.0,Business,3,0,Credit Card,216.85,Yes,Paid,YES,6.0,0
+10405,JetBlue,International,27,Feb,0,1.0,Economy,0,0,Credit Card,290.71,No,Free,No,0.0,0
+10406,Delta,Domestic,196,Dec,0,3.0,Economy,3,2,Credit Card,452.14,Yes,Paid,NO,5.0,0
+10407,Alaska,Domestic,190,Jul,0,3.0,Economy,4,0,Credit Card,370.73,Yes,Paid,No,4.0,0
+10408,JetBlue,Domestic,58,Dec,1,5.0,Economy,2,1,Credit Card,538.65,No,Free,Yes,10.0,0
+10409,Alaska,Domestic,132,Dec,1,3.0,Economy,2,3,Credit Card,369.62,No,Paid,No,5.0,1
+10410,United,Domestic,50,Dec,1,5.0,Economy,1,0,Debit Card,376.22,No,Free,No,7.0,1
+10411,United,International,148,Nov,1,1.0,Economy,1,0,PayPal,587.39,No,Free,No,10.0,0
+10412,JetBlue,Domestic,11,Jan,0,1.0,Business,4,0,Credit Card,206.48,No,Paid,Yes,10.0,0
+10413,Alaska,Domestic,49,Mar,0,4.0,Economy,2,0,PayPal,602.74,No,Free,No,0.0,0
+10414,Delta,Domestic,131,Dec,0,5.0,Business,0,4,Debit Card,467.75,No,Free,Yes,2.0,1
+10415,JetBlue,Domestic,112,Nov,1,5.0,Economy,3,1,PayPal,812.97,No,Free,Yes,10.0,1
+10416,United,Domestic,169,Apr,0,2.0,Economy,2,0,PayPal,261.8,No,Paid,No,8.0,0
+10417,United,Domestic,211,Jan,0,2.0,Economy,0,1,Debit Card,588.12,No,Paid,no,7.0,1
+10418,JetBlue,Domestic,165,May,1,4.0,Economy,0,1,Credit Card,378.74,Yes,paid,No,3.0,1
+10419,Alaska,Domestic,152,Oct,0,1.0,Economy,3,0,Credit Card,334.02,,Free,Yes,10.0,1
+10420,United,Domestic,13,Mar,0,6.0,Economy,0,0,Credit Card,402.69,Yes,Paid,No,9.0,1
+10421,Alaska,Domestic,202,Feb,1,2.0,Economy,4,0,PayPal,377.53,No,Free,No,8.0,1
+10422,United,Domestic,31,Mar,0,,Economy,0,0,PayPal,250.95,Yes,Free,No,6.0,0
+10423,United,Domestic,138,Aug,0,1.0,Economy,4,2,Debit Card,341.57,Yes,PAID,Yes,1.0,0
+10424,Southwest,International,188,Jun,1,6.0,First,0,1,PayPal,402.99,Yes,,Yes,0.0,0
+10425,United,Domestic,145,Jul,1,3.0,Economy,1,1,PayPal,300.48,No,PAID,Yes,0.0,1
+10426,Delta,Domestic,154,Dec,1,5.0,Economy,0,3,Credit Card,435.66,Yes,Paid,No,2.0,0
+10427,JetBlue,Domestic,54,Jun,0,1.0,Economy,4,1,Debit Card,318.58,No,Paid,No,9.0,0
+10428,JetBlue,International,181,Jun,0,4.0,Economy,0,0,Credit Card,424.17,No,Paid,No,,1
+10429,Alaska,Domestic,209,Dec,1,5.0,Economy,0,0,Credit Card,407.28,Y,,no,3.0,1
+10430,United,Domestic,119,Mar,0,5.0,Economy,0,2,Credit Card,423.19,,Free,No,7.0,1
+10431,Delta,International,214,Dec,0,3.0,Economy,4,0,Credit Card,171.18,Yes,Free,No,4.0,1
+10432,Alaska,Domestic,74,Aug,1,5.0,Economy,0,1,Debit Card,513.59,No,Paid,,4.0,1
+10433,Southwest,Domestic,20,Dec,0,2.0,Business,3,0,Credit Card,238.75,No,Free,Yes,5.0,1
+10434,Alaska,Domestic,171,Jul,0,1.0,Economy,3,0,PayPal,333.98,Yes,Free,Y,4.0,1
+10435,Alaska,Domestic,132,Jul,0,2.0,Economy,4,1,Credit Card,269.58,Yes,Paid,yes,4.0,0
+10436,United,International,86,Jun,0,3.0,Economy,1,1,Credit Card,369.99,No,Paid,No,6.0,0
+10437,Southwest,International,168,May,0,6.0,Economy,3,0,Debit Card,344.44,No,Paid,Yes,5.0,1
+10438,Alaska,Domestic,58,Oct,0,3.0,Business,2,0,Debit Card,451.17,Yes,Paid,Yes,9.0,1
+10439,Delta,Domestic,88,Aug,1,1.0,Economy,3,0,Credit Card,366.14,Yes,Free,No,10.0,0
+10440,Delta,Domestic,232,May,1,5.0,Economy,2,0,Credit Card,305.16,No,Free,Yes,1.0,1
+10441,JetBlue,Domestic,181,Sep,0,4.0,Economy,4,0,Credit Card,108.36,N,Free,No,0.0,0
+10442,Southwest,International,201,Sep,0,3.0,Economy,1,1,PayPal,483.81,No,Free,Yes,0.0,1
+10443,Southwest,Domestic,149,Jan,0,,Economy,2,4,Debit Card,432.46,No,Paid,Yes,3.0,1
+10444,JetBlue,Domestic,82,Jun,0,4.0,Economy,2,0,Credit Card,489.52,Yes,Free,Yes,1.0,0
+10445,Alaska,International,64,Jul,1,5.0,Economy,3,3,Credit Card,334.04,No,,Yes,5.0,0
+10446,Southwest,Domestic,63,Mar,1,6.0,Economy,2,1,PayPal,409.97,No,Paid,Yes,8.0,0
+10447,Delta,International,70,Jul,1,3.0,Economy,4,1,Debit Card,268.53,No,Free,No,9.0,0
+10448,Delta,Domestic,3,Nov,0,6.0,Economy,4,0,PayPal,255.73,No,Paid,No,10.0,0
+10449,United,International,192,Nov,0,1.0,Economy,4,1,,320.3,No,Paid,No,9.0,1
+10450,Southwest,Domestic,142,Jul,0,6.0,Business,3,0,PayPal,489.05,No,Free,Yes,7.0,0
+10451,Alaska,Domestic,103,Nov,0,6.0,Economy,1,2,Debit Card,321.53,Yes,Free,No,3.0,0
+10452,JetBlue,Domestic,203,Feb,0,1.0,Economy,3,0,Debit Card,352.43,,Paid,No,1.0,1
+10453,JetBlue,Domestic,149,Jul,1,1.0,Economy,4,1,Credit Card,393.94,No,Paid,YES,0.0,0
+10454,Alaska,International,213,Jan,0,3.0,Economy,3,1,PayPal,363.55,Yes,Free,No,6.0,1
+10455,United,International,174,May,1,6.0,Economy,4,0,Debit Card,502.01,No,Free,Yes,9.0,1
+10456,JetBlue,Domestic,208,Sep,0,4.0,First,0,1,PayPal,255.27,No,Paid,No,2.0,1
+10457,Southwest,Domestic,92,Jul,0,1.0,Economy,0,0,Credit Card,373.96,No,Free,Yes,,1
+10458,United,Domestic,173,Jul,0,5.0,Economy,2,0,Credit Card,426.39,Yes,paid,No,4.0,1
+10459,Southwest,Domestic,141,Nov,0,6.0,Economy,1,0,Credit Card,130.08,No,Free,No,4.0,1
+10460,Delta,Domestic,177,Dec,0,1.0,Economy,0,0,Credit Card,397.25,No,Free,No,1.0,1
+10461,United,International,147,Feb,1,4.0,Economy,4,1,Credit Card,547.88,No,Free,No,8.0,1
+10462,JetBlue,Domestic,177,Aug,1,,Business,3,0,Credit Card,310.93,No,Paid,No,10.0,1
+10463,United,Domestic,111,Mar,0,6.0,Economy,3,0,Credit Card,208.09,No,Paid,YES,3.0,0
+10464,United,Domestic,160,Aug,0,1.0,Economy,2,0,PayPal,425.38,No,paid,No,9.0,1
+10465,United,International,118,Mar,1,1.0,Economy,3,1,Credit Card,385.13,Yes,Free,No,0.0,1
+10466,United,International,58,Oct,1,5.0,Economy,0,0,Credit Card,573.14,No,Free,No,1.0,0
+10467,Southwest,International,42,Jul,1,5.0,Business,3,0,,421.27,Yes,Paid,No,8.0,0
+10468,Delta,Domestic,206,Feb,0,6.0,Economy,0,1,Credit Card,227.9,No,PAID,Yes,6.0,1
+10469,Alaska,Domestic,11,Apr,1,1.0,Economy,0,0,Debit Card,221.58,No,Paid,Y,9.0,0
+10470,United,International,39,Nov,0,6.0,Economy,1,0,Credit Card,480.37,Yes,Free,,1.0,0
+10471,JetBlue,Domestic,117,Jun,0,1.0,Business,2,0,Credit Card,409.97,No,Paid,No,6.0,1
+10472,United,Domestic,19,Nov,0,5.0,Business,4,0,Credit Card,351.85,No,Free,Yes,3.0,0
+10473,JetBlue,International,221,Sep,1,4.0,Economy,0,2,Credit Card,384.13,Yes,Paid,No,9.0,0
+10474,Southwest,International,165,May,0,2.0,Economy,2,0,PayPal,421.87,Yes,Free,Yes,1.0,0
+10475,JetBlue,Domestic,130,Sep,0,2.0,Economy,4,2,Credit Card,412.19,Yes,Paid,Yes,3.0,1
+10476,Alaska,International,155,May,0,1.0,Economy,3,0,Credit Card,149.23,Yes,FREE,Yes,4.0,1
+10477,Delta,Domestic,183,Oct,0,5.0,Economy,2,1,Debit Card,530.34,No,Free,No,3.0,1
+10478,JetBlue,Domestic,89,Aug,0,3.0,Economy,2,1,Credit Card,539.71,No,Free,NO,2.0,1
+10479,JetBlue,Domestic,93,Jan,1,3.0,Economy,2,2,Credit Card,613.42,Yes,Free,No,,1
+10480,Delta,International,12,Jul,1,2.0,Economy,3,0,PayPal,582.96,No,Paid,No,0.0,0
+10481,Alaska,International,204,Apr,0,4.0,First,3,0,Credit Card,559.16,No,Free,No,7.0,1
+10482,United,International,65,May,1,2.0,Economy,2,0,PayPal,319.89,No,Free,Yes,4.0,0
+10483,JetBlue,Domestic,36,Jun,1,1.0,Economy,1,0,Credit Card,402.19,Y,Paid,No,7.0,0
+10484,Delta,International,176,May,0,4.0,Economy,0,0,Debit Card,523.38,No,Free,No,9.0,1
+10485,Southwest,International,229,Dec,0,3.0,Economy,3,0,Credit Card,107.89,No,Free,Yes,3.0,1
+10486,Delta,Domestic,65,Jan,1,5.0,Economy,1,1,Credit Card,329.38,No,Paid,No,3.0,0
+10487,Southwest,International,35,Dec,1,5.0,Business,3,0,Debit Card,121.25,No,Paid,No,4.0,0
+10488,Alaska,International,181,Sep,1,1.0,Economy,2,0,PayPal,399.24,Yes,Paid,No,4.0,1
+10489,United,Domestic,25,Feb,0,2.0,First,1,0,Debit Card,537.21,N,Paid,Yes,10.0,1
+10490,Delta,Domestic,74,Sep,0,1.0,Economy,4,0,Debit Card,362.63,No,Free,No,5.0,1
+10491,JetBlue,Domestic,199,Oct,0,5.0,Economy,0,1,PayPal,280.31,No,Free,No,4.0,1
+10492,Alaska,Domestic,107,Feb,1,3.0,Economy,0,1,Credit Card,399.64,No,Paid,Yes,4.0,0
+10493,Delta,Domestic,167,Sep,1,5.0,Economy,3,0,Credit Card,417.74,No,Paid,No,7.0,1
+10494,JetBlue,International,42,Jun,0,4.0,Economy,0,0,Credit Card,427.61,,Free,No,5.0,1
+10495,Delta,Domestic,149,Nov,1,6.0,Business,4,0,Debit Card,189.91,No,Paid,No,1.0,1
+10496,Southwest,Domestic,147,Sep,0,,Business,1,1,PayPal,394.09,Yes,free,No,3.0,1
+10497,Delta,Domestic,7,Jun,1,5.0,Business,1,1,Debit Card,385.78,No,Paid,No,3.0,0
+10498,Delta,Domestic,28,Jun,0,6.0,Business,2,1,PayPal,492.76,No,Free,No,4.0,1
+10499,Delta,Domestic,39,Nov,0,4.0,Business,1,0,Debit Card,349.41,No,Paid,No,5.0,0
+10500,Alaska,Domestic,217,Feb,0,2.0,Economy,3,4,Credit Card,636.39,No,Paid,No,10.0,1
+10501,Delta,Domestic,157,Aug,0,5.0,Economy,4,1,Credit Card,371.53,No,Free,No,4.0,1
+10502,JetBlue,Domestic,208,Mar,0,1.0,Economy,2,0,,293.07,No,Paid,No,10.0,1
+10503,Southwest,Domestic,127,Jul,0,5.0,Economy,3,1,Credit Card,219.56,No,Free,No,5.0,1
+10504,Southwest,Domestic,83,May,0,1.0,Economy,3,0,Credit Card,288.06,Yes,Paid,No,7.0,0
+10505,Delta,International,115,Mar,1,4.0,Economy,3,1,Credit Card,248.14,,Paid,No,3.0,1
+10506,Alaska,Domestic,182,Jan,0,5.0,Economy,0,0,Credit Card,338.16,Yes,Paid,No,10.0,1
+10507,Alaska,International,143,Aug,0,4.0,Business,3,0,Debit Card,596.14,No,Paid,No,2.0,0
+10508,JetBlue,Domestic,173,Mar,0,4.0,Economy,0,2,Credit Card,155.7,Yes,Paid,Yes,8.0,1
+10509,Delta,Domestic,61,Feb,1,2.0,Economy,1,0,PayPal,165.53,,Paid,No,2.0,0
+10510,Southwest,International,234,Jan,0,5.0,Business,0,0,Credit Card,327.15,Yes,Paid,No,,0
+10511,Alaska,Domestic,6,Apr,1,1.0,Business,3,0,Debit Card,169.19,Yes,Paid,No,7.0,0
+10512,Delta,Domestic,207,Aug,1,1.0,Economy,4,0,Debit Card,222.53,N,Free,Yes,9.0,0
+10513,Alaska,Domestic,44,Mar,0,5.0,Business,4,1,Debit Card,407.48,No,Free,No,4.0,0
+10514,Alaska,Domestic,186,Jan,0,6.0,Business,1,0,PayPal,352.64,Yes,Free,No,8.0,1
+10515,Southwest,Domestic,238,Apr,0,2.0,Business,3,0,Credit Card,421.39,No,Free,Yes,2.0,1
+10516,United,Domestic,183,Sep,0,2.0,Business,0,0,Credit Card,442.75,No,Free,No,9.0,0
+10517,JetBlue,Domestic,175,Jan,1,2.0,Economy,4,0,Credit Card,547.96,No,Paid,No,9.0,0
+10518,JetBlue,Domestic,154,Dec,1,1.0,Economy,2,1,PayPal,413.06,No,Paid,No,7.0,1
+10519,Southwest,International,180,Nov,0,4.0,Economy,3,1,PayPal,528.7,No,Paid,No,6.0,1
+10520,Alaska,International,214,Feb,0,6.0,Economy,3,0,Credit Card,374.99,Yes,Free,No,6.0,0
+10521,Delta,International,87,Sep,1,2.0,Economy,2,0,Debit Card,414.66,No,Free,No,10.0,1
+10522,Alaska,Domestic,72,Feb,0,1.0,Economy,4,1,Credit Card,412.85,No,Free,No,9.0,0
+10523,Southwest,International,162,Mar,0,1.0,Economy,2,2,Credit Card,399.84,Yes,Paid,Yes,8.0,1
+10524,JetBlue,Domestic,178,Jul,0,4.0,Economy,1,1,Debit Card,388.79,Yes,Free,Yes,7.0,1
+10525,Alaska,Domestic,211,Mar,0,5.0,Economy,0,0,Credit Card,614.94,no,Paid,No,2.0,1
+10526,JetBlue,Domestic,36,Sep,1,5.0,Business,0,1,Credit Card,457.73,No,Free,No,5.0,0
+10527,Delta,International,233,Jun,0,2.0,Economy,4,0,Debit Card,297.37,No,Free,No,10.0,0
+10528,JetBlue,Domestic,208,Mar,0,2.0,Economy,2,1,Debit Card,688.08,No,Paid,No,5.0,0
+10529,JetBlue,Domestic,238,Sep,1,6.0,Economy,3,1,Credit Card,307.21,No,Paid,Yes,4.0,1
+10530,United,Domestic,222,Jan,1,4.0,Economy,3,0,Debit Card,359.27,Yes,Free,,2.0,1
+10531,United,International,118,Oct,1,2.0,First,3,0,Credit Card,243.71,N,Free,Yes,8.0,0
+10532,United,International,56,Mar,0,4.0,Economy,1,0,Credit Card,460.4,No,Paid,No,,1
+10533,JetBlue,International,7,Jan,0,1.0,Economy,1,0,Debit Card,596.63,No,Paid,Yes,3.0,1
+10534,Southwest,Domestic,206,Feb,1,2.0,Economy,3,0,Credit Card,151.24,Yes,paid,No,5.0,0
+10535,JetBlue,Domestic,94,Dec,0,1.0,Economy,4,0,Credit Card,321.17,no,free,Yes,4.0,0
+10536,Southwest,Domestic,116,Aug,0,3.0,Economy,1,0,Credit Card,516.33,No,Paid,No,0.0,0
+10537,Southwest,Domestic,221,Jul,0,4.0,Economy,1,0,PayPal,211.7,No,Free,Y,1.0,1
+10538,United,Domestic,109,Feb,0,3.0,Economy,0,2,Credit Card,440.41,No,Free,Yes,0.0,1
+10539,Alaska,International,19,Feb,0,2.0,Business,0,2,Credit Card,177.8,No,Paid,Yes,8.0,1
+10540,Delta,International,123,Sep,1,1.0,Economy,4,0,Credit Card,417.11,No,Paid,Yes,8.0,0
+10541,United,International,230,Jun,1,2.0,Economy,1,0,,370.89,No,Paid,No,4.0,1
+10542,United,International,52,May,1,3.0,Economy,1,1,Debit Card,824.46,Yes,Free,No,7.0,1
+10543,Alaska,International,118,Oct,0,2.0,Economy,2,3,Credit Card,464.23,No,free,No,9.0,1
+10544,Delta,Domestic,11,Jun,0,6.0,Economy,4,0,Debit Card,55.86,No,Free,Yes,3.0,1
+10545,JetBlue,Domestic,176,Sep,0,5.0,Economy,4,0,Debit Card,349.54,Yes,Free,No,0.0,0
+10546,JetBlue,International,16,Nov,1,3.0,Business,2,1,Debit Card,475.4,No,Free,No,3.0,0
+10547,United,Domestic,63,Jul,0,2.0,Economy,2,1,Credit Card,302.16,No,Free,No,6.0,1
+10548,Delta,International,41,Oct,1,1.0,Business,0,0,Credit Card,296.08,No,,No,10.0,1
+10549,United,Domestic,93,Oct,1,2.0,Economy,4,0,Credit Card,302.92,No,Free,Yes,1.0,0
+10550,Southwest,Domestic,156,Sep,0,1.0,First,4,0,,436.6,No,Free,No,,1
+10551,United,International,146,Apr,0,5.0,Economy,2,1,Credit Card,184.26,Y,free,No,5.0,1
+10552,United,International,237,Feb,1,2.0,Business,3,2,Debit Card,281.39,No,Paid,No,8.0,1
+10553,JetBlue,International,10,Dec,1,5.0,Economy,3,1,Credit Card,504.62,Yes,Paid,Yes,2.0,0
+10554,JetBlue,Domestic,97,Aug,0,3.0,Business,0,0,Credit Card,291.81,No,Free,No,6.0,0
+10555,JetBlue,International,177,Apr,0,1.0,Business,3,1,Credit Card,283.43,No,Free,No,9.0,1
+10556,Southwest,Domestic,70,Sep,1,6.0,Economy,3,0,Credit Card,167.31,No,Free,No,8.0,1
+10557,JetBlue,Domestic,107,Apr,0,,Economy,3,0,PayPal,450.43,No,Free,No,10.0,0
+10558,Delta,Domestic,57,Aug,0,1.0,Business,1,1,Credit Card,419.56,Yes,Free,No,8.0,0
+10559,Alaska,Domestic,33,Sep,0,5.0,Economy,0,0,PayPal,496.13,Yes,Free,Y,10.0,0
+10560,Delta,Domestic,19,Sep,0,4.0,Economy,2,0,Credit Card,344.19,No,Paid,Yes,3.0,0
+10561,Delta,International,49,Oct,0,2.0,Business,3,1,PayPal,19.57,No,Free,,1.0,0
+10562,JetBlue,International,101,Apr,0,,Economy,1,1,Credit Card,403.03,NO,Free,Yes,0.0,0
+10563,Alaska,Domestic,215,Jan,0,1.0,Economy,3,1,PayPal,160.5,No,Free,Y,5.0,0
+10564,Alaska,Domestic,137,Mar,0,1.0,Economy,1,1,Credit Card,689.48,No,Free,No,4.0,0
+10565,Alaska,International,159,Sep,1,1.0,Business,0,0,Credit Card,496.93,No,Free,No,5.0,1
+10566,Southwest,International,51,Apr,1,1.0,Economy,3,1,Credit Card,371.06,Yes,free,No,6.0,1
+10567,JetBlue,International,14,May,1,2.0,Economy,1,2,Credit Card,328.61,No,Paid,Yes,8.0,1
+10568,Alaska,Domestic,228,Jul,1,3.0,Economy,4,1,Credit Card,545.35,No,Paid,No,9.0,1
+10569,Southwest,Domestic,83,May,0,6.0,Business,4,1,,373.43,YES,Free,Yes,9.0,0
+10570,United,Domestic,130,Apr,0,4.0,Economy,1,0,Credit Card,487.91,N,Paid,N,10.0,1
+10571,United,Domestic,36,Feb,1,2.0,Economy,3,0,Credit Card,279.08,Yes,Free,No,5.0,0
+10572,Southwest,Domestic,125,Feb,0,1.0,Economy,3,0,Debit Card,237.44,No,Paid,YES,5.0,0
+10573,Southwest,International,39,Apr,0,2.0,Business,0,0,Credit Card,337.36,Yes,Paid,No,2.0,0
+10574,JetBlue,Domestic,71,Oct,1,5.0,First,0,0,Credit Card,361.48,Yes,Paid,No,7.0,0
+10575,JetBlue,Domestic,39,Oct,0,6.0,Economy,2,0,PayPal,419.29,No,Paid,No,8.0,0
+10576,United,Domestic,235,Sep,0,,Economy,0,1,PayPal,565.37,Yes,Paid,Yes,0.0,1
+10577,Alaska,Domestic,55,Aug,1,4.0,Business,3,0,PayPal,515.68,No,Free,No,5.0,0
+10578,United,Domestic,150,Mar,1,1.0,Economy,2,0,PayPal,544.52,Yes,Paid,No,6.0,1
+10579,Alaska,Domestic,103,Sep,0,6.0,Economy,0,0,Credit Card,257.43,Yes,Free,No,10.0,0
+10580,Alaska,Domestic,138,May,1,4.0,Business,1,2,,318.71,Yes,Free,No,7.0,0
+10581,JetBlue,International,109,Nov,1,,First,4,1,Credit Card,495.52,Yes,Free,No,9.0,0
+10582,Delta,International,191,Mar,1,4.0,Economy,0,0,Credit Card,530.09,No,Free,Y,10.0,1
+10583,Delta,Domestic,135,May,0,3.0,Economy,0,1,Debit Card,463.86,No,Free,Y,7.0,1
+10584,Southwest,Domestic,92,Oct,0,3.0,Economy,1,0,Credit Card,281.22,No,Paid,,6.0,1
+10585,JetBlue,International,93,Apr,1,2.0,Economy,3,0,Credit Card,214.17,Yes,Paid,No,7.0,0
+10586,Alaska,Domestic,55,Aug,1,2.0,Business,1,0,Credit Card,392.62,No,FREE,No,10.0,0
+10587,Delta,Domestic,59,Dec,0,4.0,Business,0,1,Credit Card,235.16,yes,PAID,Yes,8.0,0
+10588,Alaska,International,137,May,0,1.0,Business,3,0,,424.49,N,Free,Yes,9.0,1
+10589,Delta,Domestic,38,Oct,0,5.0,Economy,2,0,Credit Card,535.1,No,Free,No,6.0,0
+10590,Delta,Domestic,27,Dec,1,5.0,Economy,0,2,Credit Card,386.47,YES,Paid,N,2.0,0
+10591,Delta,Domestic,48,Aug,0,1.0,Economy,1,0,Credit Card,177.18,No,Paid,No,8.0,1
+10592,JetBlue,Domestic,163,Sep,0,1.0,Economy,2,1,Credit Card,288.7,No,Free,No,0.0,1
+10593,United,Domestic,124,Apr,0,3.0,Business,4,0,Credit Card,481.06,No,Free,No,7.0,1
+10594,Alaska,International,12,Jul,0,5.0,Economy,2,0,PayPal,426.35,Yes,Free,No,5.0,0
+10595,JetBlue,Domestic,223,Feb,1,4.0,Economy,1,0,Credit Card,437.54,No,Paid,Yes,10.0,1
+10596,JetBlue,Domestic,35,Jun,1,6.0,Economy,2,2,PayPal,607.65,No,Paid,No,2.0,1
+10597,JetBlue,International,100,Aug,0,2.0,First,1,0,Credit Card,408.87,No,Paid,No,8.0,1
+10598,JetBlue,Domestic,25,Dec,0,6.0,Business,0,0,Credit Card,404.45,No,Paid,No,5.0,0
+10599,JetBlue,Domestic,85,Jul,1,3.0,Business,3,0,Credit Card,479.93,No,Paid,No,6.0,0
+10600,Southwest,International,3,Jul,0,5.0,Economy,4,1,Credit Card,195.76,No,Paid,No,10.0,1
+10601,Alaska,Domestic,222,Aug,0,1.0,Economy,3,1,Credit Card,297.68,No,Paid,No,1.0,1
+10602,JetBlue,International,81,Jul,1,5.0,Economy,3,1,Credit Card,256.61,Yes,Free,No,0.0,1
+10603,Alaska,International,191,May,0,4.0,Economy,3,2,Credit Card,451.69,No,Free,No,0.0,1
+10604,Southwest,Domestic,165,Jul,1,,Economy,1,1,Credit Card,231.33,No,Paid,No,2.0,0
+10605,Southwest,Domestic,126,Oct,0,1.0,Economy,1,0,Debit Card,438.88,No,Free,Yes,10.0,0
+10606,Alaska,International,87,Mar,0,6.0,Economy,4,0,PayPal,329.65,no,Free,Yes,2.0,0
+10607,Delta,Domestic,126,May,0,4.0,Economy,1,0,Credit Card,310.14,yes,Free,yes,7.0,0
+10608,United,International,119,Jul,1,6.0,Economy,1,0,Debit Card,487.66,No,Free,no,6.0,0
+10609,Delta,Domestic,214,Sep,0,2.0,Economy,1,1,Debit Card,173.5,No,Paid,Yes,9.0,0
+10610,Delta,Domestic,21,Feb,0,3.0,Economy,1,0,Credit Card,291.58,No,Paid,Yes,7.0,0
+10611,Delta,Domestic,129,Apr,1,4.0,Economy,0,0,PayPal,770.13,No,Paid,No,0.0,1
+10612,JetBlue,International,30,Dec,0,4.0,Economy,4,1,PayPal,619.06,Yes,Paid,No,3.0,0
+10613,Southwest,International,118,Jul,0,6.0,Economy,1,0,Credit Card,105.98,No,Free,No,7.0,1
+10614,Delta,Domestic,10,Jan,0,1.0,Business,4,0,Debit Card,288.94,No,Free,Yes,9.0,0
+10615,Southwest,Domestic,219,Feb,1,2.0,Business,2,0,Debit Card,368.79,No,,Yes,1.0,1
+10616,Alaska,International,45,Sep,0,6.0,Economy,0,1,Credit Card,162.43,N,Free,No,6.0,0
+10617,United,Domestic,95,Oct,0,4.0,Economy,1,1,Credit Card,642.52,Yes,Free,No,7.0,0
+10618,Alaska,Domestic,189,Jul,0,3.0,Economy,0,1,PayPal,364.14,No,Paid,No,8.0,1
+10619,Alaska,International,196,Dec,0,4.0,Economy,0,0,,333.97,No,Free,No,6.0,0
+10620,JetBlue,Domestic,191,Oct,1,5.0,Business,2,0,Credit Card,413.35,No,Paid,,8.0,0
+10621,United,International,229,Jul,1,3.0,Economy,4,0,Credit Card,411.12,no,Free,No,1.0,0
+10622,Alaska,Domestic,9,Jun,1,3.0,Economy,0,1,PayPal,240.39,No,,Yes,10.0,0
+10623,Alaska,Domestic,167,Mar,1,4.0,Economy,3,0,Credit Card,544.14,Yes,Paid,No,0.0,0
+10624,United,Domestic,127,Oct,1,1.0,Economy,2,1,Debit Card,382.69,No,Free,Yes,0.0,1
+10625,United,International,237,Mar,0,3.0,Economy,3,0,Credit Card,543.22,No,Free,No,10.0,1
+10626,Alaska,Domestic,151,Feb,1,5.0,Economy,2,0,Credit Card,279.41,Yes,Paid,Yes,3.0,1
+10627,United,Domestic,98,Nov,0,6.0,Economy,3,0,Credit Card,108.57,No,Free,Yes,0.0,1
+10628,Alaska,Domestic,171,Jun,0,1.0,Economy,3,4,Credit Card,561.22,No,Free,No,6.0,0
+10629,Alaska,International,111,Apr,1,1.0,First,0,0,Credit Card,463.66,No,free,No,7.0,0
+10630,JetBlue,Domestic,59,May,0,1.0,Business,0,0,Debit Card,523.55,No,PAID,No,2.0,0
+10631,Delta,Domestic,189,Mar,1,3.0,Economy,2,2,Debit Card,532.16,Yes,Free,No,0.0,1
+10632,Alaska,Domestic,86,Jun,0,1.0,Economy,4,0,Credit Card,362.7,Yes,Paid,No,2.0,0
+10633,Southwest,Domestic,144,Nov,0,4.0,Economy,0,1,,308.63,No,Free,Yes,1.0,1
+10634,Delta,Domestic,64,Dec,0,1.0,Economy,0,1,Credit Card,347.17,No,free,N,5.0,0
+10635,Delta,International,222,Mar,1,5.0,Economy,1,0,Credit Card,437.2,No,Free,No,10.0,1
+10884,Delta,Domestic,222,Aug,1,2.0,Economy,0,0,Credit Card,398.79,Yes,Free,Yes,6.0,1
+10637,JetBlue,International,233,Sep,0,5.0,Business,4,1,Credit Card,103.91,No,Paid,No,8.0,1
+10638,Alaska,Domestic,56,Apr,0,3.0,Economy,1,0,PayPal,343.41,No,Paid,Yes,4.0,0
+10639,JetBlue,International,182,Sep,0,1.0,Economy,3,2,Debit Card,557.95,No,,yes,3.0,0
+10640,Alaska,Domestic,105,Dec,0,1.0,Economy,3,0,Credit Card,359.82,,Free,No,0.0,1
+10641,JetBlue,Domestic,180,Jul,0,4.0,Economy,1,1,Debit Card,671.44,No,Paid,No,10.0,0
+10642,JetBlue,International,183,Mar,1,6.0,Economy,1,0,Credit Card,225.45,Yes,Paid,Yes,5.0,0
+10643,Southwest,International,225,Jul,0,1.0,Business,1,0,Credit Card,408.79,No,Free,No,10.0,0
+10644,JetBlue,Domestic,8,Jan,1,5.0,Business,2,0,Credit Card,222.05,no,Paid,No,7.0,0
+10645,United,Domestic,21,Mar,1,3.0,Economy,4,1,Debit Card,240.22,No,Paid,Yes,3.0,0
+10646,Southwest,International,140,Jun,0,2.0,Economy,4,0,Credit Card,241.52,No,Free,No,0.0,1
+10647,JetBlue,Domestic,88,Apr,1,1.0,Business,3,1,PayPal,669.36,No,Free,Yes,4.0,1
+10648,Delta,International,175,Jul,1,2.0,Economy,3,1,Credit Card,324.7,No,Free,Yes,9.0,0
+10649,United,International,17,Mar,0,1.0,Business,3,1,Credit Card,261.63,Yes,Free,Yes,4.0,0
+10650,United,Domestic,114,Jan,0,3.0,Economy,0,2,PayPal,359.62,No,Paid,NO,1.0,1
+10651,United,Domestic,203,Sep,0,6.0,Economy,3,0,Credit Card,328.86,No,Free,Yes,5.0,1
+10652,Southwest,Domestic,167,Jun,1,5.0,Economy,1,0,Debit Card,473.6,No,Paid,Y,9.0,0
+10653,JetBlue,Domestic,144,Aug,1,3.0,Economy,3,0,Debit Card,74.5,No,Free,Yes,8.0,0
+10654,JetBlue,Domestic,142,Mar,1,2.0,Business,1,0,PayPal,226.35,yes,Free,N,5.0,0
+10655,Delta,International,105,Aug,0,1.0,Economy,2,0,Credit Card,478.51,No,Free,Yes,7.0,1
+10656,Delta,Domestic,14,Feb,0,2.0,Economy,0,1,Credit Card,291.59,YES,Free,No,9.0,0
+10657,United,International,206,Dec,0,5.0,Economy,0,1,,254.31,No,Paid,Yes,2.0,1
+10658,Delta,Domestic,62,Apr,0,3.0,Business,4,0,Credit Card,248.04,Yes,free,Yes,9.0,1
+10659,Southwest,Domestic,166,Mar,0,2.0,Economy,2,2,Credit Card,461.31,,Paid,No,1.0,1
+10660,JetBlue,Domestic,12,Oct,1,2.0,Business,1,0,Credit Card,455.2,No,Paid,No,3.0,0
+10661,United,Domestic,80,Jan,1,5.0,Economy,2,1,Credit Card,494.07,No,PAID,Yes,8.0,0
+10662,Delta,Domestic,31,Jul,1,1.0,Economy,0,0,Credit Card,197.22,No,Free,No,8.0,1
+10663,Southwest,Domestic,136,Nov,0,2.0,Economy,1,1,Credit Card,188.94,No,Free,Yes,2.0,0
+10664,Southwest,International,39,Oct,0,5.0,Economy,2,0,Credit Card,519.23,Yes,,No,0.0,0
+10665,Delta,Domestic,147,Feb,0,1.0,Economy,0,2,Credit Card,388.72,No,Paid,No,0.0,1
+10666,JetBlue,Domestic,217,Apr,1,6.0,Economy,1,0,Credit Card,275.17,No,Free,Yes,3.0,0
+10667,Delta,Domestic,218,Sep,1,1.0,Economy,1,0,Debit Card,338.0,Yes,Paid,N,3.0,1
+10668,United,Domestic,212,Jun,0,6.0,Economy,0,1,Debit Card,187.19,Yes,Free,no,10.0,1
+10669,Delta,Domestic,81,Aug,0,3.0,Economy,1,0,Credit Card,285.86,No,Free,No,9.0,0
+10670,Southwest,Domestic,76,Feb,0,5.0,Economy,0,0,Credit Card,382.29,No,Free,Yes,5.0,1
+10671,Delta,Domestic,207,Jul,0,1.0,Economy,3,0,Credit Card,409.63,No,Free,Yes,4.0,0
+10672,JetBlue,Domestic,200,Jun,0,6.0,Economy,3,0,Credit Card,347.76,Yes,Paid,No,5.0,1
+10673,Alaska,Domestic,190,Sep,0,6.0,First,1,1,Debit Card,15.87,Y,Free,,9.0,0
+10674,Delta,International,75,Jul,0,3.0,Economy,1,0,Debit Card,462.66,No,Paid,Yes,6.0,0
+10675,JetBlue,Domestic,171,Jan,1,4.0,Economy,0,0,PayPal,345.81,No,Paid,Yes,6.0,1
+10676,JetBlue,Domestic,37,Aug,0,5.0,Economy,1,0,Credit Card,297.4,No,Paid,no,9.0,0
+10677,Southwest,Domestic,210,Nov,0,4.0,Economy,4,0,Credit Card,253.28,No,Free,Yes,9.0,1
+10678,JetBlue,Domestic,187,Oct,0,1.0,Economy,3,1,Debit Card,112.54,No,Free,No,,1
+10679,JetBlue,International,70,Mar,0,5.0,Economy,1,2,Credit Card,450.99,No,free,Yes,5.0,1
+10680,JetBlue,Domestic,226,Feb,0,3.0,Economy,1,2,Credit Card,564.9,Yes,Free,No,7.0,1
+10681,JetBlue,Domestic,47,Dec,0,1.0,Economy,2,0,Credit Card,244.29,,Paid,No,,1
+10682,United,Domestic,17,Mar,0,5.0,First,1,0,Credit Card,182.19,Yes,Free,No,7.0,0
+10683,United,Domestic,143,Nov,0,5.0,Business,4,1,Credit Card,272.82,Yes,Paid,No,8.0,0
+10684,Southwest,Domestic,182,Jun,1,4.0,Economy,3,0,Credit Card,400.67,yes,Free,No,3.0,0
+10685,Delta,Domestic,38,Mar,0,1.0,Economy,2,0,Debit Card,289.26,Yes,Free,,4.0,0
+10686,JetBlue,International,195,Oct,1,3.0,Business,0,0,PayPal,286.82,No,Paid,No,4.0,0
+10687,Delta,Domestic,186,May,0,3.0,First,0,0,Credit Card,348.39,Yes,Free,No,1.0,1
+10688,Delta,Domestic,88,Jun,0,1.0,Economy,3,0,Credit Card,374.11,Yes,Paid,No,4.0,0
+10689,Southwest,Domestic,223,Aug,0,,Economy,0,0,Credit Card,411.56,No,Free,Yes,8.0,0
+10690,JetBlue,Domestic,61,Jul,0,6.0,First,4,0,PayPal,318.68,,Free,No,3.0,1
+10691,JetBlue,Domestic,231,Nov,1,2.0,Economy,1,2,Credit Card,316.19,No,Free,No,9.0,0
+10692,Alaska,International,140,Aug,1,4.0,Economy,3,2,PayPal,90.92,N,Paid,Yes,2.0,1
+10693,Delta,International,108,Mar,1,1.0,Economy,2,1,Credit Card,491.0,No,Free,No,6.0,0
+10694,Delta,Domestic,80,Apr,1,1.0,First,1,0,Debit Card,395.33,Yes,Paid,yes,7.0,0
+10695,United,International,228,Jun,0,2.0,Business,0,0,Credit Card,571.55,Yes,Free,No,9.0,1
+10696,Alaska,International,133,Nov,0,2.0,Business,0,1,Credit Card,431.56,,Free,No,5.0,1
+10697,United,International,210,Jul,0,5.0,Business,2,0,Credit Card,349.7,Yes,Free,Yes,5.0,1
+10698,United,Domestic,76,Sep,1,3.0,Economy,4,0,Credit Card,151.96,Yes,,Yes,4.0,0
+10699,United,International,187,Jan,1,4.0,Business,2,0,PayPal,131.27,No,Paid,No,10.0,1
+10700,Southwest,Domestic,89,Aug,0,5.0,Economy,3,1,Debit Card,506.77,Yes,Free,No,5.0,0
+10701,Southwest,International,13,Aug,1,1.0,Business,2,0,Credit Card,438.62,No,Paid,No,8.0,0
+10702,United,Domestic,94,Jun,0,2.0,Economy,0,0,PayPal,565.16,No,Paid,Yes,1.0,0
+10703,Alaska,Domestic,53,Apr,0,6.0,Business,4,1,Credit Card,490.37,No,Free,No,9.0,0
+10704,Delta,International,131,Mar,0,3.0,Economy,4,1,PayPal,308.04,No,Free,Yes,10.0,1
+10705,Alaska,Domestic,38,Nov,1,5.0,Economy,2,0,Credit Card,40.0,Yes,Paid,N,,0
+10706,JetBlue,International,71,Mar,1,6.0,Economy,3,0,PayPal,444.63,No,Free,No,0.0,1
+10707,Southwest,International,24,Jun,0,3.0,Economy,0,0,Credit Card,217.75,No,Paid,N,3.0,1
+10180,Delta,Domestic,76,Aug,0,6.0,Business,1,1,Credit Card,334.2,Yes,Paid,,1.0,0
+10709,Delta,Domestic,159,Jul,0,2.0,Economy,4,0,Credit Card,417.7,No,Paid,No,5.0,0
+10710,JetBlue,International,186,Nov,1,5.0,Economy,2,0,Credit Card,271.71,No,Free,No,0.0,1
+10711,JetBlue,Domestic,229,Jan,0,5.0,Economy,3,0,Credit Card,244.48,NO,Free,No,7.0,1
+10712,United,Domestic,190,Nov,0,3.0,Business,3,1,Credit Card,317.0,No,Free,Yes,9.0,0
+10713,Southwest,International,165,Jun,0,6.0,Economy,0,0,PayPal,73.53,,Paid,Yes,5.0,1
+10714,Southwest,Domestic,119,Jul,0,2.0,Business,4,0,PayPal,215.28,Yes,FREE,No,8.0,1
+10715,Alaska,Domestic,219,Dec,0,1.0,Business,0,1,PayPal,213.26,No,Paid,No,5.0,0
+10716,United,International,52,Jul,1,5.0,Business,1,0,PayPal,326.98,No,Free,No,9.0,1
+10717,United,Domestic,221,Sep,0,1.0,Economy,1,1,Debit Card,227.4,No,paid,No,6.0,1
+10718,United,Domestic,194,Nov,1,2.0,Business,1,1,PayPal,287.79,Yes,Free,Yes,4.0,1
+10719,United,International,155,Nov,0,5.0,Economy,3,1,PayPal,297.7,No,Free,YES,7.0,1
+10720,Southwest,Domestic,130,Oct,0,5.0,Business,4,0,Credit Card,657.88,No,Free,,7.0,1
+10721,Southwest,International,236,May,0,6.0,Business,0,1,Debit Card,467.74,No,Free,No,9.0,1
+10722,United,International,225,Jan,1,1.0,Economy,0,0,PayPal,343.15,No,Free,NO,8.0,1
+10723,Alaska,International,207,Feb,1,6.0,Economy,1,0,Debit Card,422.87,No,Free,No,5.0,1
+10724,Delta,Domestic,149,Apr,1,4.0,Economy,4,0,Credit Card,488.9,Yes,Paid,No,0.0,1
+10725,Delta,Domestic,95,May,0,1.0,Economy,4,0,Credit Card,400.29,Yes,Free,No,8.0,0
+10726,Alaska,Domestic,165,Sep,0,1.0,Economy,2,0,Debit Card,215.26,No,Free,No,2.0,0
+10727,United,International,199,Nov,1,,Business,4,2,PayPal,340.82,No,Paid,,8.0,1
+10728,Southwest,International,71,Jan,1,2.0,Economy,4,1,Credit Card,223.38,No,Paid,No,6.0,0
+10729,Delta,Domestic,61,Mar,0,2.0,Economy,0,0,Credit Card,313.93,No,Free,No,,0
+10730,JetBlue,Domestic,184,May,1,5.0,Business,4,0,Credit Card,337.76,No,Free,No,8.0,1
+10731,JetBlue,Domestic,5,Mar,0,3.0,Business,4,1,Debit Card,507.36,Yes,Paid,Yes,6.0,0
+10732,Alaska,Domestic,205,Apr,0,6.0,Economy,0,0,Credit Card,248.82,No,Paid,YES,6.0,0
+10733,United,International,31,Mar,0,3.0,Business,4,0,Debit Card,237.61,Yes,Free,Yes,6.0,0
+10734,Delta,Domestic,98,Apr,0,5.0,Economy,0,0,PayPal,259.63,Yes,Paid,Yes,1.0,1
+10735,United,International,137,Jan,0,3.0,Economy,2,1,Debit Card,274.74,No,Paid,No,10.0,1
+10736,Delta,International,130,Dec,0,1.0,Economy,3,1,Credit Card,315.46,No,Free,Yes,3.0,1
+10737,Alaska,Domestic,186,Aug,0,1.0,Economy,0,0,PayPal,406.11,Yes,Free,no,9.0,1
+10738,Alaska,Domestic,75,Apr,0,4.0,Economy,0,0,Credit Card,250.08,No,Paid,Yes,7.0,0
+10739,JetBlue,Domestic,176,Jul,0,4.0,Business,4,1,,376.08,Yes,Paid,Yes,,1
+10740,United,Domestic,58,Feb,1,5.0,Business,0,0,Credit Card,377.82,No,Free,No,3.0,0
+10741,JetBlue,International,30,Feb,0,5.0,Economy,1,2,Debit Card,437.51,Yes,Paid,No,9.0,1
+10742,United,International,92,Jun,0,5.0,Economy,1,0,PayPal,330.49,No,Paid,Yes,7.0,0
+10743,JetBlue,International,68,Feb,0,1.0,Economy,2,1,PayPal,476.49,No,Paid,NO,2.0,0
+10744,Southwest,Domestic,189,Jun,1,3.0,Economy,0,0,Credit Card,411.66,No,Paid,Y,5.0,0
+10745,Southwest,Domestic,51,Nov,0,6.0,Business,4,1,Credit Card,405.39,Yes,Paid,NO,1.0,0
+10746,Southwest,International,88,Feb,0,5.0,Economy,4,1,Credit Card,282.9,Yes,Free,YES,7.0,1
+10747,Southwest,Domestic,126,Apr,0,5.0,Economy,3,1,Debit Card,398.44,No,Paid,No,7.0,1
+10748,Delta,Domestic,168,Jul,1,,Economy,2,2,Debit Card,409.32,No,Paid,No,0.0,0
+10749,Southwest,Domestic,30,Aug,0,6.0,Economy,4,0,Credit Card,276.34,Yes,free,,2.0,1
+10750,Alaska,International,212,Mar,0,1.0,Economy,3,0,Credit Card,527.2,No,Free,No,1.0,0
+10751,Alaska,Domestic,83,Sep,0,6.0,Economy,4,3,PayPal,727.29,No,Free,No,6.0,0
+10752,Delta,Domestic,230,Feb,0,1.0,Economy,3,1,PayPal,268.0,No,Paid,yes,6.0,1
+10753,Southwest,International,126,Aug,1,3.0,Economy,1,0,Credit Card,15.19,Yes,Free,Yes,3.0,1
+10754,Southwest,Domestic,149,Aug,1,5.0,Economy,1,0,Debit Card,297.7,No,Paid,No,7.0,0
+10755,Southwest,Domestic,131,Apr,0,2.0,Economy,4,0,Debit Card,176.66,No,Free,Y,2.0,1
+10756,JetBlue,Domestic,12,Jan,1,2.0,Business,2,1,Credit Card,237.32,Yes,Paid,No,8.0,0
+10757,United,International,44,Jan,0,5.0,First,0,0,Credit Card,480.01,N,Paid,No,4.0,0
+10758,JetBlue,Domestic,126,Feb,0,5.0,Business,2,0,Credit Card,348.52,No,Paid,No,1.0,0
+10759,United,Domestic,169,Dec,1,5.0,Economy,2,0,Credit Card,628.66,No,Paid,,8.0,0
+10760,Southwest,Domestic,113,Sep,0,5.0,Economy,0,1,Debit Card,319.61,YES,Free,Yes,0.0,1
+10761,Southwest,International,176,Feb,1,6.0,Economy,1,0,Credit Card,418.29,Yes,Paid,Yes,10.0,0
+10762,JetBlue,Domestic,19,Feb,0,3.0,Business,1,2,Credit Card,233.4,,Free,No,7.0,0
+10763,JetBlue,International,204,Jun,0,2.0,Economy,0,2,Credit Card,344.57,Yes,Paid,No,5.0,1
+10764,United,International,80,Jul,0,4.0,Economy,3,1,Credit Card,372.29,Yes,Free,No,0.0,0
+10765,Alaska,Domestic,181,Jul,1,2.0,Economy,2,1,Debit Card,65.43,No,Paid,Yes,3.0,0
+10766,United,International,163,Sep,1,2.0,Economy,4,1,,244.51,No,,No,2.0,1
+10767,JetBlue,Domestic,224,Jun,0,1.0,Economy,1,0,Credit Card,449.03,No,Paid,Yes,6.0,1
+10768,JetBlue,International,128,Aug,1,5.0,Economy,4,1,PayPal,441.57,Yes,Paid,Yes,6.0,0
+10769,Delta,Domestic,142,Nov,0,5.0,Business,0,1,Credit Card,185.23,Y,Paid,No,5.0,1
+10770,JetBlue,International,204,Jun,0,5.0,Economy,4,1,Debit Card,309.47,Yes,Free,No,9.0,1
+10771,Delta,Domestic,16,Feb,1,1.0,Business,4,1,Credit Card,40.0,Yes,Free,Yes,9.0,0
+10772,Alaska,Domestic,151,Jan,1,3.0,Economy,2,0,PayPal,359.52,No,PAID,No,7.0,0
+10773,United,Domestic,57,May,0,3.0,Business,0,0,PayPal,536.44,No,Paid,Yes,6.0,0
+10774,United,Domestic,71,Sep,1,4.0,Economy,4,3,Credit Card,542.51,Yes,Paid,Yes,3.0,0
+10775,Delta,Domestic,218,Aug,0,3.0,Economy,1,0,Debit Card,537.53,YES,Paid,No,6.0,1
+10776,United,Domestic,108,Apr,0,3.0,Economy,0,0,Credit Card,433.78,Yes,Free,No,0.0,1
+10777,JetBlue,Domestic,22,May,0,5.0,Economy,1,1,PayPal,522.15,No,Paid,Yes,2.0,0
+10778,Southwest,Domestic,173,May,1,6.0,Economy,3,0,Credit Card,333.5,yes,Paid,Yes,1.0,0
+10779,Delta,International,71,Jun,0,2.0,Economy,4,1,PayPal,286.94,Yes,Free,Yes,,1
+10780,United,Domestic,7,Mar,1,3.0,Economy,0,1,Credit Card,519.69,No,Paid,No,8.0,0
+10781,Delta,Domestic,58,May,0,3.0,Economy,1,0,Debit Card,400.38,Yes,Paid,No,4.0,0
+10782,Delta,Domestic,217,Feb,1,1.0,Business,4,0,PayPal,108.67,Yes,Free,Yes,8.0,0
+10783,Southwest,Domestic,110,Oct,0,4.0,Business,2,1,PayPal,530.32,YES,Paid,No,7.0,0
+10784,JetBlue,International,186,Jan,1,6.0,Economy,1,0,Credit Card,329.22,No,Free,Yes,0.0,1
+10785,Delta,Domestic,12,Nov,0,1.0,Economy,1,0,Credit Card,266.6,Yes,free,No,10.0,0
+10786,United,International,166,Jan,1,5.0,Business,3,0,Credit Card,497.05,Yes,Paid,Yes,1.0,1
+10787,Alaska,International,228,Oct,1,2.0,Economy,2,1,Credit Card,478.17,Yes,Paid,,5.0,1
+10788,Delta,International,155,Jul,1,4.0,Economy,3,1,Credit Card,226.04,yes,PAID,Yes,4.0,1
+10789,Delta,International,216,Feb,0,1.0,Economy,2,2,Credit Card,338.01,Yes,Paid,No,10.0,1
+10790,Southwest,International,188,Apr,1,3.0,Economy,1,1,Credit Card,232.82,YES,Free,Yes,6.0,1
+10791,JetBlue,International,15,May,0,3.0,Economy,3,1,Credit Card,236.53,No,Paid,No,8.0,0
+10792,Alaska,Domestic,118,Jul,1,4.0,Economy,4,0,Credit Card,40.0,Yes,Free,No,3.0,0
+10793,United,Domestic,1,Feb,1,3.0,Economy,2,1,Credit Card,218.04,,Free,No,7.0,0
+10794,Alaska,Domestic,209,Jun,0,1.0,Economy,1,1,Credit Card,336.04,Yes,Free,Yes,3.0,0
+10795,United,Domestic,144,Jan,0,1.0,Business,0,0,Debit Card,40.0,No,Free,NO,2.0,0
+10796,JetBlue,Domestic,29,Jul,0,3.0,Economy,2,2,Credit Card,167.94,No,Free,No,1.0,1
+10797,United,Domestic,102,Sep,0,3.0,Economy,2,2,Credit Card,444.99,No,Free,No,7.0,0
+10798,Southwest,Domestic,12,May,1,5.0,Economy,4,1,Credit Card,162.28,NO,Free,N,10.0,1
+10799,Southwest,Domestic,95,May,0,2.0,Economy,2,0,Credit Card,337.99,,Paid,No,7.0,1
+10800,Southwest,Domestic,220,Apr,0,4.0,Economy,2,0,Debit Card,128.53,N,Free,No,10.0,1
+10801,Southwest,Domestic,237,Mar,0,1.0,Economy,4,0,Credit Card,417.32,No,Free,Yes,2.0,0
+10802,Alaska,Domestic,93,Sep,0,4.0,Economy,4,1,Credit Card,314.39,No,Paid,No,0.0,0
+10803,JetBlue,Domestic,81,May,0,5.0,Economy,3,1,PayPal,231.53,Yes,Free,No,5.0,0
+10804,United,Domestic,12,Aug,1,1.0,Economy,1,0,PayPal,40.0,Yes,Free,Yes,4.0,0
+10805,United,International,170,Sep,0,5.0,Economy,1,0,Credit Card,234.86,No,Free,No,7.0,1
+10806,Southwest,Domestic,212,May,1,5.0,Business,3,0,Credit Card,453.06,NO,FREE,No,5.0,1
+10807,Southwest,Domestic,93,Oct,0,6.0,Economy,1,1,Credit Card,577.01,No,Free,Yes,3.0,0
+10808,Delta,International,148,Sep,0,3.0,Economy,2,0,Credit Card,329.3,No,Free,No,9.0,1
+10809,JetBlue,Domestic,111,Feb,1,6.0,Economy,3,2,Credit Card,345.99,No,Free,No,9.0,0
+10810,Alaska,Domestic,54,Sep,0,4.0,Economy,3,1,Debit Card,265.16,No,Free,Yes,10.0,0
+10811,United,International,80,Nov,0,4.0,Business,1,0,Credit Card,532.1,Yes,Paid,Yes,1.0,1
+10812,Delta,International,167,Apr,0,3.0,Economy,0,2,PayPal,326.31,Yes,Paid,No,7.0,1
+10813,Delta,Domestic,210,Jun,0,6.0,Economy,1,0,Credit Card,485.12,No,Free,No,4.0,1
+10814,United,Domestic,115,Jun,0,4.0,Economy,0,1,Credit Card,394.75,YES,Paid,Yes,7.0,0
+10815,Alaska,International,142,Jun,0,6.0,Economy,3,0,Debit Card,377.21,No,Free,Yes,4.0,1
+10816,Delta,Domestic,200,Feb,0,3.0,Economy,0,0,Credit Card,217.16,Yes,Paid,No,5.0,0
+10817,Delta,Domestic,179,Jul,0,1.0,Economy,2,0,Credit Card,609.56,no,Paid,No,9.0,1
+10818,JetBlue,International,201,Jun,0,5.0,Economy,4,0,Credit Card,565.23,Yes,Paid,No,4.0,1
+10819,Alaska,Domestic,107,Nov,0,5.0,First,0,0,Credit Card,678.39,No,Free,N,10.0,0
+10820,Delta,Domestic,222,Jan,0,6.0,Economy,4,1,Credit Card,206.09,No,Paid,No,2.0,1
+10821,Alaska,Domestic,52,Feb,0,4.0,Economy,2,0,Credit Card,396.96,Yes,Paid,Y,9.0,0
+10822,United,International,214,Jul,1,6.0,First,4,0,Credit Card,248.94,No,Paid,No,7.0,1
+10823,Southwest,Domestic,127,Jan,0,6.0,Business,2,1,Credit Card,422.11,No,Free,Yes,2.0,1
+10824,Delta,Domestic,179,Jan,1,2.0,Economy,4,0,PayPal,400.91,No,Free,No,3.0,1
+10825,JetBlue,Domestic,157,Jan,0,5.0,Economy,4,1,Credit Card,302.04,Yes,Paid,no,5.0,1
+10826,United,Domestic,160,Aug,1,3.0,Business,1,1,Credit Card,327.99,Yes,Free,Yes,1.0,0
+10827,Alaska,Domestic,56,Apr,0,6.0,Economy,0,3,PayPal,652.71,Yes,Paid,Yes,6.0,1
+10828,United,International,51,Apr,1,2.0,Economy,4,1,Debit Card,341.06,Yes,free,NO,4.0,0
+10829,Delta,Domestic,136,Feb,0,2.0,Business,3,1,Credit Card,51.64,Yes,Free,no,9.0,1
+10830,Alaska,Domestic,181,Nov,0,5.0,Economy,1,0,Credit Card,284.94,Yes,Paid,No,4.0,0
+10831,Southwest,International,110,Nov,1,5.0,Economy,0,1,Debit Card,206.66,No,Paid,No,4.0,0
+10832,United,Domestic,0,Nov,0,,Economy,1,0,Credit Card,231.23,NO,Paid,Yes,1.0,0
+10833,Delta,International,43,Jan,0,3.0,Economy,0,1,Debit Card,459.31,No,Free,No,10.0,0
+10834,JetBlue,Domestic,226,Dec,1,2.0,Business,2,0,PayPal,484.73,YES,,YES,9.0,1
+10835,Alaska,International,74,Oct,1,4.0,Economy,4,0,Credit Card,241.97,No,Free,Yes,8.0,1
+10836,United,Domestic,97,Sep,0,3.0,Business,3,1,Credit Card,282.9,No,paid,,2.0,1
+10837,United,International,207,Jul,0,1.0,Economy,1,0,,262.26,Yes,Paid,No,6.0,0
+10838,Southwest,Domestic,8,Apr,1,6.0,Economy,1,1,Credit Card,572.53,Yes,Free,N,4.0,0
+10839,Southwest,Domestic,31,Dec,1,5.0,Economy,1,0,Credit Card,488.91,No,Paid,No,9.0,0
+10840,JetBlue,Domestic,14,Jun,1,2.0,Economy,1,1,Credit Card,454.77,No,Free,Yes,9.0,0
+10841,JetBlue,Domestic,139,Feb,1,6.0,Business,4,1,Debit Card,215.51,No,Free,No,4.0,1
+10842,Delta,Domestic,224,Jul,0,3.0,Economy,0,2,Credit Card,120.7,No,Paid,No,3.0,1
+10843,Delta,International,236,Feb,1,1.0,Economy,4,0,PayPal,532.27,Yes,Paid,No,9.0,0
+10844,JetBlue,Domestic,205,Oct,0,3.0,Economy,2,1,Debit Card,628.65,No,Free,No,5.0,1
+10845,JetBlue,International,184,Aug,0,3.0,Business,4,1,Credit Card,114.08,No,Paid,No,6.0,1
+10846,Alaska,Domestic,135,Aug,0,4.0,Economy,4,2,Debit Card,673.81,No,Paid,No,6.0,1
+10847,Southwest,Domestic,71,Jan,0,6.0,Economy,2,0,Credit Card,345.16,No,free,No,10.0,0
+10848,Delta,Domestic,154,Aug,0,4.0,Economy,4,2,Debit Card,383.54,No,Free,No,7.0,1
+10849,Southwest,Domestic,189,Feb,1,3.0,Economy,0,2,Credit Card,175.5,Yes,Free,Yes,4.0,1
+10850,Southwest,International,11,Jun,0,1.0,Economy,3,1,Credit Card,111.53,Yes,Free,No,6.0,0
+10851,JetBlue,International,64,Jan,0,2.0,Economy,2,0,Debit Card,43.07,No,Free,no,3.0,1
+10852,Alaska,Domestic,106,May,1,2.0,Business,1,0,Credit Card,504.32,No,Free,No,8.0,1
+10853,United,Domestic,231,Nov,0,6.0,Economy,0,2,PayPal,348.42,Yes,Paid,No,4.0,1
+10854,Alaska,Domestic,41,Jul,0,5.0,Economy,3,0,Debit Card,424.51,Yes,Paid,No,2.0,0
+10855,Alaska,International,189,Oct,0,5.0,Economy,0,1,Credit Card,518.64,N,Free,Y,4.0,1
+10856,Southwest,Domestic,114,Jan,1,2.0,Economy,0,1,Credit Card,346.59,No,Free,Yes,8.0,1
+10857,Alaska,Domestic,138,Feb,0,3.0,Business,1,1,PayPal,596.53,No,free,Yes,10.0,1
+10858,Delta,International,102,Jul,0,,Economy,3,0,Credit Card,244.44,No,free,No,7.0,1
+10859,Southwest,Domestic,170,Jun,0,4.0,Economy,0,0,Debit Card,301.53,No,Free,,0.0,0
+10860,Delta,Domestic,94,Mar,0,6.0,Economy,1,1,Debit Card,233.6,Yes,Free,Yes,4.0,0
+10861,United,Domestic,16,Oct,0,4.0,Economy,2,1,PayPal,476.97,Yes,Paid,No,5.0,0
+10862,Southwest,International,224,Feb,0,5.0,Economy,1,0,,515.9,No,Paid,No,9.0,1
+10863,United,Domestic,159,Oct,0,2.0,Economy,4,0,Debit Card,296.59,No,Free,No,10.0,1
+10864,Southwest,Domestic,220,Apr,1,3.0,Economy,1,0,PayPal,164.96,No,Paid,No,1.0,1
+10865,JetBlue,Domestic,212,Mar,0,2.0,Business,1,0,Debit Card,532.29,No,Free,No,5.0,0
+10866,Alaska,Domestic,84,Jul,0,1.0,Economy,1,1,Debit Card,236.7,No,Paid,N,8.0,0
+10867,JetBlue,Domestic,167,Aug,0,2.0,Economy,0,1,Credit Card,303.61,No,Free,Yes,3.0,1
+10868,United,Domestic,150,Feb,0,,Business,3,0,Credit Card,209.74,Yes,Free,N,2.0,1
+10869,Alaska,Domestic,55,Oct,1,4.0,Economy,1,0,Debit Card,400.24,No,Free,Yes,8.0,0
+10870,Southwest,Domestic,133,Jul,0,4.0,Economy,1,1,Credit Card,252.21,No,PAID,No,1.0,1
+10871,Alaska,Domestic,85,Aug,0,5.0,Economy,4,0,Credit Card,458.2,No,Free,yes,8.0,0
+10872,Delta,Domestic,177,Jun,1,2.0,Economy,4,1,Credit Card,281.63,No,Paid,,10.0,1
+10873,Alaska,International,101,Jun,0,2.0,Economy,2,1,Credit Card,435.3,No,Free,No,9.0,1
+10874,Delta,Domestic,164,Oct,0,1.0,Economy,2,1,,230.54,Yes,Free,No,,0
+10875,Alaska,International,236,Jan,0,4.0,Business,4,1,Credit Card,531.68,No,Paid,No,10.0,1
+10876,Delta,International,191,Apr,0,1.0,Economy,3,0,Credit Card,290.01,Yes,Free,Yes,1.0,0
+10877,United,Domestic,53,Jan,0,4.0,Economy,2,0,Debit Card,372.61,no,Free,No,10.0,1
+10878,JetBlue,Domestic,199,Apr,0,1.0,Economy,3,0,Credit Card,193.69,No,Free,No,9.0,1
+10879,Southwest,Domestic,232,Feb,0,4.0,Economy,4,1,Credit Card,357.75,No,Free,Yes,2.0,1
+10880,Alaska,Domestic,176,Nov,1,1.0,Economy,2,0,,198.89,No,Free,No,6.0,0
+10881,JetBlue,Domestic,226,May,0,4.0,Economy,1,1,Credit Card,353.85,YES,Paid,No,1.0,1
+10882,Southwest,Domestic,114,Oct,0,6.0,Economy,4,0,Debit Card,225.39,No,Free,Yes,0.0,0
+10883,Southwest,Domestic,138,Sep,0,1.0,Business,2,0,Debit Card,338.25,Yes,FREE,No,8.0,0
+10884,Delta,International,87,Nov,0,2.0,Economy,3,2,Credit Card,425.23,Yes,Paid,Yes,5.0,0
+10885,United,Domestic,48,Dec,0,5.0,Economy,3,1,Credit Card,167.87,No,Free,No,8.0,0
+10886,United,International,148,Oct,1,6.0,Business,2,0,PayPal,353.91,No,Free,No,2.0,1
+10887,JetBlue,Domestic,114,Mar,1,6.0,Economy,3,0,Credit Card,417.16,No,Free,Yes,2.0,0
+10888,United,International,193,Aug,1,1.0,Business,2,0,Credit Card,416.57,Yes,Paid,Yes,9.0,1
+10889,Alaska,Domestic,62,Mar,1,5.0,Business,2,0,Credit Card,628.57,No,Paid,No,2.0,1
+10890,United,Domestic,103,Jun,0,2.0,Economy,3,2,,255.77,No,Paid,No,1.0,0
+10891,JetBlue,Domestic,82,Apr,0,6.0,First,0,0,Credit Card,359.61,No,Free,No,10.0,0
+10892,United,Domestic,102,Aug,0,2.0,Economy,1,1,Credit Card,604.68,No,paid,No,5.0,1
+10893,Alaska,Domestic,155,Nov,0,,Economy,4,1,Credit Card,167.74,No,Paid,No,2.0,1
+10894,Delta,International,16,Jun,1,5.0,Business,1,0,Credit Card,40.0,No,Paid,Yes,4.0,0
+10895,JetBlue,Domestic,5,Aug,0,3.0,Economy,4,0,Credit Card,434.98,Yes,Free,No,10.0,0
+10896,Delta,Domestic,146,Jan,1,4.0,Economy,4,2,Credit Card,506.05,No,Paid,No,4.0,1
+10897,Delta,International,183,Jun,0,5.0,Economy,1,1,Credit Card,64.6,No,Paid,No,9.0,1
+10898,Delta,International,229,Jan,1,1.0,Business,2,0,Credit Card,315.23,No,Free,Yes,2.0,1
+10899,Southwest,Domestic,27,Jan,1,,Business,3,1,Credit Card,217.49,Yes,Free,Yes,2.0,0
+10900,Southwest,Domestic,193,Aug,1,2.0,Economy,0,0,Debit Card,403.35,Yes,PAID,No,0.0,1
+10901,Delta,Domestic,37,Jul,1,6.0,First,0,0,Debit Card,355.26,Yes,Free,Yes,5.0,0
+10902,JetBlue,Domestic,118,Mar,0,3.0,Economy,0,3,Credit Card,543.25,No,Paid,No,2.0,0
+10903,Alaska,International,36,Jun,1,1.0,Economy,1,1,Credit Card,171.72,no,Free,No,0.0,0
+10904,Alaska,International,114,Sep,1,5.0,Economy,1,1,Debit Card,414.04,N,Paid,Yes,9.0,0
+10905,United,International,67,Jul,1,,Business,2,0,Credit Card,447.03,YES,,No,8.0,1
+10906,JetBlue,International,213,Dec,0,6.0,Economy,0,0,Credit Card,367.05,No,Paid,No,10.0,0
+10907,Southwest,Domestic,217,Mar,0,5.0,Economy,2,2,Debit Card,79.03,,Paid,,0.0,1
+10908,Delta,International,176,Jun,1,6.0,Business,0,1,PayPal,418.18,No,Paid,No,4.0,1
+10909,United,International,42,Nov,0,1.0,First,1,0,Credit Card,257.71,No,Free,yes,4.0,0
+10910,Alaska,Domestic,163,Apr,1,5.0,Economy,3,2,Credit Card,115.94,Yes,Free,yes,1.0,1
+10911,Southwest,International,57,Mar,0,5.0,Economy,3,0,PayPal,411.69,Yes,Paid,Yes,0.0,0
+10912,Southwest,Domestic,12,Sep,0,,First,3,0,Credit Card,467.41,No,Free,No,5.0,0
+10913,Delta,Domestic,51,Oct,0,3.0,Business,3,0,PayPal,273.84,,PAID,No,6.0,0
+10914,Alaska,International,57,Feb,0,2.0,Economy,4,0,Credit Card,476.74,,Paid,No,10.0,0
+10915,JetBlue,Domestic,31,Jan,0,3.0,Business,0,1,Credit Card,478.14,No,Paid,Yes,10.0,0
+10916,Southwest,Domestic,208,Feb,0,5.0,Business,3,0,Credit Card,357.56,No,Paid,No,8.0,1
+10917,Delta,Domestic,104,Jul,0,6.0,Business,4,1,PayPal,443.49,No,Paid,No,7.0,0
+10918,JetBlue,Domestic,227,Oct,0,3.0,Business,4,1,PayPal,496.69,Yes,Free,No,9.0,0
+10919,Alaska,International,187,Jan,0,5.0,Economy,4,2,Credit Card,433.51,No,Paid,Yes,2.0,1
+10920,Southwest,Domestic,237,Jun,1,5.0,Economy,2,0,Debit Card,40.0,No,Paid,Yes,8.0,1
+10921,JetBlue,Domestic,82,Jul,1,2.0,Economy,2,0,Debit Card,40.0,No,Paid,No,0.0,0
+10922,JetBlue,International,185,Sep,1,2.0,Economy,4,1,Debit Card,509.25,No,Free,Yes,5.0,1
+10923,JetBlue,Domestic,98,Aug,1,6.0,Business,3,2,Debit Card,263.62,No,Paid,Yes,9.0,0
+10924,Southwest,Domestic,237,Jun,1,4.0,First,0,1,Credit Card,290.57,Yes,Free,No,1.0,0
+10925,Southwest,Domestic,103,Mar,0,1.0,Economy,1,0,,624.6,Yes,PAID,No,9.0,1
+10926,United,International,183,Aug,1,4.0,Economy,2,1,PayPal,257.28,Yes,Free,No,8.0,1
+10927,Alaska,Domestic,27,Jul,1,4.0,Economy,3,0,PayPal,340.61,No,,Yes,8.0,0
+10928,Delta,Domestic,128,Mar,0,6.0,Economy,3,1,Credit Card,361.75,Yes,Free,Y,7.0,0
+10929,JetBlue,Domestic,169,Sep,0,3.0,Economy,1,0,Credit Card,330.19,Yes,Free,No,10.0,1
+10930,United,Domestic,209,Dec,1,6.0,Economy,1,0,PayPal,548.17,Yes,Free,No,6.0,0
+10931,Delta,Domestic,47,Feb,0,6.0,Economy,3,0,Credit Card,307.56,No,Free,Y,5.0,0
+10932,United,Domestic,39,Mar,1,5.0,Economy,1,2,Credit Card,460.71,No,Free,No,1.0,0
+10933,Southwest,Domestic,96,Feb,0,5.0,Economy,3,0,Credit Card,369.84,Yes,Paid,No,3.0,1
+10934,JetBlue,International,190,Jan,0,5.0,Business,1,0,PayPal,495.37,No,Free,No,9.0,0
+10935,Delta,Domestic,203,Apr,0,1.0,Economy,1,0,Credit Card,167.93,No,Free,No,6.0,1
+10936,Delta,International,199,May,0,3.0,Economy,3,2,,44.5,Yes,Paid,Yes,5.0,1
+10937,Delta,International,215,Jun,0,3.0,Economy,4,0,Credit Card,364.16,Yes,Free,YES,8.0,1
+10938,Delta,International,207,May,0,5.0,Economy,3,0,PayPal,241.36,No,FREE,Yes,4.0,1
+10939,Delta,International,113,Jan,1,4.0,Business,0,0,Debit Card,565.08,Yes,Free,,5.0,1
+10940,United,Domestic,131,Mar,1,1.0,Economy,1,0,Debit Card,348.37,Yes,Free,No,9.0,1
+10941,JetBlue,Domestic,165,Jan,0,4.0,Business,2,0,Credit Card,390.77,No,Free,No,5.0,1
+10942,Southwest,Domestic,235,Nov,1,2.0,Economy,1,0,,316.97,No,,Yes,7.0,1
+10943,Southwest,Domestic,154,May,0,3.0,Economy,0,0,Debit Card,268.81,No,Paid,No,7.0,1
+10944,Southwest,International,136,May,0,,Economy,2,1,Debit Card,368.05,No,Free,Yes,5.0,0
+10945,Southwest,International,110,Dec,0,4.0,Economy,2,0,PayPal,502.06,No,Free,No,7.0,1
+10946,United,Domestic,143,Nov,0,1.0,Economy,3,1,Credit Card,316.24,Yes,Free,Yes,6.0,0
+10947,Alaska,Domestic,183,Jun,0,3.0,Business,4,0,Debit Card,306.4,Yes,Paid,No,0.0,1
+10948,JetBlue,International,75,Aug,0,,Economy,3,1,PayPal,472.67,No,paid,No,4.0,0
+10949,Delta,Domestic,30,Oct,1,6.0,Economy,2,1,Debit Card,124.15,No,Free,No,10.0,0
+10950,Alaska,Domestic,215,Dec,1,6.0,Business,2,1,Credit Card,526.39,No,Paid,No,9.0,1
+10951,Southwest,International,118,Jan,0,1.0,First,4,2,Credit Card,2794.5,no,Free,Yes,9.0,1
+10952,Alaska,Domestic,141,Apr,0,4.0,Economy,1,1,Debit Card,492.24,Yes,Paid,No,9.0,1
+10953,JetBlue,Domestic,236,Oct,0,6.0,Economy,4,0,Credit Card,401.14,NO,Paid,No,4.0,1
+10954,Delta,Domestic,24,Nov,0,1.0,Economy,3,1,Credit Card,68.25,No,Paid,No,9.0,0
+10955,Delta,International,33,Jan,1,5.0,Economy,1,1,PayPal,361.66,Yes,Paid,Yes,8.0,0
+10956,JetBlue,Domestic,66,Sep,0,1.0,First,3,0,Credit Card,544.0,No,Free,No,6.0,0
+10957,JetBlue,Domestic,151,Nov,1,2.0,Economy,4,1,Credit Card,317.5,YES,Paid,NO,6.0,1
+10958,Southwest,Domestic,117,Jul,1,5.0,Economy,1,1,Debit Card,330.35,YES,Paid,No,9.0,0
+10959,Delta,Domestic,233,Jul,0,4.0,First,4,0,,252.56,Yes,Free,Yes,1.0,1
+10960,Alaska,Domestic,72,Dec,1,5.0,Business,0,0,Credit Card,527.37,No,Free,No,,0
+10961,United,International,25,May,0,5.0,Economy,2,0,Credit Card,295.19,Yes,Free,No,2.0,0
+10962,United,Domestic,147,Jul,0,4.0,Business,1,1,Credit Card,610.81,Yes,Paid,Yes,8.0,0
+10963,JetBlue,International,191,Dec,0,4.0,Economy,2,0,Credit Card,521.75,Yes,Paid,No,5.0,1
+10964,Southwest,Domestic,103,Feb,0,6.0,Economy,0,0,Credit Card,546.47,No,Free,No,8.0,1
+10965,United,Domestic,9,Apr,0,2.0,Business,1,0,Credit Card,371.22,No,,Yes,8.0,1
+10966,Delta,Domestic,210,Jul,0,4.0,Economy,2,1,Credit Card,291.91,Yes,Paid,Yes,6.0,0
+10967,JetBlue,Domestic,66,Mar,1,3.0,Economy,2,0,Credit Card,426.98,No,FREE,No,9.0,0
+10968,Alaska,Domestic,151,Feb,1,3.0,Economy,1,1,PayPal,577.28,No,Free,No,7.0,0
+10969,JetBlue,Domestic,4,Oct,1,2.0,Business,2,1,Credit Card,608.25,No,Free,,1.0,0
+10970,Alaska,Domestic,194,Feb,0,1.0,Economy,2,1,Debit Card,99.99,Yes,Free,No,4.0,1
+10971,JetBlue,Domestic,185,Jan,1,1.0,Economy,1,0,Credit Card,738.67,No,Paid,No,2.0,1
+10972,JetBlue,Domestic,26,May,1,3.0,Economy,2,0,Debit Card,395.3,No,Paid,Yes,0.0,0
+10973,JetBlue,International,207,Dec,1,4.0,Economy,2,0,Debit Card,469.08,No,Paid,no,5.0,0
+10974,Alaska,International,112,Jun,1,2.0,Economy,3,0,Credit Card,234.66,No,Paid,No,8.0,1
+10975,Alaska,Domestic,14,Jun,1,1.0,Business,3,0,Credit Card,225.02,,Free,no,1.0,0
+10976,JetBlue,Domestic,162,Sep,0,1.0,Economy,0,2,Credit Card,158.57,No,free,No,8.0,1
+10977,United,Domestic,203,Apr,1,5.0,Economy,3,0,,598.51,No,Free,No,7.0,1
+10978,Southwest,Domestic,104,Jan,0,3.0,Economy,3,1,Credit Card,263.67,No,Free,YES,10.0,1
+10979,Southwest,Domestic,180,Jun,1,4.0,Economy,0,0,PayPal,347.13,No,Paid,No,8.0,1
+10980,Southwest,International,43,May,0,2.0,Business,2,0,Credit Card,317.81,NO,Free,No,4.0,0
+10981,Alaska,Domestic,25,Oct,0,1.0,Economy,2,0,Credit Card,217.08,N,PAID,No,1.0,0
+10982,Alaska,Domestic,174,Jun,0,5.0,Economy,3,0,Debit Card,332.15,YES,Free,Yes,9.0,0
+10983,United,International,161,Mar,1,3.0,Economy,0,2,PayPal,372.31,No,Paid,,9.0,0
+10984,Southwest,Domestic,214,Feb,0,3.0,Economy,2,0,Credit Card,534.83,No,PAID,No,5.0,1
+10985,Southwest,International,94,Jun,0,2.0,Economy,4,0,Debit Card,211.73,No,Paid,Yes,6.0,0
+10986,JetBlue,Domestic,177,Jan,1,1.0,Business,1,1,Credit Card,278.31,Yes,,Yes,2.0,1
+10987,Alaska,Domestic,83,Jul,1,2.0,Economy,1,0,Credit Card,437.02,N,Paid,No,5.0,1
+10988,Southwest,Domestic,139,Jul,0,2.0,Economy,1,0,Debit Card,366.35,Yes,Free,Yes,5.0,0
+10989,United,Domestic,214,Oct,0,6.0,Economy,3,1,PayPal,368.93,No,Paid,yes,7.0,1
+10990,United,International,131,Jul,1,5.0,Economy,1,0,Credit Card,224.05,No,Free,No,0.0,1
+10991,Southwest,Domestic,86,Dec,1,3.0,Economy,1,1,Credit Card,468.98,Yes,Free,No,3.0,0
+10992,Alaska,International,175,Nov,0,6.0,Business,4,0,Debit Card,557.91,Yes,Free,No,0.0,1
+10993,United,Domestic,182,Oct,0,4.0,Economy,2,1,Credit Card,544.96,Yes,Paid,No,7.0,0
+10994,JetBlue,Domestic,111,Jan,0,3.0,Economy,4,0,Debit Card,332.89,Yes,Paid,No,1.0,0
+10995,United,Domestic,128,Apr,1,3.0,Economy,3,1,Credit Card,40.0,No,Free,No,7.0,1
+10996,Delta,Domestic,88,Jul,1,5.0,Economy,1,0,Credit Card,392.72,no,Paid,YES,2.0,1
+10997,Delta,International,65,Nov,0,4.0,Economy,2,2,Debit Card,374.04,Yes,FREE,No,7.0,1
+10998,Alaska,Domestic,157,Sep,0,1.0,Economy,1,0,Credit Card,217.46,Yes,Free,No,5.0,0
+10999,Southwest,Domestic,130,May,1,4.0,Business,1,0,PayPal,244.97,No,Free,No,0.0,1
+11000,Alaska,Domestic,121,Feb,0,1.0,Business,3,0,Debit Card,220.62,Yes,Free,No,6.0,0
+11001,Alaska,Domestic,148,Jul,0,4.0,Economy,1,0,Debit Card,398.43,Yes,Paid,No,6.0,1
+11002,Alaska,Domestic,216,Oct,0,2.0,Economy,0,0,Credit Card,244.86,,Free,,5.0,1
+11003,Alaska,Domestic,83,Jan,1,,Economy,2,1,PayPal,383.11,Yes,Paid,No,0.0,0
+11004,JetBlue,International,176,Jul,0,6.0,Economy,2,0,Debit Card,692.72,Yes,Free,No,4.0,1
+11005,JetBlue,Domestic,115,Jun,1,6.0,Business,0,0,Credit Card,333.98,No,Paid,No,0.0,0
+11006,United,Domestic,213,Jul,0,5.0,Economy,3,0,Credit Card,197.6,Yes,Paid,NO,0.0,0
+11007,Delta,Domestic,212,Oct,1,1.0,Business,1,1,Credit Card,156.53,No,Paid,No,5.0,1
+11008,Alaska,Domestic,189,Mar,0,3.0,Economy,1,3,PayPal,406.21,,Free,No,7.0,1
+11009,United,International,224,Mar,0,5.0,Economy,2,1,PayPal,640.41,No,Free,Yes,0.0,0
+11010,Delta,Domestic,115,Jul,0,6.0,Economy,3,0,PayPal,233.78,Yes,Free,No,1.0,0
+11011,Southwest,Domestic,37,Feb,1,6.0,Business,3,0,Debit Card,58.3,no,Paid,Yes,4.0,0
+11012,JetBlue,Domestic,142,Jan,1,1.0,Economy,3,0,Credit Card,599.05,No,Free,No,7.0,0
+11013,Delta,Domestic,109,Sep,1,6.0,Economy,1,0,Credit Card,712.28,Yes,Paid,No,10.0,1
+11014,Southwest,Domestic,179,Sep,1,6.0,Economy,3,0,Credit Card,465.94,Yes,Paid,Yes,3.0,0
+11015,Delta,International,206,Jul,0,,First,0,0,Credit Card,420.28,No,Free,Yes,4.0,1
+11016,JetBlue,International,45,Jul,1,6.0,Economy,4,1,Credit Card,369.34,No,Free,Y,9.0,1
+11017,JetBlue,International,24,Mar,0,3.0,Economy,3,0,PayPal,455.34,No,Paid,Yes,4.0,0
+11018,United,Domestic,20,Oct,1,2.0,Economy,4,1,PayPal,448.87,No,Free,Y,2.0,1
+11019,Alaska,Domestic,215,Feb,0,5.0,Business,1,2,Credit Card,399.62,No,Free,Yes,,1
+11020,Delta,Domestic,120,Nov,1,3.0,Business,3,0,,226.68,Yes,Free,Yes,4.0,1
+11021,Delta,Domestic,121,Jul,1,3.0,Economy,2,2,Debit Card,398.88,No,Free,Yes,1.0,0
+11022,Southwest,International,132,Sep,1,2.0,Economy,1,0,Credit Card,346.22,No,Free,No,9.0,0
+11023,JetBlue,Domestic,69,Jan,0,5.0,Economy,0,1,Debit Card,247.71,No,Free,No,3.0,0
+11024,Delta,International,112,Apr,0,3.0,Economy,0,0,Credit Card,398.55,Yes,Paid,Yes,10.0,1
+11025,JetBlue,International,106,Jun,0,6.0,Economy,4,0,PayPal,291.93,Yes,Paid,Yes,3.0,1
+11026,Delta,Domestic,111,Jul,1,2.0,Economy,4,0,Debit Card,369.48,Yes,Paid,No,6.0,0
+11027,United,Domestic,107,Oct,0,5.0,Economy,2,2,Debit Card,423.91,No,PAID,Yes,6.0,1
+11028,Alaska,Domestic,46,Jul,1,4.0,Economy,2,0,Credit Card,443.74,No,Free,No,8.0,1
+11029,Delta,Domestic,214,Oct,0,1.0,Business,0,1,Credit Card,295.38,Yes,Free,,9.0,0
+11030,JetBlue,International,195,Feb,0,6.0,Economy,3,0,Credit Card,423.05,Yes,PAID,Yes,1.0,1
+11031,United,Domestic,90,Apr,1,2.0,Economy,0,2,Debit Card,455.65,No,Paid,Yes,5.0,1
+11032,Delta,Domestic,17,May,0,1.0,Economy,0,0,PayPal,496.34,No,Paid,,1.0,0
+11033,Southwest,Domestic,148,Dec,1,4.0,Economy,2,2,Credit Card,402.68,No,PAID,No,8.0,1
+11034,Alaska,International,219,Jan,1,3.0,Economy,4,1,Debit Card,10.01,Yes,Free,Yes,1.0,1
+11035,Delta,Domestic,226,Jan,0,3.0,Business,2,1,Credit Card,301.0,Yes,Paid,No,5.0,1
+11036,United,International,213,Oct,0,5.0,Economy,2,2,Credit Card,720.77,No,PAID,No,7.0,1
+11037,Southwest,Domestic,103,Mar,0,2.0,Economy,2,0,Debit Card,351.02,No,Paid,No,5.0,0
+11038,United,International,150,Oct,0,2.0,Economy,0,1,Debit Card,516.97,Yes,Paid,,2.0,1
+11039,United,International,191,Mar,1,5.0,Economy,3,0,Credit Card,291.85,No,Paid,,4.0,1
+11040,Southwest,Domestic,194,Dec,0,1.0,Economy,0,0,Credit Card,412.47,No,Paid,No,3.0,1
+11041,United,Domestic,39,Aug,0,3.0,Economy,1,0,,407.24,No,Free,N,0.0,0
+11042,Southwest,International,137,Sep,0,3.0,Economy,2,1,Credit Card,433.89,Yes,paid,No,4.0,0
+11043,Delta,Domestic,88,Nov,0,2.0,Economy,2,0,PayPal,241.28,No,Free,No,9.0,0
+11044,Southwest,International,179,Dec,0,2.0,Economy,1,0,Debit Card,414.52,No,Paid,No,4.0,0
+11045,Southwest,Domestic,199,Jan,1,5.0,Economy,2,0,Credit Card,292.4,No,Free,Yes,6.0,1
+11046,Alaska,International,202,Nov,1,4.0,Economy,2,0,Credit Card,474.72,No,Free,,6.0,1
+11002,Southwest,International,60,Feb,1,1.0,Economy,2,0,PayPal,237.05,No,Free,NO,1.0,1
+11048,Southwest,International,191,Oct,1,6.0,Business,1,0,Debit Card,402.83,,Free,No,3.0,1
+11049,Delta,Domestic,4,Feb,0,4.0,Economy,0,1,Debit Card,356.04,Y,Free,Yes,0.0,0
+10362,Alaska,Domestic,121,Apr,1,4.0,Business,2,0,Credit Card,619.69,No,free,No,4.0,0
+11051,JetBlue,Domestic,236,Feb,0,2.0,Economy,3,2,PayPal,516.49,No,Free,No,4.0,1
+11052,Delta,Domestic,180,Jul,0,2.0,Business,1,0,Credit Card,552.15,Yes,Free,YES,3.0,1
+11053,Delta,Domestic,54,Sep,0,2.0,Economy,4,1,Debit Card,251.98,No,Paid,No,9.0,1
+11054,JetBlue,Domestic,36,Jul,0,4.0,Economy,1,1,PayPal,306.33,No,Free,No,6.0,1
+11055,Southwest,International,55,Dec,1,1.0,Economy,0,0,Credit Card,359.43,YES,Free,Yes,5.0,0
+11056,United,Domestic,186,Jun,0,2.0,Economy,1,1,Credit Card,520.24,Yes,Paid,No,9.0,1
+11057,Alaska,Domestic,236,Oct,1,3.0,First,4,0,Credit Card,412.65,Yes,Free,No,2.0,1
+11058,United,International,101,Jan,0,1.0,Economy,3,0,Credit Card,255.12,No,Free,Yes,1.0,0
+11059,JetBlue,Domestic,92,Nov,0,3.0,First,4,4,,261.03,No,Free,No,3.0,1
+11060,Delta,Domestic,196,Oct,1,1.0,Economy,1,0,PayPal,526.95,No,free,No,8.0,1
+11061,Delta,International,72,Sep,0,2.0,Economy,4,0,Credit Card,417.17,No,,Y,9.0,0
+11062,Alaska,International,58,May,0,6.0,Economy,1,0,Debit Card,367.34,NO,Paid,Yes,4.0,0
+11063,Delta,Domestic,239,Nov,0,5.0,Economy,3,3,PayPal,355.75,No,Free,No,0.0,1
+11064,Delta,Domestic,1,May,0,2.0,Business,3,0,PayPal,485.36,N,Paid,No,10.0,0
+11065,Alaska,International,192,Jun,1,4.0,Economy,0,0,Credit Card,212.39,No,Paid,No,2.0,1
+11066,Alaska,Domestic,103,Sep,0,6.0,Economy,3,0,,367.26,No,Free,Yes,8.0,0
+11067,JetBlue,Domestic,187,Aug,1,4.0,First,2,1,Credit Card,375.63,No,Paid,Yes,6.0,0
+11068,Delta,Domestic,50,Aug,1,1.0,Economy,4,2,Credit Card,185.57,No,Paid,No,2.0,0
+11069,Delta,Domestic,29,Aug,1,4.0,Economy,4,0,Debit Card,330.96,No,Paid,No,0.0,0
+11070,JetBlue,Domestic,10,Jan,1,6.0,Economy,1,1,Credit Card,680.11,No,Free,Yes,3.0,0
+11071,Southwest,Domestic,219,Jan,0,6.0,Economy,3,1,Credit Card,243.1,Yes,Paid,No,8.0,1
+11072,Southwest,Domestic,107,Aug,1,2.0,Economy,0,0,,377.65,Yes,Paid,No,6.0,0
+11073,Southwest,International,75,May,0,3.0,Economy,0,0,Debit Card,69.2,No,Free,Yes,4.0,0
+11074,JetBlue,Domestic,166,Sep,0,2.0,Economy,0,0,Credit Card,340.55,YES,Paid,Yes,10.0,1
+11075,Delta,International,89,Feb,1,1.0,Economy,2,1,Credit Card,209.59,No,Free,Yes,5.0,1
+11076,JetBlue,International,204,Sep,0,4.0,Economy,3,2,Credit Card,310.75,No,Paid,No,0.0,1
+11077,JetBlue,Domestic,122,Dec,0,3.0,First,0,0,Credit Card,419.66,No,Free,Yes,6.0,1
+11078,Southwest,Domestic,199,Aug,0,5.0,Economy,2,1,Debit Card,202.39,No,Free,Y,4.0,0
+11079,United,Domestic,190,Sep,0,6.0,Economy,4,0,Credit Card,393.74,N,Free,No,6.0,1
+11080,Delta,Domestic,191,Apr,0,,Economy,1,1,Debit Card,250.83,No,Paid,No,4.0,0
+11081,Southwest,International,188,Jan,0,3.0,Economy,3,1,Credit Card,173.04,No,,Yes,4.0,1
+11082,United,Domestic,124,Jan,0,2.0,Economy,3,1,Credit Card,497.58,Yes,Free,No,2.0,1
+11083,United,International,181,May,0,,Business,4,2,Credit Card,225.4,No,Paid,No,4.0,1
+11084,Alaska,Domestic,219,Feb,0,6.0,Business,3,0,Credit Card,300.66,Yes,PAID,No,7.0,0
+11085,Delta,Domestic,121,Aug,0,1.0,Economy,3,1,Debit Card,280.1,Yes,Paid,No,7.0,1
+11086,United,Domestic,93,Oct,1,1.0,Economy,3,0,Credit Card,390.36,Yes,Free,No,1.0,1
+11087,Southwest,Domestic,200,Nov,0,3.0,Economy,3,0,Debit Card,364.52,No,Free,No,10.0,1
+11088,Alaska,Domestic,102,May,1,3.0,Economy,2,2,Credit Card,336.87,Yes,Free,Yes,0.0,1
+11089,Delta,Domestic,222,May,1,4.0,Economy,2,1,PayPal,260.78,YES,Paid,No,1.0,1
+11090,JetBlue,Domestic,185,Feb,1,5.0,Business,1,0,Debit Card,322.86,Yes,Paid,No,10.0,1
+11091,Southwest,Domestic,212,Jul,1,6.0,Economy,3,0,Debit Card,401.14,Yes,Free,No,6.0,0
+11092,United,International,183,Aug,1,3.0,First,4,1,Credit Card,376.51,Yes,Free,NO,2.0,1
+11093,United,Domestic,238,Oct,0,4.0,Economy,0,1,PayPal,517.05,Yes,,Yes,7.0,0
+11094,Southwest,International,161,Jan,1,5.0,Economy,1,1,PayPal,466.82,N,Free,No,3.0,1
+11095,United,International,30,Feb,1,6.0,Economy,0,1,Credit Card,514.91,Yes,Paid,Yes,9.0,0
+11096,Alaska,International,51,Oct,0,1.0,Economy,0,0,Credit Card,549.48,Yes,Free,No,9.0,1
+11097,Delta,Domestic,88,Apr,0,4.0,Economy,3,1,Credit Card,386.19,No,Paid,No,7.0,0
+11098,Alaska,International,75,May,1,5.0,Economy,4,0,Credit Card,479.51,No,Free,no,1.0,1
+11099,United,Domestic,128,Feb,1,4.0,Economy,0,1,Credit Card,407.0,No,Free,YES,4.0,0
+11100,JetBlue,Domestic,182,Jan,0,3.0,Business,0,2,Credit Card,545.75,No,Free,Yes,5.0,1
+11101,Delta,Domestic,21,Sep,0,2.0,Economy,1,2,PayPal,114.32,Yes,Free,No,0.0,1
+11102,Delta,International,39,Jan,1,1.0,Business,4,1,Credit Card,315.82,Yes,Paid,No,0.0,0
+11103,Southwest,Domestic,100,Apr,0,3.0,Economy,4,0,PayPal,417.41,No,Free,No,8.0,0
+11104,Southwest,International,110,Feb,1,,Business,0,1,Credit Card,439.79,No,Free,No,4.0,1
+11105,JetBlue,Domestic,128,Nov,1,5.0,Economy,4,1,Debit Card,357.53,No,,No,3.0,0
+11106,Delta,International,64,Apr,0,4.0,Economy,1,0,Credit Card,127.25,No,Free,Yes,0.0,0
+11107,JetBlue,International,190,Aug,0,1.0,Economy,1,0,Debit Card,335.14,Yes,Free,No,2.0,1
+11108,Southwest,Domestic,233,Aug,1,3.0,Economy,1,1,Credit Card,474.27,No,Paid,Yes,3.0,1
+11109,Southwest,International,181,Nov,1,5.0,Economy,3,1,Credit Card,315.81,No,paid,Yes,10.0,1
+11110,Delta,Domestic,169,Dec,0,1.0,Economy,0,1,PayPal,372.95,,Paid,No,10.0,1
+11111,Alaska,Domestic,148,Sep,0,4.0,Economy,4,0,Credit Card,628.32,No,Paid,No,4.0,1
+11112,United,Domestic,78,Nov,0,3.0,Economy,1,1,Credit Card,333.84,Yes,Free,No,9.0,1
+11113,Southwest,Domestic,208,Dec,1,6.0,Economy,0,0,Credit Card,337.97,YES,Paid,No,4.0,1
+11114,Southwest,Domestic,21,May,0,,Economy,0,1,PayPal,387.18,Yes,Paid,Yes,9.0,0
+11115,Alaska,Domestic,165,Jul,0,3.0,Economy,3,0,Credit Card,393.26,Yes,Paid,No,7.0,1
+11116,Alaska,Domestic,98,Mar,0,1.0,Economy,4,0,Debit Card,378.85,No,Paid,No,2.0,1
+11117,JetBlue,International,236,Oct,1,1.0,Business,4,0,Credit Card,415.05,no,free,Y,6.0,1
+11118,JetBlue,International,207,Apr,0,1.0,Economy,1,0,Credit Card,193.39,No,Free,YES,5.0,1
+11119,United,International,7,Oct,0,1.0,Economy,1,0,PayPal,343.03,No,Paid,No,9.0,0
+11120,United,International,189,Sep,0,5.0,Economy,0,1,Credit Card,188.03,No,Free,No,10.0,1
+11121,Delta,International,174,Oct,1,2.0,Economy,4,1,Debit Card,367.84,Yes,Free,No,9.0,1
+11122,JetBlue,Domestic,16,Oct,0,5.0,Economy,4,0,Credit Card,444.64,No,Paid,No,9.0,1
+11123,Southwest,Domestic,16,Dec,0,3.0,Economy,1,0,Credit Card,340.58,No,free,No,10.0,0
+11124,JetBlue,International,89,Jan,0,5.0,Economy,2,1,Credit Card,227.44,No,Paid,No,5.0,1
+11125,Southwest,Domestic,140,Feb,1,4.0,Economy,0,1,Credit Card,299.67,No,Free,No,9.0,1
+11126,Alaska,International,144,May,0,,Economy,4,1,Debit Card,612.14,No,Paid,No,8.0,1
+11127,JetBlue,Domestic,165,Mar,0,1.0,Business,3,0,Debit Card,562.96,No,free,No,6.0,1
+11128,Alaska,Domestic,80,Feb,0,4.0,Economy,3,0,Credit Card,284.09,No,Paid,Yes,10.0,1
+11129,United,Domestic,239,Jan,1,6.0,Economy,2,0,Credit Card,283.39,No,paid,No,6.0,0
+11130,United,Domestic,77,Oct,0,4.0,Economy,1,1,Credit Card,344.77,No,Free,No,10.0,1
+11131,Delta,Domestic,172,Mar,1,3.0,Economy,1,1,Debit Card,533.55,No,Paid,Yes,0.0,1
+11132,JetBlue,International,5,Jan,1,1.0,Economy,1,0,PayPal,114.87,No,PAID,yes,0.0,1
+11133,Alaska,Domestic,162,Dec,0,4.0,Economy,3,0,Credit Card,282.28,No,Free,yes,8.0,0
+11134,Southwest,Domestic,109,Jan,1,3.0,Economy,1,1,Credit Card,417.58,No,Free,Yes,8.0,1
+11135,United,International,13,Dec,0,1.0,First,3,0,Credit Card,401.42,yes,Paid,No,10.0,0
+11136,United,International,238,Jan,0,2.0,First,2,1,PayPal,300.13,No,Free,No,9.0,1
+11137,Southwest,Domestic,71,Aug,0,3.0,Economy,0,0,Debit Card,324.68,Yes,Paid,No,2.0,0
+11138,Alaska,International,188,Mar,0,5.0,First,4,0,Credit Card,406.33,No,Free,Yes,10.0,1
+11139,Alaska,Domestic,142,Nov,1,1.0,Economy,2,0,Credit Card,302.54,No,Paid,No,10.0,1
+11140,JetBlue,Domestic,53,Jan,0,4.0,Economy,3,0,Credit Card,211.12,Yes,Free,no,7.0,0
+11141,JetBlue,Domestic,26,Jul,1,6.0,Economy,2,0,Debit Card,334.04,No,Free,No,8.0,0
+11142,Delta,International,12,Oct,0,4.0,Economy,4,0,Debit Card,386.51,Yes,Paid,No,0.0,0
+11143,United,Domestic,158,Mar,0,5.0,Economy,0,0,Credit Card,62.58,Yes,Free,No,2.0,0
+11144,JetBlue,Domestic,162,Aug,1,5.0,First,4,1,PayPal,414.91,No,Free,Yes,5.0,1
+11145,Alaska,International,59,Apr,1,4.0,Economy,3,0,Credit Card,496.38,No,Free,No,3.0,1
+11146,Southwest,Domestic,5,Apr,1,6.0,Economy,4,0,Credit Card,309.98,No,Free,No,7.0,0
+11147,Alaska,Domestic,196,May,0,1.0,Business,2,0,Debit Card,312.52,Yes,Free,Yes,,1
+11148,United,Domestic,213,Jun,0,3.0,Economy,1,1,Credit Card,256.62,Yes,FREE,Yes,6.0,1
+11149,Alaska,Domestic,57,Jul,1,5.0,Economy,2,0,PayPal,338.67,No,,No,10.0,0
+11150,Delta,Domestic,48,Apr,0,5.0,Economy,3,1,Credit Card,281.86,Yes,Free,No,0.0,1
+11151,United,Domestic,150,Aug,0,5.0,Economy,0,2,Credit Card,562.66,No,Paid,No,1.0,0
+11152,Southwest,International,216,Jun,1,6.0,Economy,4,0,Debit Card,377.44,No,Free,yes,0.0,1
+11153,Delta,Domestic,161,Jan,1,2.0,Economy,0,0,Credit Card,59.35,No,Free,YES,8.0,1
+11154,United,Domestic,25,Jan,1,6.0,Economy,3,0,Credit Card,439.87,Yes,Free,No,3.0,0
+11155,Southwest,Domestic,46,Sep,1,1.0,First,4,0,PayPal,600.68,Yes,FREE,No,9.0,0
+11156,Delta,Domestic,4,Oct,1,1.0,Business,2,0,Credit Card,431.27,N,Paid,No,7.0,0
+11157,Delta,Domestic,217,Jun,0,1.0,Economy,2,1,Credit Card,526.6,Yes,Free,No,4.0,1
+11158,United,International,19,Oct,0,1.0,Economy,3,1,PayPal,454.81,No,Free,No,4.0,0
+11159,JetBlue,Domestic,133,Aug,1,1.0,Economy,4,1,Credit Card,498.74,No,Free,No,4.0,0
+11160,Delta,International,197,Jul,0,4.0,First,2,0,Credit Card,491.92,Yes,Free,No,10.0,1
+11161,Delta,International,58,Dec,0,5.0,Economy,3,3,Debit Card,493.53,Y,Free,Yes,4.0,0
+11162,Southwest,Domestic,191,Jun,0,6.0,Economy,3,0,Credit Card,404.33,Yes,Paid,YES,2.0,1
+11163,Alaska,International,145,Apr,0,4.0,Business,0,0,PayPal,119.9,N,Free,Yes,5.0,0
+11164,United,Domestic,131,Jul,1,6.0,First,2,0,Credit Card,207.5,Yes,Free,No,0.0,0
+11165,United,Domestic,16,Sep,1,2.0,Economy,4,1,Debit Card,210.07,No,Paid,No,7.0,0
+11166,JetBlue,Domestic,13,Nov,0,3.0,Economy,2,2,Credit Card,40.0,No,Paid,No,3.0,0
+11167,JetBlue,Domestic,205,Oct,0,5.0,Economy,2,0,Credit Card,299.13,Yes,Free,Yes,5.0,1
+11168,United,Domestic,12,Oct,1,2.0,Economy,2,0,Debit Card,558.17,Yes,Free,Yes,1.0,0
+11169,JetBlue,Domestic,134,Jul,0,4.0,Economy,3,1,Credit Card,158.91,No,Free,Yes,1.0,0
+11170,Southwest,Domestic,127,Jan,1,3.0,Economy,1,0,Debit Card,461.93,No,Free,Yes,7.0,0
+11171,United,Domestic,43,Oct,0,2.0,Economy,1,0,Credit Card,4782.6,No,Paid,No,0.0,0
+11172,JetBlue,Domestic,118,Sep,0,6.0,Economy,0,0,Debit Card,392.2,Yes,Free,No,7.0,1
+11173,United,International,142,Apr,0,3.0,Economy,2,0,Credit Card,525.56,No,Paid,Yes,9.0,0
+11174,Alaska,International,18,Mar,1,6.0,Economy,1,3,Debit Card,354.22,Yes,Free,Yes,9.0,1
+11175,Delta,Domestic,62,Apr,1,2.0,Economy,0,4,Debit Card,573.01,No,Paid,YES,0.0,0
+11176,United,Domestic,234,Apr,1,4.0,Business,3,0,Credit Card,332.07,Yes,Paid,No,8.0,1
+11177,Delta,International,238,Oct,0,6.0,Economy,2,1,Credit Card,408.07,No,Free,No,0.0,1
+11178,JetBlue,International,235,Nov,1,3.0,Economy,4,0,Credit Card,340.18,Y,Paid,Yes,3.0,1
+11179,Delta,International,162,Feb,1,2.0,Economy,3,1,,230.67,No,Free,NO,8.0,1
+11180,United,Domestic,80,Dec,0,6.0,Economy,0,0,Debit Card,171.48,No,Paid,No,0.0,1
+11181,Alaska,Domestic,162,Jan,0,4.0,Economy,3,2,Credit Card,440.53,Yes,Paid,Yes,8.0,1
+11182,JetBlue,Domestic,146,Dec,0,5.0,Business,4,1,PayPal,548.62,No,Paid,Yes,7.0,1
+11183,United,Domestic,147,Oct,0,4.0,Economy,3,0,Credit Card,394.18,Yes,free,No,4.0,1
+11184,JetBlue,International,99,Dec,0,4.0,Economy,0,0,,431.95,Yes,Paid,No,5.0,0
+11185,Southwest,International,162,Jan,0,5.0,Economy,4,0,Credit Card,142.39,YES,Paid,Yes,4.0,0
+11186,Delta,Domestic,159,Aug,0,4.0,Economy,4,0,PayPal,413.94,Yes,Free,no,3.0,1
+11187,Southwest,International,121,Feb,0,5.0,Business,3,0,Credit Card,68.86,YES,paid,Yes,9.0,0
+11188,United,Domestic,175,Dec,0,5.0,Economy,4,2,Credit Card,192.62,No,Paid,No,3.0,1
+11189,Alaska,Domestic,43,Oct,1,6.0,Economy,3,1,PayPal,546.79,Yes,,No,9.0,0
+11190,JetBlue,Domestic,103,May,0,6.0,Economy,2,2,Credit Card,361.91,No,Paid,,7.0,0
+11191,Delta,International,151,Dec,0,5.0,Economy,4,0,Credit Card,374.82,N,Paid,No,7.0,1
+11192,JetBlue,Domestic,60,Apr,0,2.0,Business,3,1,,437.53,Y,Free,No,8.0,1
+11193,United,International,124,Aug,1,3.0,Business,2,1,Debit Card,471.74,,Free,Yes,2.0,0
+11194,JetBlue,International,144,Feb,0,2.0,Business,4,0,Credit Card,322.08,No,Free,No,9.0,0
+11095,Delta,Domestic,70,Oct,1,5.0,Economy,2,1,Credit Card,401.01,No,Free,,,0
+11196,United,Domestic,106,Sep,0,3.0,Economy,4,0,Debit Card,350.27,No,Paid,No,2.0,0
+11197,JetBlue,International,49,Jul,1,6.0,Economy,0,0,Credit Card,145.52,no,Free,No,1.0,0
+11198,Alaska,Domestic,64,Jul,0,3.0,Economy,0,1,PayPal,310.37,Yes,,No,,0
+11199,United,International,98,Jan,1,5.0,Economy,3,0,Debit Card,417.83,No,Free,No,8.0,1
+11200,United,International,31,Dec,0,6.0,Economy,1,0,Debit Card,306.1,Yes,Free,Yes,3.0,0
+11201,Alaska,Domestic,163,Feb,0,3.0,Business,0,2,Credit Card,307.37,N,Free,No,4.0,0
+11202,Southwest,Domestic,140,Apr,0,3.0,Economy,1,0,PayPal,469.51,No,Paid,No,1.0,1
+11203,Delta,International,197,Apr,1,2.0,Economy,2,1,Credit Card,382.56,No,Free,No,8.0,1
+11204,Southwest,Domestic,57,Nov,1,3.0,Business,2,1,PayPal,409.26,No,Paid,No,6.0,0
+11205,JetBlue,Domestic,127,Mar,1,5.0,Economy,1,0,Credit Card,132.54,No,Free,No,2.0,1
+11206,Alaska,Domestic,141,Jul,0,1.0,Economy,3,1,Debit Card,422.76,Yes,Free,yes,5.0,0
+11207,Southwest,Domestic,164,Dec,0,1.0,Economy,4,1,Credit Card,204.82,no,Paid,No,6.0,0
+11208,United,International,111,Aug,1,1.0,Economy,1,1,Credit Card,356.57,Y,Free,No,5.0,0
+11209,JetBlue,International,206,Feb,0,5.0,Economy,1,2,Credit Card,211.15,No,Free,,9.0,1
+11210,JetBlue,Domestic,238,Apr,1,1.0,Economy,1,2,,490.61,No,Free,No,10.0,1
+11211,Southwest,Domestic,67,Mar,1,2.0,Economy,1,0,Credit Card,616.15,No,Paid,Yes,9.0,0
+11212,Southwest,Domestic,39,Feb,1,5.0,Economy,1,1,Credit Card,339.34,Yes,Free,No,5.0,0
+11213,Alaska,International,186,Dec,0,6.0,First,3,0,Credit Card,338.04,No,Free,YES,7.0,1
+11214,Delta,Domestic,207,Jun,0,5.0,Economy,0,3,Debit Card,504.3,Yes,Paid,N,7.0,1
+11215,Southwest,Domestic,219,Apr,0,5.0,Economy,4,0,Credit Card,440.06,Yes,Free,No,4.0,0
+11216,Southwest,Domestic,143,Jun,1,3.0,Economy,0,0,Credit Card,350.02,Yes,Free,Yes,3.0,0
+11217,United,Domestic,189,Feb,0,3.0,Economy,1,1,Debit Card,411.55,No,Free,No,10.0,1
+11218,JetBlue,International,131,Dec,0,3.0,Economy,0,0,PayPal,644.17,no,Paid,No,4.0,0
+11219,Delta,Domestic,172,Apr,0,4.0,Economy,3,0,Credit Card,265.94,Yes,Paid,No,8.0,1
+11220,United,Domestic,89,Nov,0,2.0,Economy,2,1,Credit Card,277.98,No,Free,Yes,9.0,0
+11221,Alaska,Domestic,27,Jun,1,5.0,Economy,0,0,Credit Card,471.25,No,Free,No,5.0,0
+11222,Alaska,International,95,May,0,5.0,Business,4,1,Debit Card,655.74,No,Free,N,2.0,0
+11223,Southwest,Domestic,236,Mar,0,3.0,Economy,3,2,Debit Card,384.81,No,Paid,No,2.0,1
+11224,Southwest,Domestic,193,Aug,0,5.0,Economy,2,0,Debit Card,120.66,Yes,Paid,No,0.0,0
+11225,Alaska,Domestic,30,Jul,1,6.0,Economy,3,0,Credit Card,414.65,No,Free,No,4.0,0
+11226,Southwest,International,2,Mar,0,5.0,Business,1,1,PayPal,286.51,Yes,Free,No,5.0,0
+11227,Delta,Domestic,135,Jun,1,1.0,Economy,2,3,Credit Card,426.66,No,Paid,No,7.0,1
+11228,Southwest,Domestic,23,Apr,1,6.0,Economy,4,2,Credit Card,169.69,No,Free,Yes,10.0,0
+11229,JetBlue,Domestic,14,Nov,0,6.0,Business,2,0,Credit Card,153.39,Yes,Paid,Yes,8.0,0
+11230,Southwest,International,170,May,0,5.0,Economy,4,0,Credit Card,318.44,No,Paid,,6.0,0
+11231,United,Domestic,158,Nov,1,4.0,Economy,1,0,Debit Card,591.31,Yes,Paid,No,0.0,0
+11232,Delta,International,200,May,0,3.0,Economy,4,1,Debit Card,167.97,No,Free,No,6.0,1
+11233,United,Domestic,230,Jul,0,2.0,Business,3,2,PayPal,315.15,Yes,Free,No,9.0,0
+11234,United,Domestic,44,Nov,0,2.0,Economy,0,1,Credit Card,155.07,No,Paid,NO,8.0,1
+11235,JetBlue,Domestic,193,May,0,1.0,Business,3,1,PayPal,400.58,N,Free,No,3.0,1
+11236,Delta,International,7,Nov,1,2.0,Economy,3,1,Debit Card,391.01,Yes,Paid,No,10.0,0
+11237,Delta,Domestic,70,Mar,1,2.0,Economy,2,2,Credit Card,160.65,No,Free,Yes,6.0,0
+11238,Delta,International,107,Oct,1,3.0,Economy,1,1,PayPal,540.28,No,Free,,8.0,1
+11239,Delta,International,114,May,0,3.0,Business,0,0,Debit Card,90.89,No,Paid,Yes,0.0,1
+11240,Delta,Domestic,102,Jul,0,4.0,Economy,4,0,Credit Card,580.7,No,Paid,No,9.0,1
+11241,JetBlue,International,233,May,0,1.0,Economy,2,1,PayPal,552.43,No,Free,No,8.0,1
+11242,Southwest,International,124,May,0,2.0,Economy,1,0,Debit Card,402.81,No,Free,Yes,3.0,1
+11243,United,Domestic,56,Sep,1,4.0,Business,0,0,Debit Card,485.46,Yes,Paid,No,7.0,0
+11244,Delta,Domestic,207,Mar,0,1.0,Economy,3,0,PayPal,335.06,No,Free,No,2.0,0
+11245,Southwest,International,226,Jun,1,6.0,Economy,1,0,Credit Card,144.35,Yes,Free,No,1.0,0
+11246,Southwest,Domestic,29,Jan,0,2.0,Economy,1,0,Debit Card,393.11,No,Free,No,7.0,1
+11247,United,International,201,Oct,0,2.0,First,1,0,Debit Card,140.07,No,Paid,No,7.0,1
+11248,JetBlue,International,229,May,0,3.0,Business,3,0,Credit Card,358.48,No,Free,Y,2.0,0
+11249,Alaska,Domestic,145,Aug,0,5.0,Economy,4,2,Credit Card,186.84,No,Free,No,7.0,1
+11250,Alaska,International,113,May,0,1.0,Economy,2,1,Debit Card,496.56,NO,Free,No,10.0,0
+11251,Southwest,Domestic,196,Sep,1,2.0,Economy,4,1,Credit Card,413.22,Yes,Free,No,10.0,0
+11252,United,Domestic,116,Nov,1,1.0,Business,0,1,Debit Card,454.96,Yes,Paid,No,5.0,0
+11253,Alaska,Domestic,220,Jun,1,4.0,Economy,2,0,PayPal,407.64,No,Free,No,9.0,1
+11254,Southwest,Domestic,166,Aug,1,4.0,Economy,0,0,Credit Card,623.31,No,Paid,no,8.0,0
+11255,JetBlue,Domestic,59,Oct,0,5.0,Economy,3,1,Credit Card,503.14,No,Paid,Yes,9.0,0
+11256,Alaska,International,97,Aug,0,2.0,Business,4,0,Credit Card,598.51,Yes,Free,No,5.0,1
+11257,Southwest,International,170,Mar,0,3.0,Economy,1,0,Credit Card,233.99,No,,YES,7.0,1
+11258,Southwest,Domestic,125,Jul,1,2.0,Economy,2,0,PayPal,284.04,No,Paid,,1.0,1
+11259,Delta,Domestic,172,Jul,0,,Business,1,0,Credit Card,40.0,Yes,Free,No,0.0,0
+11260,JetBlue,International,150,Oct,1,6.0,Economy,0,0,Credit Card,305.07,Yes,free,Yes,9.0,1
+11261,Delta,Domestic,196,Dec,0,4.0,Economy,1,0,Debit Card,355.02,Y,Paid,No,9.0,1
+11262,United,International,93,Jun,1,1.0,First,1,0,Debit Card,420.8,No,Paid,No,1.0,0
+11263,Delta,International,133,Dec,1,5.0,First,3,3,Credit Card,285.67,No,Free,No,3.0,0
+11264,Delta,International,183,Jul,0,4.0,Business,3,2,Debit Card,463.1,yes,Free,Yes,9.0,0
+11265,Alaska,International,121,Feb,0,3.0,Economy,4,0,Credit Card,453.29,No,FREE,Yes,8.0,1
+11266,Southwest,Domestic,237,Sep,0,4.0,Economy,0,1,Debit Card,293.7,No,Free,No,6.0,0
+11267,JetBlue,International,107,Oct,0,6.0,Business,3,1,Credit Card,225.82,Yes,FREE,Yes,8.0,0
+11268,Delta,Domestic,3,Oct,0,2.0,Economy,3,1,,369.23,Yes,Free,No,8.0,0
+11269,JetBlue,International,92,Jan,1,6.0,Business,4,0,PayPal,373.91,Yes,Paid,Yes,8.0,0
+11270,Delta,Domestic,150,Jan,0,6.0,Business,2,0,Credit Card,274.92,Yes,free,No,7.0,0
+11271,United,International,5,Mar,0,2.0,Economy,4,0,Credit Card,323.71,Yes,Free,No,5.0,0
+11272,Delta,International,31,Mar,1,4.0,Business,1,0,PayPal,161.5,No,Paid,No,10.0,1
+11273,Alaska,Domestic,105,Jan,0,5.0,Business,1,0,Debit Card,455.0,No,Paid,No,9.0,1
+11274,Southwest,Domestic,145,Dec,0,2.0,Economy,3,0,Credit Card,457.26,No,Free,,6.0,0
+11275,United,International,14,Jul,0,2.0,Economy,3,0,Debit Card,366.86,Yes,FREE,Yes,1.0,0
+11276,Delta,Domestic,167,Apr,1,3.0,Economy,4,1,PayPal,467.17,YES,Free,No,10.0,1
+11277,JetBlue,Domestic,121,Oct,0,4.0,Economy,4,0,Debit Card,378.36,No,Paid,No,0.0,0
+11278,United,Domestic,95,Feb,1,2.0,Economy,0,2,Credit Card,586.28,No,Free,Yes,4.0,0
+11279,United,Domestic,200,Oct,0,5.0,Economy,1,0,Debit Card,178.5,No,Paid,Y,7.0,1
+11280,Delta,International,228,May,0,1.0,Business,4,1,Debit Card,388.25,No,PAID,Yes,2.0,1
+11281,United,Domestic,201,Jun,0,4.0,First,2,0,Debit Card,486.47,No,Free,No,6.0,0
+11282,JetBlue,Domestic,211,Sep,0,3.0,Economy,0,1,,568.89,Yes,Free,No,4.0,1
+11283,United,Domestic,5,Apr,0,6.0,Economy,4,1,Debit Card,470.96,NO,Paid,Yes,9.0,0
+11284,JetBlue,Domestic,111,Feb,0,2.0,Economy,3,1,Credit Card,214.68,No,Free,Yes,7.0,1
+11285,Delta,Domestic,119,May,0,5.0,First,4,0,Debit Card,128.29,No,Free,No,5.0,0
+11286,Southwest,Domestic,122,Mar,0,4.0,Economy,3,2,PayPal,336.22,No,Free,No,5.0,1
+11287,United,Domestic,190,Feb,0,,Economy,3,1,Credit Card,410.64,No,,,6.0,1
+11288,Southwest,Domestic,66,Dec,1,5.0,Business,1,1,Credit Card,492.26,No,paid,No,6.0,1
+11289,JetBlue,International,105,Jan,0,6.0,Economy,1,0,Debit Card,206.63,Yes,Free,No,3.0,1
+11290,United,Domestic,138,Oct,0,3.0,Business,4,0,Debit Card,445.5,Yes,Paid,No,9.0,1
+11291,Alaska,Domestic,42,Feb,1,4.0,Business,4,0,Credit Card,40.0,Yes,free,No,9.0,0
+11292,Southwest,Domestic,144,Jun,0,2.0,Business,2,0,Debit Card,256.47,yes,Paid,yes,9.0,1
+11293,United,Domestic,95,Aug,1,,Economy,0,2,PayPal,480.44,No,,,7.0,1
+11294,Southwest,Domestic,131,Mar,0,2.0,Economy,0,0,Debit Card,193.23,No,Free,No,5.0,1
+11295,United,Domestic,190,Nov,0,1.0,Business,4,1,Debit Card,205.5,No,Free,No,10.0,1
+11296,Delta,International,195,Sep,1,5.0,Economy,1,0,Credit Card,286.44,Yes,Paid,No,7.0,0
+10153,Southwest,Domestic,80,Dec,0,1.0,Economy,2,0,PayPal,384.78,,Free,No,6.0,0
+11298,Alaska,Domestic,40,Sep,1,5.0,Economy,0,0,Credit Card,203.86,No,Free,No,0.0,0
+11299,Alaska,International,210,Feb,0,6.0,Economy,4,0,Credit Card,355.48,No,,No,3.0,0
+11300,JetBlue,Domestic,132,Aug,1,3.0,Economy,1,1,Credit Card,299.5,Yes,Free,no,6.0,1
+11301,United,Domestic,159,Oct,1,2.0,Economy,1,0,Debit Card,522.11,No,PAID,No,8.0,1
+11302,Southwest,Domestic,213,Nov,0,6.0,Economy,1,1,PayPal,292.27,Yes,Free,No,1.0,1
+11303,JetBlue,Domestic,197,Dec,1,2.0,Economy,3,0,Credit Card,363.97,Yes,Paid,NO,4.0,1
+11304,Southwest,International,34,May,0,3.0,Economy,1,0,Debit Card,383.29,No,Free,No,8.0,0
+11305,United,International,21,Apr,0,4.0,Economy,4,0,,301.24,Yes,Paid,No,8.0,0
+11306,Alaska,International,192,Oct,0,1.0,Economy,2,0,Debit Card,467.76,yes,Free,No,5.0,0
+11307,Delta,Domestic,211,May,1,1.0,Economy,4,0,Debit Card,496.87,Yes,Free,Yes,6.0,0
+11308,Alaska,Domestic,149,Apr,0,2.0,Economy,1,0,,291.54,,paid,No,8.0,1
+11309,JetBlue,Domestic,111,Aug,0,2.0,Economy,2,0,Credit Card,401.04,No,Paid,Yes,9.0,1
+11310,Delta,Domestic,10,Apr,1,2.0,Economy,0,1,PayPal,230.15,No,Paid,No,7.0,0
+11311,JetBlue,Domestic,204,Oct,1,3.0,Economy,0,1,Credit Card,438.93,Yes,Free,No,9.0,1
+11312,United,International,233,Dec,0,4.0,Economy,4,2,Credit Card,392.6,Yes,Paid,No,5.0,1
+11313,Delta,Domestic,2,Jun,0,1.0,Economy,2,0,Debit Card,309.05,No,Free,Yes,5.0,0
+11314,JetBlue,Domestic,136,Feb,0,6.0,Business,4,1,PayPal,406.19,Yes,Paid,No,6.0,0
+11315,United,Domestic,59,May,0,5.0,Economy,2,0,Debit Card,443.0,No,Paid,N,6.0,1
+11316,Alaska,Domestic,75,Jun,0,3.0,Business,2,1,Credit Card,532.25,No,free,YES,1.0,1
+11317,United,Domestic,86,May,1,1.0,Economy,4,1,Credit Card,415.65,Yes,Paid,No,8.0,0
+11318,Southwest,International,13,Dec,0,4.0,First,2,0,Debit Card,484.38,No,Free,No,3.0,0
+11319,United,Domestic,224,Feb,1,3.0,Economy,1,1,Credit Card,626.68,No,Paid,No,9.0,1
+11320,United,International,17,Jul,1,6.0,Economy,2,0,Credit Card,215.24,No,Free,No,8.0,0
+11321,Southwest,Domestic,112,Apr,0,1.0,Economy,2,0,Credit Card,523.99,No,Free,No,10.0,1
+11322,JetBlue,International,232,Aug,0,3.0,Economy,4,3,,236.92,Yes,Paid,No,9.0,1
+11323,JetBlue,International,72,Jul,0,1.0,Economy,0,0,Credit Card,260.12,Yes,Free,No,2.0,0
+11324,United,Domestic,22,Jul,0,1.0,Economy,3,0,Credit Card,358.35,Yes,Free,No,4.0,1
+11325,Southwest,Domestic,201,Sep,1,4.0,Economy,2,1,Credit Card,269.56,Yes,Free,Yes,4.0,1
+11326,Southwest,International,82,Jan,0,5.0,Economy,3,0,Credit Card,246.15,No,Paid,YES,6.0,0
+11327,Alaska,Domestic,124,Oct,0,4.0,Business,2,1,Credit Card,351.54,Yes,Paid,,3.0,0
+11328,JetBlue,International,174,Jun,0,1.0,Economy,4,0,Credit Card,313.35,Yes,Paid,No,10.0,0
+11329,Delta,Domestic,68,Jun,0,3.0,Business,4,1,Credit Card,266.86,Yes,Free,No,3.0,0
+11330,JetBlue,Domestic,46,Jun,0,6.0,Economy,2,0,Credit Card,226.63,Yes,Free,No,0.0,0
+11331,JetBlue,International,115,Dec,0,4.0,Economy,4,0,Credit Card,559.52,Yes,Free,No,5.0,1
+11332,Alaska,International,214,Jun,0,5.0,Economy,4,0,Credit Card,191.97,No,Paid,No,3.0,1
+11333,Delta,Domestic,29,Dec,0,1.0,Economy,2,0,Credit Card,336.52,No,Free,No,10.0,0
+11334,Alaska,International,24,Oct,1,6.0,Economy,0,1,Credit Card,516.51,Yes,Free,YES,9.0,0
+11335,Delta,Domestic,155,Jul,1,4.0,Economy,2,1,Credit Card,473.34,Yes,Paid,No,9.0,1
+11336,United,Domestic,225,Oct,0,4.0,Economy,0,0,Credit Card,392.72,No,Free,,4.0,1
+11337,Delta,International,236,Jun,0,4.0,Business,4,0,PayPal,272.69,No,Free,No,10.0,1
+11338,Alaska,International,111,Jan,0,4.0,Economy,0,1,Credit Card,357.37,Yes,Free,No,8.0,0
+11339,JetBlue,International,238,Mar,0,6.0,First,4,3,PayPal,202.63,No,Free,No,3.0,1
+11340,Delta,Domestic,24,Feb,0,3.0,First,0,0,Credit Card,320.08,No,Free,No,0.0,1
+11341,Delta,Domestic,73,Jun,0,5.0,Business,0,3,Credit Card,317.96,No,Paid,N,10.0,0
+11342,Southwest,Domestic,205,Aug,0,5.0,Economy,2,1,Debit Card,331.48,,free,No,8.0,1
+11343,JetBlue,Domestic,233,Mar,0,1.0,Economy,0,0,Credit Card,249.68,No,Paid,No,,1
+11344,United,Domestic,237,Oct,0,2.0,Economy,4,2,Credit Card,122.58,No,Paid,No,9.0,1
+11345,Alaska,International,57,Aug,0,3.0,Economy,2,1,PayPal,535.26,No,Free,No,10.0,0
+11346,United,Domestic,93,Aug,1,1.0,Economy,0,0,Credit Card,504.17,NO,Free,No,6.0,1
+11347,JetBlue,International,118,May,0,1.0,Economy,2,1,Credit Card,482.45,No,Paid,Yes,2.0,0
+11348,Delta,International,126,Aug,0,4.0,Economy,3,1,Credit Card,412.98,Yes,Free,No,3.0,0
+11349,Delta,Domestic,168,Jun,0,2.0,Economy,2,0,PayPal,383.85,Yes,Paid,Yes,9.0,0
+11350,JetBlue,International,24,May,1,2.0,Business,3,0,PayPal,262.88,No,Paid,No,8.0,0
+11351,Delta,International,77,Sep,1,3.0,Economy,3,0,Credit Card,277.84,No,Free,No,9.0,1
+11352,Delta,Domestic,98,Jul,1,2.0,Economy,2,1,Credit Card,563.75,N,Free,No,0.0,0
+11353,Delta,Domestic,115,Aug,0,1.0,Business,4,0,PayPal,595.61,Yes,Free,No,10.0,0
+11354,Alaska,Domestic,47,Jan,0,2.0,Economy,4,1,Credit Card,3303.84,No,FREE,No,4.0,0
+11355,Alaska,Domestic,225,Nov,1,2.0,Economy,4,1,Credit Card,360.53,No,Paid,Yes,7.0,0
+11356,Southwest,International,9,Feb,0,5.0,Business,1,0,Debit Card,462.53,Yes,FREE,No,9.0,0
+11357,United,Domestic,98,Aug,0,1.0,Economy,3,2,Credit Card,373.09,N,Paid,No,6.0,1
+11358,JetBlue,International,202,Dec,1,6.0,Economy,2,2,Debit Card,383.66,yes,Free,No,3.0,1
+11359,JetBlue,Domestic,10,Sep,0,2.0,Economy,4,0,PayPal,351.63,Yes,Free,No,6.0,0
+11360,JetBlue,Domestic,84,Apr,0,2.0,Economy,4,0,Debit Card,228.7,Yes,Paid,No,0.0,1
+11361,Southwest,International,148,Dec,0,4.0,Economy,2,0,Credit Card,307.78,No,Paid,,5.0,1
+11362,Alaska,Domestic,213,Oct,0,2.0,Economy,3,0,Credit Card,341.29,No,Free,No,8.0,1
+11363,Southwest,Domestic,172,Nov,0,2.0,Economy,2,1,Credit Card,40.0,Yes,PAID,Yes,2.0,0
+11364,JetBlue,Domestic,134,Oct,1,5.0,Economy,1,1,Credit Card,372.25,No,Paid,No,3.0,1
+11365,United,Domestic,208,Sep,1,1.0,Business,1,1,Credit Card,685.16,Yes,Free,Yes,,0
+11366,Delta,Domestic,191,Apr,0,3.0,Economy,2,0,Credit Card,299.89,No,Free,No,4.0,1
+11367,Alaska,Domestic,125,Oct,1,1.0,Business,3,0,Credit Card,364.64,No,Free,No,4.0,0
+11368,Alaska,Domestic,63,Oct,0,4.0,Economy,4,0,Credit Card,242.33,Yes,Paid,Yes,0.0,0
+11369,Southwest,International,1,Oct,0,1.0,Business,1,1,Credit Card,206.85,No,free,No,5.0,0
+11370,Alaska,Domestic,75,Sep,1,2.0,Economy,1,0,Credit Card,316.59,No,Paid,No,1.0,0
+11371,JetBlue,Domestic,120,Nov,1,4.0,Economy,3,2,Debit Card,448.17,No,Paid,Yes,0.0,0
+11372,JetBlue,Domestic,41,Jul,1,1.0,Economy,1,0,Credit Card,327.27,No,Free,Yes,5.0,1
+11373,Southwest,International,209,Feb,1,4.0,Business,1,2,,307.63,No,Paid,NO,4.0,1
+11374,JetBlue,Domestic,53,Sep,1,3.0,Economy,3,0,Debit Card,429.38,No,Paid,Yes,4.0,0
+11375,United,Domestic,74,Apr,1,1.0,Economy,2,3,Credit Card,388.01,,Free,Yes,8.0,0
+11376,Southwest,Domestic,15,Aug,0,6.0,Economy,4,0,Credit Card,399.1,No,PAID,YES,9.0,1
+11377,United,Domestic,17,Jul,1,2.0,Business,4,1,Credit Card,526.64,Yes,Free,No,9.0,0
+11378,Delta,International,226,Jul,1,4.0,Economy,1,0,Credit Card,509.05,Yes,Paid,No,2.0,1
+11379,United,International,186,Aug,1,6.0,Economy,4,0,Credit Card,569.4,Yes,PAID,NO,0.0,0
+11380,Delta,Domestic,89,Jan,0,6.0,Economy,2,0,PayPal,190.2,No,Free,No,7.0,0
+11381,Delta,International,143,May,0,5.0,Economy,1,0,Credit Card,480.02,No,Free,No,4.0,1
+11382,United,Domestic,5,Feb,0,4.0,Business,4,3,,590.42,Yes,Free,No,10.0,0
+11383,Southwest,International,184,Feb,0,6.0,Business,0,0,,131.43,Yes,Paid,No,4.0,1
+11384,JetBlue,International,107,Jan,1,5.0,Economy,0,0,Credit Card,357.19,Y,FREE,No,7.0,0
+11385,JetBlue,Domestic,234,May,0,6.0,Economy,0,0,Credit Card,283.94,No,Free,No,7.0,0
+11187,Delta,International,174,Feb,0,2.0,Business,0,0,Debit Card,356.59,Yes,Paid,No,10.0,1
+11387,Delta,International,238,Apr,1,3.0,Economy,0,1,Credit Card,520.58,No,,Yes,1.0,1
+11388,Southwest,Domestic,47,Mar,0,5.0,First,1,0,Credit Card,164.6,No,Paid,No,2.0,0
+11389,Alaska,Domestic,41,Mar,0,3.0,Economy,3,1,PayPal,394.3,Yes,Free,no,9.0,1
+11390,United,Domestic,75,Feb,0,4.0,Economy,3,1,Credit Card,280.95,No,paid,No,9.0,0
+11391,Delta,International,187,Jun,0,2.0,Economy,1,0,Credit Card,524.87,No,Paid,Y,0.0,1
+11392,JetBlue,International,76,Feb,0,5.0,Economy,1,0,Credit Card,418.93,No,Free,,2.0,0
+11393,Southwest,International,131,Aug,1,4.0,Business,2,1,Debit Card,337.92,Yes,Free,No,3.0,0
+11394,United,International,230,Aug,0,6.0,Economy,3,0,Credit Card,259.46,Yes,Paid,Yes,10.0,1
+11395,Southwest,Domestic,129,Dec,0,1.0,Business,0,0,Credit Card,732.11,Yes,Free,No,6.0,0
+11396,United,International,217,May,0,4.0,Economy,1,0,Credit Card,399.18,No,Free,,8.0,1
+11397,United,International,58,Oct,0,3.0,Business,0,0,Credit Card,161.21,No,Paid,No,4.0,0
+11398,Delta,Domestic,154,Jul,0,2.0,Economy,3,1,Debit Card,246.5,Yes,paid,Yes,0.0,0
+11399,Southwest,Domestic,26,Apr,0,2.0,Business,4,1,Debit Card,417.77,No,Free,No,1.0,0
+11400,Southwest,International,78,Jan,0,4.0,Economy,4,0,,257.8,No,Paid,Y,9.0,0
+11401,JetBlue,Domestic,71,Nov,1,6.0,Business,1,0,Credit Card,275.02,No,Free,No,1.0,0
+11402,JetBlue,International,6,Feb,0,1.0,Economy,2,0,Credit Card,498.03,No,Free,No,8.0,0
+11403,Delta,Domestic,190,Oct,0,3.0,Economy,0,0,Credit Card,485.64,no,Free,No,9.0,1
+11404,Delta,Domestic,110,Oct,1,4.0,Business,1,0,Credit Card,280.03,Yes,Paid,No,6.0,0
+11405,Alaska,International,118,Apr,0,4.0,Economy,2,1,Credit Card,523.92,No,Free,No,1.0,0
+11406,JetBlue,Domestic,173,Jan,0,2.0,Economy,0,2,,260.51,No,Paid,No,0.0,0
+11407,United,Domestic,62,Aug,0,3.0,Economy,3,0,Credit Card,597.1,Yes,Free,Yes,4.0,0
+11408,Southwest,Domestic,231,Sep,0,1.0,Economy,4,0,PayPal,435.26,No,Paid,No,0.0,1
+11409,Delta,International,123,Apr,0,2.0,Economy,2,0,Credit Card,400.63,Yes,Free,Yes,8.0,1
+11410,Southwest,Domestic,11,Oct,0,4.0,Economy,0,0,Credit Card,306.13,Yes,Paid,No,2.0,0
+11411,Southwest,International,140,Mar,0,2.0,Economy,1,0,Credit Card,274.79,Yes,Paid,No,1.0,0
+11412,Alaska,Domestic,42,Feb,0,2.0,Economy,0,0,Credit Card,40.0,No,Free,,5.0,0
+11413,JetBlue,International,16,May,0,5.0,Economy,1,1,Credit Card,318.82,N,Free,No,2.0,0
+11414,Delta,International,62,Mar,0,2.0,Business,4,0,Credit Card,358.53,,Free,Yes,4.0,1
+11415,Southwest,Domestic,208,Oct,1,6.0,Economy,4,0,PayPal,104.35,N,Paid,Yes,9.0,1
+11416,Delta,Domestic,119,Jul,1,2.0,Economy,0,0,Credit Card,475.27,No,Paid,,7.0,1
+11417,United,Domestic,35,Nov,1,6.0,Economy,0,1,Credit Card,337.55,,Free,No,9.0,1
+11418,Alaska,Domestic,212,Jun,0,3.0,Economy,1,1,Debit Card,530.06,Yes,Free,Yes,1.0,0
+11419,United,Domestic,7,Jan,0,,Economy,1,0,Debit Card,264.29,Yes,Paid,No,4.0,0
+11420,Delta,Domestic,68,Dec,0,1.0,Economy,2,0,Debit Card,533.1,No,Free,No,10.0,0
+11421,Delta,Domestic,89,Aug,0,6.0,Economy,2,0,Credit Card,297.14,No,Free,No,7.0,1
+11422,JetBlue,Domestic,207,Feb,0,6.0,Economy,2,0,Credit Card,352.96,No,Free,No,0.0,1
+11423,Southwest,Domestic,35,May,1,4.0,Economy,0,1,Credit Card,390.19,No,paid,Yes,9.0,0
+11424,Southwest,Domestic,27,Sep,0,3.0,Business,2,0,Credit Card,354.17,No,Free,Yes,9.0,0
+11425,United,International,117,Aug,0,2.0,Economy,0,1,Credit Card,402.61,Yes,Paid,Yes,10.0,0
+11426,Alaska,Domestic,92,Feb,1,1.0,Economy,4,0,Credit Card,90.56,no,Free,Yes,3.0,1
+11427,Southwest,Domestic,174,Sep,0,4.0,Economy,3,0,PayPal,340.49,No,Paid,Yes,4.0,1
+11428,JetBlue,Domestic,75,May,0,,Economy,4,1,PayPal,348.74,Yes,Free,No,9.0,0
+11429,United,International,100,Oct,0,6.0,Business,0,0,Credit Card,81.89,Yes,Free,No,10.0,0
+11430,United,International,157,Jun,0,1.0,Business,0,2,Credit Card,449.95,N,Paid,No,2.0,1
+11431,JetBlue,International,150,Mar,0,2.0,Economy,3,1,Credit Card,232.41,yes,Free,No,1.0,0
+11432,Alaska,International,143,Mar,0,5.0,Economy,1,1,Credit Card,491.93,Yes,free,no,2.0,1
+11433,JetBlue,Domestic,13,Oct,0,5.0,Economy,1,1,Credit Card,372.03,Yes,Free,Yes,10.0,0
+11434,Alaska,International,201,Aug,1,3.0,Business,1,1,PayPal,279.6,Yes,Paid,No,4.0,1
+11435,JetBlue,International,70,Nov,1,1.0,First,2,1,Credit Card,500.66,No,Paid,Yes,6.0,0
+11436,JetBlue,Domestic,236,Oct,1,4.0,Economy,1,2,Credit Card,592.66,No,Free,No,1.0,1
+11437,Delta,International,179,Oct,1,1.0,Economy,2,1,Credit Card,365.39,No,Free,No,6.0,1
+11438,United,Domestic,123,Dec,0,6.0,Economy,2,1,PayPal,552.48,No,Free,No,5.0,1
+11439,JetBlue,Domestic,124,Feb,0,5.0,Economy,1,0,PayPal,335.34,Yes,Paid,No,6.0,1
+11440,JetBlue,Domestic,36,Nov,0,3.0,Economy,1,1,Debit Card,494.73,Yes,Free,Yes,6.0,0
+11441,Southwest,Domestic,28,Dec,0,2.0,Economy,3,0,Credit Card,308.55,No,Paid,N,8.0,1
+11442,United,International,194,Dec,1,1.0,Economy,3,2,Credit Card,615.62,Yes,Free,No,6.0,1
+11443,Southwest,Domestic,142,Feb,1,5.0,Economy,2,0,Credit Card,510.82,Yes,Paid,No,5.0,0
+11444,United,Domestic,227,May,0,4.0,Economy,3,1,Credit Card,425.85,Yes,Paid,No,9.0,1
+11445,Southwest,Domestic,174,Jun,0,3.0,Economy,2,2,Debit Card,40.0,yes,Free,Yes,7.0,1
+11446,JetBlue,International,173,Dec,0,2.0,Economy,0,0,Credit Card,422.83,No,Free,No,6.0,1
+11284,JetBlue,Domestic,179,Feb,1,1.0,Economy,2,0,Credit Card,187.11,,Paid,No,5.0,1
+11448,Delta,Domestic,18,May,0,4.0,Business,2,0,Debit Card,409.46,No,Paid,No,,0
+11449,Southwest,International,204,Jul,1,2.0,Business,3,2,Credit Card,538.85,Yes,Free,No,6.0,1
+11450,Alaska,International,105,Oct,1,6.0,Economy,0,0,Debit Card,456.46,No,Free,Yes,7.0,1
+11451,Delta,Domestic,20,Oct,1,5.0,Economy,4,0,Credit Card,480.22,No,Paid,Yes,7.0,0
+11452,Southwest,International,63,Aug,1,6.0,Economy,4,1,Credit Card,307.78,Yes,Free,No,3.0,0
+11453,Southwest,International,164,Dec,1,5.0,Economy,4,1,Credit Card,146.56,No,Free,No,9.0,0
+11454,Delta,International,26,Jul,0,4.0,Business,0,1,PayPal,252.0,No,PAID,No,8.0,0
+11455,JetBlue,Domestic,54,Aug,0,6.0,Business,1,2,Credit Card,313.84,Yes,Paid,No,2.0,0
+11456,Southwest,Domestic,28,Dec,0,5.0,Economy,0,0,Credit Card,358.03,Yes,Paid,No,8.0,1
+11457,JetBlue,Domestic,147,Sep,0,3.0,First,3,1,,537.68,No,Free,No,2.0,0
+11458,Delta,Domestic,24,May,1,4.0,First,2,1,Debit Card,462.28,no,Free,No,6.0,0
+11459,JetBlue,Domestic,69,May,0,5.0,Business,2,0,PayPal,670.76,No,Free,No,3.0,0
+11460,United,Domestic,62,Nov,1,1.0,Economy,3,0,Credit Card,219.82,No,Free,N,4.0,0
+11461,Alaska,Domestic,163,Oct,0,5.0,Economy,3,1,Credit Card,522.96,Y,free,No,2.0,0
+11462,Southwest,Domestic,129,Apr,0,6.0,Economy,2,1,PayPal,482.55,Yes,Paid,No,1.0,0
+11463,Alaska,Domestic,149,Sep,1,3.0,Economy,1,1,Debit Card,343.68,No,Paid,Yes,7.0,1
+11464,JetBlue,International,223,May,0,2.0,Economy,1,1,Credit Card,225.46,Yes,Free,no,6.0,1
+11465,Southwest,Domestic,15,Feb,0,2.0,Economy,1,0,Credit Card,273.83,No,Free,No,6.0,1
+11466,JetBlue,Domestic,145,Oct,0,5.0,Economy,3,0,Credit Card,267.1,No,Paid,Y,7.0,1
+11467,United,International,196,Aug,1,2.0,Business,2,0,Debit Card,599.49,No,Paid,No,0.0,0
+11468,Delta,Domestic,181,Jul,0,5.0,Economy,2,0,Credit Card,475.96,No,Free,No,7.0,1
+11469,Southwest,International,99,Aug,0,3.0,Economy,2,0,Credit Card,481.19,No,Free,No,9.0,0
+11470,United,International,29,Dec,0,2.0,Business,0,0,Credit Card,372.27,yes,PAID,No,4.0,0
+11471,United,Domestic,44,Mar,1,6.0,Economy,0,1,Credit Card,327.97,No,Paid,Yes,7.0,0
+11472,Southwest,International,18,Apr,1,6.0,Economy,4,0,Debit Card,407.23,No,Free,No,8.0,0
+11473,JetBlue,Domestic,214,May,0,1.0,First,0,1,PayPal,374.35,No,FREE,No,1.0,1
+11474,United,Domestic,33,Jun,0,5.0,Business,1,0,Credit Card,346.56,No,Paid,No,2.0,0
+11475,Alaska,Domestic,140,Jan,1,2.0,Economy,1,1,Debit Card,411.34,Yes,Paid,Yes,5.0,0
+11476,United,Domestic,170,Apr,0,6.0,Business,1,0,Credit Card,210.78,NO,Paid,No,8.0,0
+11477,JetBlue,International,61,Nov,0,3.0,Economy,1,0,PayPal,397.38,Yes,Free,No,9.0,0
+11478,JetBlue,Domestic,117,Dec,0,,Business,4,3,Debit Card,344.49,Y,Free,No,,1
+11479,Alaska,Domestic,220,Oct,1,1.0,Business,1,2,PayPal,259.95,Yes,Paid,N,7.0,0
+11480,United,Domestic,99,May,0,3.0,Economy,3,0,PayPal,449.69,No,Free,Yes,5.0,0
+11481,JetBlue,Domestic,21,Jul,0,3.0,Economy,3,0,Credit Card,611.33,Yes,Paid,No,4.0,0
+11482,Southwest,Domestic,179,May,1,2.0,Economy,3,1,,538.93,No,,No,2.0,0
+11483,Delta,Domestic,179,Jan,0,5.0,Economy,0,1,Credit Card,320.43,No,Paid,No,3.0,0
+11484,Delta,International,110,Nov,0,4.0,Business,2,1,Credit Card,453.02,Yes,Paid,No,6.0,1
+11485,Delta,Domestic,163,Jul,0,3.0,Economy,4,0,Credit Card,478.07,No,Paid,No,6.0,0
+11486,United,Domestic,72,Aug,1,3.0,Business,3,1,Credit Card,376.68,No,Free,Y,2.0,0
+11487,Alaska,Domestic,230,Jul,1,4.0,Business,3,0,Debit Card,356.64,No,Free,No,3.0,1
+11488,JetBlue,Domestic,146,Nov,0,3.0,First,1,0,Credit Card,408.13,Yes,Free,No,2.0,0
+11489,Southwest,International,37,Apr,0,2.0,Business,3,0,PayPal,711.76,Yes,Paid,Yes,1.0,0
+11490,Southwest,Domestic,69,Aug,0,2.0,Economy,1,0,Debit Card,396.02,No,free,No,5.0,0
+11491,United,Domestic,115,May,1,4.0,Economy,1,1,Debit Card,182.56,Yes,,No,6.0,0
+11492,Delta,Domestic,238,Oct,1,6.0,Economy,2,0,Credit Card,213.52,Yes,Free,No,3.0,0
+11493,United,International,78,Sep,0,3.0,Economy,0,0,Credit Card,336.03,Yes,Paid,Yes,4.0,0
+11494,Alaska,Domestic,184,Dec,0,6.0,Economy,1,0,Credit Card,185.44,No,Free,No,7.0,1
+11495,Alaska,Domestic,147,Dec,1,3.0,Economy,1,0,Credit Card,341.45,yes,Free,N,8.0,1
+11496,JetBlue,International,8,Oct,0,5.0,Economy,2,0,PayPal,671.53,No,Free,No,6.0,1
+11497,JetBlue,Domestic,31,May,0,3.0,First,1,1,Debit Card,288.4,NO,Paid,No,9.0,0
+11498,Alaska,International,131,Jan,0,2.0,Business,4,0,Credit Card,207.78,No,Free,Yes,0.0,0
+11499,Alaska,International,49,Dec,0,1.0,Economy,0,0,Debit Card,330.94,Yes,Free,No,10.0,1
+11500,Alaska,Domestic,81,Sep,0,1.0,Economy,4,0,Credit Card,345.45,No,Paid,No,2.0,0
+11501,United,Domestic,4,Dec,1,1.0,Economy,3,0,Credit Card,221.56,Yes,Paid,No,10.0,0
+11502,Alaska,Domestic,147,May,0,1.0,Economy,0,1,Credit Card,186.63,Yes,Free,YES,4.0,0
+11503,Southwest,Domestic,86,Jun,0,6.0,Business,3,1,Credit Card,549.88,,Paid,,2.0,1
+11504,Delta,International,125,Apr,0,6.0,Economy,1,1,Debit Card,430.11,No,Paid,No,0.0,1
+11505,Alaska,Domestic,74,Jun,0,3.0,Economy,2,1,Debit Card,292.42,No,Free,YES,1.0,0
+11506,Delta,Domestic,164,Dec,0,6.0,Economy,4,1,Debit Card,198.24,No,Paid,No,7.0,1
+11507,United,International,21,Aug,0,,Economy,3,0,Credit Card,287.56,No,Free,No,6.0,0
+11508,Delta,Domestic,185,Mar,1,5.0,Economy,1,0,Credit Card,188.35,Yes,Free,No,9.0,1
+11509,United,Domestic,67,May,0,3.0,Economy,4,0,Credit Card,278.87,,Paid,No,2.0,0
+11510,Southwest,Domestic,220,Feb,0,1.0,Economy,4,0,PayPal,649.37,YES,Free,Yes,3.0,1
+11511,United,Domestic,43,Feb,0,4.0,Business,3,1,Credit Card,393.44,No,Paid,No,2.0,1
+11512,United,International,33,Jul,0,4.0,Business,1,1,Credit Card,273.48,Yes,Free,Yes,3.0,0
+11513,JetBlue,Domestic,76,Oct,1,2.0,Economy,2,1,PayPal,455.13,No,Free,No,7.0,0
+11514,Alaska,Domestic,41,Oct,0,2.0,Business,3,1,Debit Card,229.79,No,Paid,No,8.0,0
+11515,Alaska,Domestic,136,Nov,1,3.0,Economy,4,1,,303.21,,Free,Yes,6.0,0
+11516,Southwest,Domestic,105,Oct,0,4.0,First,4,0,PayPal,100.42,No,Free,,8.0,0
+11517,Southwest,Domestic,94,Jun,1,1.0,Economy,0,0,Credit Card,538.37,No,Free,NO,8.0,1
+11518,Alaska,Domestic,134,Apr,0,6.0,Economy,1,0,Credit Card,331.76,No,Paid,Yes,6.0,1
+11519,JetBlue,Domestic,67,May,1,1.0,Economy,0,0,Credit Card,245.37,No,Paid,No,6.0,0
+11520,Alaska,International,146,Jan,0,1.0,Economy,2,0,Credit Card,450.93,Y,Free,No,7.0,1
+11521,JetBlue,Domestic,233,Jul,0,3.0,Economy,3,0,Credit Card,213.32,No,Paid,No,9.0,1
+11522,Southwest,Domestic,221,Aug,1,3.0,Economy,4,1,Credit Card,221.83,No,Paid,No,2.0,1
+11523,Delta,Domestic,158,Sep,1,5.0,Economy,1,0,Debit Card,306.93,No,Paid,Yes,7.0,0
+11524,Southwest,International,127,Aug,0,1.0,Economy,4,1,Credit Card,192.35,No,Free,Yes,,0
+11525,Southwest,International,162,May,0,1.0,First,0,0,Credit Card,268.52,No,Free,no,5.0,0
+11526,United,Domestic,184,Mar,0,3.0,Business,0,0,Debit Card,332.26,NO,Free,No,1.0,1
+11527,United,International,84,Oct,1,3.0,Business,3,1,,344.9,Yes,Paid,No,6.0,1
+10479,United,Domestic,188,Nov,0,5.0,Business,1,1,Debit Card,174.55,NO,Paid,No,2.0,0
+11529,United,Domestic,158,Sep,0,5.0,First,1,2,PayPal,325.79,No,Paid,No,10.0,0
+11530,JetBlue,Domestic,82,Jun,1,2.0,Economy,3,1,Debit Card,441.29,Yes,Paid,,9.0,0
+11531,Alaska,Domestic,94,May,1,4.0,Economy,0,0,Credit Card,464.64,yes,Free,No,4.0,0
+11532,Delta,International,180,Mar,0,1.0,Business,0,0,PayPal,290.35,Yes,Paid,Yes,9.0,1
+11533,Southwest,Domestic,31,Jun,1,1.0,Business,0,0,Credit Card,333.56,No,Free,Yes,1.0,0
+11534,JetBlue,Domestic,65,Mar,1,5.0,Economy,4,1,Debit Card,325.31,No,Free,Y,0.0,0
+11535,Delta,International,186,Oct,0,5.0,Economy,2,0,Credit Card,165.16,No,Free,No,4.0,1
+11536,JetBlue,Domestic,115,Dec,0,2.0,Economy,0,0,Credit Card,284.38,No,Free,Yes,8.0,1
+11537,JetBlue,Domestic,137,Jun,1,4.0,Business,2,0,PayPal,471.47,No,Free,No,8.0,0
+11538,Southwest,Domestic,129,Apr,0,2.0,Economy,2,0,Credit Card,473.7,Yes,Paid,No,6.0,0
+11539,Alaska,Domestic,193,Feb,1,4.0,First,1,2,Debit Card,417.66,No,Free,Yes,8.0,1
+11540,United,Domestic,59,Aug,0,6.0,Business,3,0,Credit Card,40.0,No,Free,No,3.0,0
+11541,Alaska,Domestic,215,Apr,0,1.0,Economy,4,0,,250.59,No,Free,Yes,2.0,1
+11542,Southwest,Domestic,16,Sep,1,2.0,Economy,2,1,PayPal,425.46,Y,Paid,No,10.0,1
+11543,Southwest,Domestic,95,Jul,1,5.0,Economy,4,0,Credit Card,599.73,No,Paid,Yes,3.0,0
+11544,Southwest,International,143,Dec,0,2.0,Economy,1,1,Credit Card,357.96,No,FREE,No,6.0,0
+11545,Delta,Domestic,15,Feb,1,6.0,Economy,0,0,,373.42,No,Paid,Yes,7.0,0
+11546,Alaska,Domestic,45,Apr,1,2.0,Business,2,1,PayPal,344.16,No,Paid,No,1.0,0
+11547,Alaska,Domestic,166,May,0,1.0,Economy,3,0,Credit Card,177.09,Yes,Paid,,4.0,0
+11548,JetBlue,Domestic,158,Mar,0,6.0,Economy,1,0,Debit Card,409.27,Yes,Free,No,4.0,0
+11549,JetBlue,Domestic,106,Sep,1,5.0,Economy,4,0,Credit Card,147.01,No,Free,No,8.0,0
+11550,JetBlue,Domestic,87,May,1,5.0,First,0,0,Credit Card,348.07,No,Free,No,2.0,1
+11551,Southwest,Domestic,128,Feb,0,3.0,Economy,4,1,Credit Card,372.47,No,Paid,Yes,5.0,0
+11552,Alaska,International,138,Nov,1,6.0,Business,3,1,Debit Card,366.9,No,Paid,No,,1
+11553,Southwest,Domestic,118,Mar,1,3.0,Economy,2,0,PayPal,178.22,No,Free,No,4.0,1
+11554,Delta,International,84,Sep,0,3.0,Economy,3,0,Credit Card,260.74,No,Free,No,1.0,1
+11555,JetBlue,Domestic,3,Jul,1,1.0,Economy,4,0,Credit Card,456.42,No,Paid,No,1.0,0
+11556,Southwest,International,70,Feb,0,2.0,Economy,4,0,Debit Card,370.2,No,Paid,NO,3.0,1
+11557,Southwest,Domestic,153,Sep,0,5.0,Economy,3,0,Credit Card,261.65,No,,No,3.0,1
+11558,Delta,International,110,Apr,1,5.0,Economy,3,0,PayPal,210.04,N,Paid,No,6.0,0
+11559,United,Domestic,49,Sep,1,2.0,Economy,3,0,Credit Card,472.39,No,Free,No,0.0,0
+11560,Alaska,Domestic,139,Feb,1,5.0,Economy,0,1,Credit Card,364.81,Yes,PAID,No,10.0,1
+11561,United,Domestic,94,Dec,0,,Economy,4,0,Credit Card,201.69,No,Paid,No,5.0,0
+11562,JetBlue,International,208,Oct,0,6.0,Business,1,0,PayPal,333.59,Yes,Paid,No,10.0,0
+11563,Southwest,Domestic,224,Dec,0,1.0,Economy,0,0,PayPal,247.14,Yes,,yes,8.0,0
+11564,Delta,Domestic,202,Apr,0,1.0,Economy,0,1,Credit Card,402.19,No,Free,No,1.0,1
+11565,Delta,Domestic,91,May,0,1.0,First,0,0,Credit Card,535.51,No,Paid,No,4.0,0
+11566,Alaska,Domestic,223,Feb,0,2.0,Business,1,0,Credit Card,208.68,Yes,Paid,No,9.0,1
+11567,United,Domestic,64,Oct,0,2.0,First,3,1,Debit Card,382.0,No,Paid,No,10.0,0
+11568,Alaska,Domestic,46,Jan,1,4.0,Economy,4,0,Debit Card,379.46,No,Free,Yes,9.0,0
+11569,Southwest,International,219,Jul,0,5.0,Business,2,0,PayPal,59.77,No,Free,Yes,3.0,1
+11570,Alaska,International,180,Oct,0,5.0,Economy,2,0,Debit Card,476.57,Yes,Paid,No,3.0,0
+11571,Delta,International,105,Jan,0,4.0,Economy,4,0,PayPal,653.85,No,Free,No,7.0,0
+11572,Delta,Domestic,198,Nov,0,4.0,Business,1,2,Credit Card,379.33,No,Free,No,5.0,0
+11573,JetBlue,International,129,Nov,0,1.0,Economy,2,0,Credit Card,550.35,YES,Paid,No,6.0,1
+11574,JetBlue,International,105,Aug,0,4.0,Economy,0,0,Debit Card,184.36,No,Paid,No,10.0,0
+11575,Southwest,Domestic,23,Mar,1,2.0,Economy,2,0,Credit Card,259.37,No,Free,No,8.0,1
+11576,United,Domestic,3,Oct,0,3.0,Business,4,1,Credit Card,369.97,,Free,N,2.0,0
+11577,Alaska,Domestic,107,Jun,1,2.0,Economy,0,1,Credit Card,240.48,Yes,Free,Yes,,0
+11578,Southwest,International,18,Jul,1,4.0,Economy,2,1,Credit Card,365.33,No,Paid,No,1.0,0
+11579,JetBlue,Domestic,153,Oct,1,5.0,Economy,4,0,Debit Card,500.47,yes,Free,No,2.0,1
+11580,Alaska,Domestic,202,Jan,0,2.0,Economy,1,0,Credit Card,236.37,No,Paid,No,7.0,0
+11581,JetBlue,Domestic,39,Jun,1,5.0,Business,4,1,Credit Card,506.65,No,Free,No,8.0,0
+11582,Alaska,International,49,Jul,0,2.0,Economy,1,2,Credit Card,90.74,No,Free,No,9.0,0
+11583,United,International,170,Jun,0,5.0,Economy,0,1,Credit Card,280.37,No,free,Yes,4.0,1
+11584,Southwest,International,74,Apr,1,6.0,Business,4,1,Debit Card,332.43,Yes,Paid,Yes,7.0,0
+11585,Alaska,Domestic,236,Jan,1,2.0,Economy,3,2,Credit Card,230.23,No,Paid,Yes,10.0,1
+11586,Delta,Domestic,194,Nov,0,5.0,Economy,3,1,PayPal,282.33,No,Free,No,6.0,1
+11587,Delta,Domestic,11,Sep,0,3.0,Business,3,0,Debit Card,555.46,No,PAID,Yes,8.0,0
+11588,Alaska,Domestic,194,Apr,0,1.0,Economy,3,0,Debit Card,533.59,No,Paid,Yes,3.0,1
+11589,Alaska,Domestic,233,Jul,0,2.0,Economy,3,0,Debit Card,460.8,Yes,Paid,YES,9.0,1
+11590,Alaska,Domestic,26,Jul,0,3.0,Business,1,4,Credit Card,505.77,No,Paid,YES,2.0,1
+11591,Delta,Domestic,112,Feb,1,1.0,Business,4,0,Credit Card,273.15,No,Free,No,8.0,1
+11592,Delta,Domestic,181,Jan,1,,Business,0,0,Debit Card,188.8,Yes,Paid,No,7.0,0
+11593,Alaska,International,193,Aug,1,3.0,First,3,1,Credit Card,246.94,Yes,Paid,No,6.0,0
+11594,JetBlue,Domestic,48,Aug,0,3.0,Business,3,3,Credit Card,267.74,No,Paid,Yes,0.0,0
+11595,JetBlue,International,143,Jul,1,6.0,Business,0,0,Credit Card,274.67,No,Free,No,1.0,1
+11596,United,Domestic,129,Aug,1,3.0,Business,0,2,PayPal,433.94,No,Free,no,8.0,1
+11597,Southwest,Domestic,59,Mar,1,6.0,Economy,3,2,Credit Card,405.24,No,Free,No,4.0,1
+11598,JetBlue,Domestic,181,Nov,0,4.0,Economy,1,0,Credit Card,335.41,yes,Free,yes,0.0,1
+11599,Delta,Domestic,29,Feb,0,5.0,Business,0,0,PayPal,344.03,No,Paid,No,8.0,0
+11600,JetBlue,Domestic,83,Jul,0,1.0,Economy,4,0,Debit Card,513.29,No,FREE,No,0.0,1
+11601,United,Domestic,165,Aug,0,5.0,Economy,4,1,Credit Card,179.14,Yes,Free,No,7.0,1
+11602,United,Domestic,27,Jan,1,5.0,Economy,1,1,PayPal,470.55,No,Free,No,4.0,0
+11603,Southwest,Domestic,24,Dec,1,6.0,Economy,2,0,Credit Card,64.42,Yes,Paid,No,10.0,0
+11604,JetBlue,Domestic,95,Oct,0,5.0,Economy,1,0,Debit Card,280.77,No,Free,No,5.0,1
+11605,Delta,International,124,Sep,0,3.0,Business,3,0,Credit Card,571.48,No,Free,No,,0
+11606,Delta,International,9,Nov,0,6.0,Business,2,0,Credit Card,402.12,No,Free,Yes,1.0,1
+11607,Alaska,International,187,Apr,0,5.0,Business,3,2,Debit Card,294.67,Yes,Free,No,6.0,0
+11608,Delta,Domestic,41,Dec,0,,Business,4,0,Credit Card,488.14,No,Paid,Yes,1.0,0
+11609,Southwest,International,39,Apr,1,4.0,Economy,0,0,Credit Card,443.31,Yes,Paid,No,4.0,0
+11610,Southwest,International,224,Mar,0,6.0,Economy,3,0,Debit Card,437.65,No,Free,No,10.0,1
+11611,Delta,Domestic,76,Jun,1,2.0,Economy,4,0,Credit Card,331.81,No,Paid,No,8.0,1
+11612,Delta,International,104,Jan,0,3.0,Economy,1,1,PayPal,494.39,No,Free,No,4.0,0
+11613,Alaska,Domestic,117,Jun,0,1.0,Economy,3,1,Credit Card,269.85,Yes,Paid,No,2.0,1
+11614,Delta,International,41,Feb,0,2.0,Economy,4,2,,263.23,No,Free,No,10.0,1
+11615,Alaska,International,46,Sep,1,2.0,Economy,0,0,Debit Card,622.4,No,Free,No,5.0,0
+11616,Alaska,Domestic,164,Feb,0,2.0,Economy,3,1,Credit Card,290.01,No,Free,No,6.0,1
+11617,Delta,Domestic,207,Jul,1,,First,4,1,Credit Card,75.54,No,Paid,Yes,9.0,0
+11618,United,International,236,Dec,0,6.0,Economy,3,0,Credit Card,508.75,No,Free,No,10.0,1
+11619,United,Domestic,21,Jan,1,6.0,Economy,0,2,PayPal,550.58,No,Free,No,9.0,1
+11620,Alaska,Domestic,184,Dec,1,5.0,Economy,3,1,Credit Card,326.99,No,Free,Yes,10.0,1
+11621,Delta,International,211,Jul,0,3.0,Economy,3,1,Credit Card,66.78,No,Free,No,7.0,0
+11622,United,Domestic,106,May,1,5.0,Economy,4,1,Credit Card,352.27,Yes,Free,Yes,2.0,1
+11623,Delta,Domestic,26,Aug,0,5.0,Economy,2,1,Credit Card,650.12,No,Free,No,10.0,0
+11624,Delta,Domestic,40,Apr,1,5.0,Economy,3,0,Credit Card,388.36,No,Free,Yes,3.0,0
+11625,Delta,Domestic,79,Dec,0,3.0,First,2,0,PayPal,467.71,No,Free,No,9.0,0
+11626,JetBlue,Domestic,161,Oct,0,3.0,Economy,1,1,PayPal,475.75,Yes,Paid,No,3.0,0
+11627,Delta,Domestic,159,Jul,1,4.0,Business,3,0,Credit Card,495.98,Yes,Paid,NO,1.0,0
+11628,JetBlue,Domestic,217,Jun,1,4.0,Business,2,2,Credit Card,620.75,No,Paid,No,6.0,1
+11629,Alaska,Domestic,88,May,0,4.0,Economy,1,0,PayPal,511.22,no,Free,No,3.0,0
+11630,United,International,65,Apr,1,4.0,Economy,4,2,Credit Card,348.7,No,Free,No,3.0,0
+11631,United,Domestic,11,Jul,0,6.0,Economy,3,0,Credit Card,203.78,Yes,Paid,yes,7.0,0
+11632,United,Domestic,167,Dec,0,2.0,Economy,4,0,PayPal,420.16,Yes,Free,No,5.0,1
+11633,United,International,72,May,1,2.0,Economy,1,1,Debit Card,332.92,yes,Free,Yes,5.0,1
+11634,United,Domestic,75,May,0,4.0,Business,4,0,Credit Card,460.35,No,Free,Y,10.0,0
+11635,United,Domestic,89,Jan,0,4.0,Economy,4,0,Credit Card,239.2,Yes,Free,No,8.0,1
+11636,United,Domestic,200,Feb,1,1.0,Business,0,1,Credit Card,317.91,,Paid,No,3.0,1
+11637,Alaska,International,9,May,0,2.0,Business,1,0,Credit Card,361.56,,Free,Yes,8.0,0
+11638,Delta,Domestic,95,Mar,1,1.0,Business,4,1,Debit Card,228.51,,Free,Yes,0.0,0
+11639,Southwest,Domestic,225,Feb,0,1.0,Economy,2,0,,365.58,No,Free,No,10.0,1
+11640,JetBlue,International,175,Apr,0,5.0,Business,1,1,Debit Card,470.16,No,Paid,No,8.0,1
+11641,Southwest,Domestic,19,Apr,0,6.0,Economy,0,1,Credit Card,627.42,N,,No,0.0,0
+11642,Southwest,Domestic,38,Apr,0,3.0,Economy,3,0,Credit Card,257.06,Yes,Free,yes,6.0,0
+11643,Delta,Domestic,59,Apr,1,2.0,Business,4,1,Credit Card,486.82,No,Paid,Yes,5.0,0
+11644,Delta,Domestic,65,Mar,0,4.0,Economy,2,1,Debit Card,83.08,Yes,Paid,No,6.0,0
+11645,Delta,International,64,Dec,0,4.0,Economy,0,0,Debit Card,358.94,No,Free,No,8.0,0
+11646,United,Domestic,178,Jul,1,3.0,Economy,1,1,Credit Card,369.89,Y,Free,No,9.0,0
+11647,Alaska,Domestic,123,Sep,0,2.0,Economy,4,0,Credit Card,473.99,No,Free,No,3.0,0
+11648,United,Domestic,163,Dec,1,4.0,Economy,0,0,Debit Card,287.24,No,Free,No,8.0,1
+11649,Alaska,Domestic,151,May,0,4.0,Economy,0,0,Credit Card,394.27,No,Free,No,2.0,1
+11650,Alaska,Domestic,154,Apr,1,5.0,Economy,2,2,Credit Card,515.18,Yes,Free,Yes,9.0,0
+11651,Southwest,Domestic,129,Nov,0,1.0,Economy,3,1,Credit Card,202.19,No,Free,Yes,10.0,0
+11652,Southwest,Domestic,158,Feb,1,4.0,First,3,0,Credit Card,85.81,No,Paid,Yes,10.0,1
+11653,Alaska,Domestic,56,Feb,1,6.0,Economy,3,1,Debit Card,511.13,No,Free,No,8.0,0
+11654,Alaska,Domestic,77,May,0,,Business,1,0,Debit Card,220.35,No,Paid,N,0.0,1
+11655,United,Domestic,193,Jul,0,6.0,Business,0,1,Debit Card,423.97,No,Paid,No,4.0,0
+11656,United,Domestic,28,Oct,1,3.0,Economy,1,0,PayPal,633.01,Yes,Free,No,9.0,0
+11657,Southwest,Domestic,14,Oct,0,5.0,Economy,0,1,PayPal,477.09,Yes,Free,No,4.0,0
+11658,Delta,Domestic,11,Sep,0,2.0,Economy,2,0,Credit Card,224.01,No,Free,Yes,0.0,1
+11659,Alaska,International,100,Jul,0,5.0,Economy,2,0,Credit Card,155.29,No,Paid,Yes,0.0,0
+11660,United,Domestic,155,May,1,1.0,Economy,1,3,Credit Card,251.01,Yes,Free,Yes,2.0,1
+11661,Southwest,International,83,Oct,0,4.0,Economy,1,0,,384.2,Yes,Free,No,8.0,0
+11662,United,Domestic,124,Oct,1,2.0,Economy,2,0,Debit Card,325.01,No,Paid,Yes,6.0,0
+11663,Alaska,Domestic,102,Oct,0,3.0,Economy,4,0,PayPal,550.66,Yes,Free,No,5.0,0
+11664,Alaska,Domestic,23,Jun,1,1.0,Economy,3,0,Debit Card,453.4,Yes,Free,No,8.0,0
+11665,JetBlue,Domestic,148,Nov,1,1.0,First,3,0,Credit Card,257.71,Y,Paid,Yes,3.0,0
+11666,Delta,Domestic,137,Dec,1,5.0,Economy,2,0,Credit Card,478.45,Yes,free,Yes,3.0,1
+11667,JetBlue,International,109,Mar,0,1.0,Business,3,1,Credit Card,570.9,Yes,Paid,No,2.0,0
+11668,Southwest,Domestic,77,May,1,2.0,First,4,0,PayPal,315.89,No,Paid,Yes,4.0,0
+11669,United,International,100,Aug,0,5.0,Economy,4,0,Credit Card,427.14,No,Paid,N,4.0,1
+11670,Southwest,Domestic,145,Jan,0,1.0,Economy,0,0,Credit Card,237.56,No,Free,N,9.0,0
+11671,Alaska,International,215,Dec,0,3.0,Business,1,0,Credit Card,340.16,Yes,FREE,No,6.0,1
+11672,JetBlue,Domestic,141,Jan,0,6.0,Business,3,0,PayPal,235.12,,Paid,Yes,6.0,1
+11673,JetBlue,International,161,Jul,1,2.0,Economy,4,0,Debit Card,533.5,No,Free,No,5.0,0
+11674,JetBlue,Domestic,127,May,0,3.0,First,1,2,PayPal,289.75,No,Paid,NO,3.0,1
+11675,Southwest,Domestic,57,May,1,3.0,Economy,1,2,Debit Card,421.61,No,Free,YES,6.0,0
+11676,Alaska,Domestic,75,Jan,1,5.0,Economy,0,1,Credit Card,448.93,No,paid,No,1.0,1
+11677,United,International,149,Sep,1,4.0,Economy,1,1,Credit Card,795.27,No,Paid,no,8.0,1
+11678,United,Domestic,197,Jan,0,5.0,Economy,1,2,Credit Card,322.8,No,Paid,No,6.0,1
+11679,Southwest,International,35,May,0,2.0,Economy,2,0,Debit Card,251.2,No,Paid,No,1.0,0
+11680,JetBlue,Domestic,172,Oct,1,2.0,Economy,0,0,PayPal,349.89,No,Free,No,9.0,0
+11681,Delta,International,163,Sep,0,5.0,Economy,0,2,Credit Card,240.93,no,Free,no,1.0,1
+11682,Southwest,International,21,Apr,0,4.0,Economy,3,2,Credit Card,291.75,Yes,Free,No,5.0,0
+11683,Southwest,International,205,Aug,0,5.0,Business,1,1,Credit Card,461.84,No,Paid,No,10.0,1
+11684,Alaska,Domestic,126,Jun,0,2.0,Business,3,1,Credit Card,265.96,Yes,Free,No,6.0,0
+11685,United,Domestic,79,Nov,1,4.0,Economy,4,1,Debit Card,438.68,Yes,Free,No,8.0,0
+11686,Southwest,International,188,Mar,0,2.0,Economy,1,0,Credit Card,443.5,Y,Paid,No,3.0,0
+11687,Southwest,Domestic,99,Apr,0,4.0,Economy,4,3,Credit Card,394.91,No,Free,Yes,7.0,0
+11688,JetBlue,Domestic,183,Feb,0,4.0,Economy,2,0,Credit Card,453.73,,Free,No,9.0,1
+11689,JetBlue,Domestic,216,Jan,0,5.0,Economy,1,0,Debit Card,318.78,No,Free,Yes,1.0,1
+11690,Delta,International,95,Aug,0,5.0,Economy,3,1,Credit Card,79.62,Yes,Paid,Yes,5.0,1
+11691,Alaska,Domestic,160,Jan,0,5.0,Business,3,3,Credit Card,368.3,No,Paid,Yes,3.0,1
+11692,Delta,Domestic,172,Nov,0,4.0,Business,1,1,PayPal,4979.46,Yes,Paid,yes,7.0,1
+11693,JetBlue,International,163,Jan,1,4.0,Economy,3,0,Credit Card,308.18,YES,Free,Yes,8.0,1
+11694,United,Domestic,147,Apr,0,2.0,Business,1,2,Credit Card,450.7,No,Free,No,1.0,1
+11695,JetBlue,International,17,Oct,0,3.0,Economy,0,1,Debit Card,467.0,No,Free,No,6.0,0
+11696,Alaska,Domestic,37,Dec,0,5.0,Economy,3,0,Credit Card,390.54,Yes,Paid,Yes,6.0,0
+11697,JetBlue,Domestic,194,Oct,0,6.0,Economy,1,1,Credit Card,373.81,No,Paid,Yes,7.0,1
+11698,Alaska,Domestic,150,Jun,1,2.0,Economy,1,1,PayPal,530.63,No,Paid,Yes,4.0,1
+11699,Alaska,Domestic,223,Sep,0,2.0,Economy,3,0,Debit Card,209.64,No,Paid,No,10.0,1
+11700,Alaska,International,108,Jan,0,,Business,0,0,Debit Card,313.61,No,Paid,NO,,0
+11701,Alaska,Domestic,122,Jul,0,5.0,Business,3,1,Credit Card,499.69,No,Paid,No,0.0,1
+11702,Alaska,Domestic,143,Oct,1,2.0,Business,1,0,Credit Card,435.01,Yes,Free,No,3.0,0
+11703,United,Domestic,186,Nov,0,1.0,Business,0,1,Credit Card,327.1,Yes,Paid,No,2.0,1
+11704,Delta,Domestic,196,May,1,6.0,First,4,0,Credit Card,414.68,No,Free,No,1.0,1
+11705,Southwest,Domestic,195,Dec,0,6.0,Economy,2,2,PayPal,283.25,No,Free,No,5.0,1
+11706,Delta,Domestic,148,Aug,1,5.0,Economy,3,2,,382.58,No,free,N,6.0,1
+11707,Alaska,Domestic,103,Jul,1,4.0,Economy,1,0,Credit Card,456.33,No,,YES,9.0,0
+11708,United,International,205,Apr,0,1.0,Economy,0,1,PayPal,540.86,No,Free,Yes,6.0,0
+11709,JetBlue,Domestic,230,Apr,0,4.0,Economy,0,0,,452.53,Yes,FREE,No,7.0,1
+11710,United,Domestic,222,Jun,0,6.0,Economy,4,1,PayPal,550.91,no,Paid,No,1.0,1
+11711,Alaska,Domestic,205,Jun,0,6.0,Economy,3,0,Debit Card,158.03,No,Free,YES,10.0,1
+11712,United,International,197,Sep,0,3.0,Economy,0,0,Credit Card,50.22,No,Free,No,9.0,1
+11713,United,Domestic,139,Dec,0,3.0,Business,4,1,Debit Card,54.46,Yes,Free,No,5.0,1
+11714,Alaska,Domestic,143,May,0,3.0,Economy,1,0,Credit Card,516.25,Yes,Free,No,5.0,1
+11715,United,Domestic,80,Aug,0,3.0,Economy,4,0,Credit Card,444.52,Yes,Paid,No,,1
+11716,Southwest,International,236,May,0,,Economy,3,2,Debit Card,259.44,No,Free,,0.0,1
+11717,Southwest,Domestic,86,Feb,0,3.0,Business,4,0,Debit Card,306.11,No,Paid,Yes,1.0,1
+11718,United,International,141,Jun,0,2.0,Economy,0,2,PayPal,407.11,No,Free,No,8.0,1
+11719,JetBlue,Domestic,60,Sep,1,2.0,Economy,0,1,PayPal,258.74,No,Paid,Yes,7.0,1
+11720,Alaska,Domestic,198,Mar,0,5.0,Economy,2,1,PayPal,245.59,NO,Paid,No,3.0,0
+11721,Southwest,International,45,Jan,1,2.0,Economy,4,0,Credit Card,268.36,yes,Free,No,5.0,0
+11722,JetBlue,Domestic,31,Jan,0,2.0,Economy,1,2,Debit Card,256.33,No,Free,Yes,1.0,1
+11723,United,International,14,Mar,0,3.0,Economy,3,1,Debit Card,366.19,No,Free,No,4.0,0
+11724,JetBlue,International,43,Oct,0,2.0,Economy,2,1,PayPal,592.83,No,Free,Yes,1.0,0
+11725,Delta,International,144,May,0,4.0,Economy,4,0,Credit Card,219.0,No,Free,Yes,4.0,0
+11726,Southwest,Domestic,168,Mar,1,3.0,Economy,1,0,Credit Card,349.75,Yes,Free,No,,0
+11727,United,International,53,Sep,1,1.0,First,2,0,PayPal,424.49,No,Free,Yes,6.0,1
+11728,Alaska,Domestic,238,Aug,0,3.0,First,0,0,Credit Card,434.98,No,Paid,No,8.0,1
+11729,United,International,43,Mar,1,2.0,Economy,3,0,Debit Card,289.18,Yes,PAID,Yes,2.0,0
+11730,Alaska,Domestic,97,Sep,0,4.0,Economy,4,1,Credit Card,446.62,No,PAID,Yes,3.0,0
+11731,United,International,4,Jun,1,3.0,Economy,1,1,Credit Card,418.8,N,Free,Yes,8.0,0
+11732,JetBlue,Domestic,108,Jul,1,4.0,Economy,0,1,Debit Card,296.82,No,Free,No,7.0,1
+11733,JetBlue,Domestic,26,Apr,0,1.0,Economy,2,0,Credit Card,170.62,Yes,Paid,,6.0,0
+11734,JetBlue,Domestic,115,Apr,0,6.0,Economy,3,0,Debit Card,199.94,No,Free,No,7.0,1
+11735,Delta,International,86,Dec,0,1.0,Economy,2,0,Credit Card,464.42,No,Free,,8.0,1
+11736,Alaska,Domestic,103,Feb,1,6.0,Economy,2,1,Credit Card,559.79,No,Free,Yes,3.0,1
+11737,JetBlue,Domestic,122,May,0,5.0,Economy,1,1,Credit Card,360.11,No,Free,Yes,4.0,1
+11738,Delta,International,205,Aug,1,6.0,Economy,0,0,Debit Card,556.27,No,Paid,No,8.0,1
+11739,Alaska,Domestic,78,Jul,1,,Economy,4,0,Credit Card,352.67,No,Paid,,6.0,0
+11238,United,Domestic,42,Jul,0,3.0,Economy,1,1,Debit Card,199.77,Yes,Free,No,3.0,0
+11741,Delta,Domestic,96,Jun,0,5.0,Economy,3,0,Debit Card,330.67,No,Paid,No,5.0,0
+11742,Southwest,Domestic,30,Mar,1,4.0,Economy,2,0,Debit Card,568.86,No,Paid,No,10.0,0
+11743,Delta,Domestic,98,May,0,5.0,Economy,3,0,Debit Card,275.51,Yes,Paid,NO,0.0,0
+11744,Delta,Domestic,16,Jan,1,4.0,Economy,1,0,,340.97,Yes,Paid,No,0.0,0
+11745,Alaska,Domestic,219,Jul,0,6.0,Economy,1,0,Credit Card,525.99,No,Paid,Yes,8.0,1
+11746,United,Domestic,82,Sep,0,6.0,Economy,4,0,Credit Card,516.35,No,Paid,,7.0,0
+11747,Southwest,International,109,Jan,0,6.0,Economy,2,0,,402.83,No,Free,No,0.0,0
+11748,JetBlue,Domestic,181,Feb,1,,Economy,1,0,PayPal,434.85,No,Paid,No,10.0,1
+11749,JetBlue,Domestic,189,Mar,0,6.0,Economy,3,1,Debit Card,508.8,No,Paid,Yes,1.0,1
+11750,Delta,International,214,Mar,1,5.0,Business,4,0,,403.2,Yes,Paid,No,3.0,1
+11751,Alaska,Domestic,31,Aug,0,5.0,Business,3,0,Credit Card,539.27,Yes,Free,No,0.0,0
+11752,Alaska,Domestic,167,Jul,1,,First,2,0,PayPal,454.07,No,Paid,No,1.0,0
+11753,JetBlue,International,140,Jun,0,2.0,Economy,4,0,Credit Card,339.29,no,Paid,Yes,4.0,1
+11754,Southwest,International,211,Oct,0,5.0,First,4,2,Debit Card,420.83,No,FREE,No,7.0,0
+11755,United,International,34,Oct,1,4.0,Economy,4,1,Credit Card,306.04,Yes,Free,Yes,5.0,0
+11756,Southwest,International,132,Nov,0,3.0,Economy,0,0,Credit Card,224.82,No,Free,Yes,5.0,1
+11757,United,International,200,Apr,0,1.0,Economy,4,3,PayPal,200.2,No,Paid,Yes,3.0,1
+11758,JetBlue,Domestic,28,Sep,0,2.0,Business,3,0,Credit Card,331.08,Yes,Paid,No,1.0,0
+11759,United,International,69,Jan,1,,Economy,3,0,Debit Card,403.82,No,Paid,yes,2.0,1
+11760,Alaska,Domestic,152,Nov,1,1.0,Business,2,1,PayPal,612.15,Yes,Free,No,5.0,1
+11761,Delta,International,94,Feb,0,2.0,Economy,1,1,Debit Card,418.25,No,Free,NO,5.0,1
+11762,Delta,Domestic,21,Apr,0,3.0,Economy,1,0,,386.81,Yes,Paid,No,4.0,1
+11763,JetBlue,Domestic,193,Mar,1,,Economy,0,1,Debit Card,346.05,Yes,Free,Yes,5.0,1
+11764,Alaska,Domestic,172,Jan,0,5.0,Economy,4,0,Debit Card,309.97,yes,Paid,N,10.0,0
+11765,Southwest,International,68,May,1,3.0,Economy,0,1,Debit Card,378.31,NO,Free,Y,5.0,0
+11766,Alaska,Domestic,218,Jul,0,2.0,Economy,2,0,PayPal,321.39,No,Free,No,0.0,1
+11767,Delta,International,88,Feb,1,,Economy,2,4,Debit Card,314.52,Yes,Free,No,5.0,0
+11768,Delta,International,71,May,1,1.0,Economy,1,1,Debit Card,474.91,No,Paid,No,4.0,0
+11769,Alaska,Domestic,128,Jun,1,6.0,Economy,2,1,,232.95,Yes,Free,No,7.0,1
+11770,Alaska,International,211,Nov,1,4.0,Business,4,0,Debit Card,325.01,Yes,free,No,8.0,1
+11771,Delta,International,171,Jul,0,2.0,Economy,3,0,Debit Card,263.73,No,PAID,No,5.0,1
+11772,Southwest,Domestic,86,Jan,0,4.0,Economy,2,0,Debit Card,376.46,Yes,Paid,No,9.0,0
+11773,JetBlue,Domestic,95,Jul,0,5.0,Economy,0,1,Credit Card,479.53,No,Paid,No,3.0,0
+11774,JetBlue,Domestic,74,Apr,0,,Economy,4,1,PayPal,409.0,No,free,no,2.0,1
+11775,Alaska,Domestic,166,Aug,0,3.0,Business,2,0,Credit Card,329.07,Yes,Free,No,9.0,0
+11776,JetBlue,Domestic,238,Apr,1,4.0,Business,2,1,Credit Card,491.65,No,Free,No,0.0,1
+11777,Delta,International,53,Jun,0,1.0,Economy,4,0,Debit Card,483.58,No,Paid,No,6.0,0
+11778,Delta,Domestic,87,Sep,0,2.0,Economy,2,0,Debit Card,365.53,No,Paid,No,4.0,0
+11779,Alaska,International,202,May,0,1.0,Business,3,3,Credit Card,583.02,Yes,Paid,No,3.0,1
+11780,Alaska,Domestic,156,Dec,1,4.0,Business,1,0,Debit Card,418.71,No,Paid,No,8.0,0
+11781,Alaska,Domestic,53,Apr,0,6.0,Business,4,0,Credit Card,414.94,No,Paid,No,6.0,0
+11782,Southwest,International,217,Aug,0,3.0,Business,0,0,Credit Card,191.63,Yes,Free,No,9.0,0
+11783,JetBlue,International,15,Sep,1,3.0,Economy,2,0,Credit Card,124.28,Yes,Free,No,7.0,1
+11353,Alaska,Domestic,98,Apr,0,1.0,Economy,1,0,PayPal,368.88,Yes,Free,Yes,3.0,0
+11785,United,Domestic,19,Mar,0,,Economy,0,0,Credit Card,499.62,Yes,Free,No,9.0,0
+11786,United,Domestic,45,Aug,0,5.0,Economy,0,1,Credit Card,405.99,No,Free,No,9.0,1
+11787,Delta,Domestic,194,May,1,6.0,Economy,3,2,Debit Card,493.12,Yes,Paid,No,7.0,0
+11788,JetBlue,Domestic,192,Feb,0,3.0,Economy,1,2,Credit Card,302.11,Yes,Paid,No,3.0,1
+11789,Alaska,Domestic,126,Oct,1,1.0,Economy,4,0,Debit Card,371.55,Yes,Free,yes,0.0,0
+11790,United,Domestic,57,Sep,0,1.0,Economy,1,0,PayPal,362.34,No,Free,No,10.0,0
+11791,JetBlue,International,180,Mar,1,1.0,Economy,1,0,PayPal,107.79,No,Free,Yes,7.0,1
+11792,Delta,Domestic,110,Dec,0,4.0,Economy,0,3,Credit Card,610.45,No,Paid,No,0.0,0
+11793,Southwest,Domestic,128,Feb,0,6.0,Economy,3,1,Credit Card,527.66,Yes,Free,YES,2.0,0
+11794,JetBlue,Domestic,80,Jan,0,5.0,Business,3,1,Debit Card,489.98,No,Paid,Yes,6.0,0
+11795,JetBlue,International,193,Aug,0,5.0,Business,1,0,Credit Card,539.89,Yes,Free,no,2.0,0
+11796,Southwest,International,156,Nov,0,4.0,Economy,1,0,Credit Card,294.63,No,Free,No,,1
+11797,JetBlue,Domestic,83,Mar,1,2.0,Economy,2,1,Credit Card,471.41,No,Paid,NO,4.0,0
+11798,Delta,International,69,Jul,0,4.0,Economy,0,0,Credit Card,294.31,NO,Free,Yes,2.0,0
+11799,Delta,Domestic,7,Jan,1,6.0,Economy,4,2,PayPal,380.72,Yes,Free,Yes,4.0,0
