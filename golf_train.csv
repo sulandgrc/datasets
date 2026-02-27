@@ -1,0 +1,15 @@
+﻿day,outlook,temp_fahr,humidity_percent,wind_mph,play
+1,sunny,95,98,5,0
+2,sunny,95,98,15,0
+3,overcast,95,98,5,1
+4,rain,70,98,5,1
+5,rain,55,65,5,1
+6,rain,55,65,15,0
+7,overcast,55,65,15,1
+8,sunny,70,98,5,0
+9,sunny,555,65,5,1
+10,rain,70,65,5,1
+11,sunny,70,65,15,1
+12,overcast,70,98,15,1
+13,overcast,95,65,5,1
+14,rain,70,98,15,0
