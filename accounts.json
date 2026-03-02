@@ -1,0 +1,17 @@
+[
+    {
+        "account": 100,
+        "name": "Jones",
+        "balance": 24.98
+    },
+    {
+        "account": 200,
+        "name": "Wu",
+        "balance": 345.67
+    },
+    {
+        "account": 300,
+        "name": "Gonzalez",
+        "balance": 1245.61
+    }
+]
