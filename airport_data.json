@@ -1,0 +1,802 @@
+[
+  {
+    "Date":"03\/01\/2026",
+    "Average Daily Temp (F)":31.4,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":763.0
+  },
+  {
+    "Date":"03\/02\/2026",
+    "Average Daily Temp (F)":42.3,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1708.0
+  },
+  {
+    "Date":"03\/03\/2026",
+    "Average Daily Temp (F)":67.2,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":1316.0
+  },
+  {
+    "Date":"03\/04\/2026",
+    "Average Daily Temp (F)":62.5,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":265.0
+  },
+  {
+    "Date":"03\/05\/2026",
+    "Average Daily Temp (F)":35.2,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":676.0
+  },
+  {
+    "Date":"03\/06\/2026",
+    "Average Daily Temp (F)":63.1,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"03\/07\/2026",
+    "Average Daily Temp (F)":69.4,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1636.0
+  },
+  {
+    "Date":"03\/08\/2026",
+    "Average Daily Temp (F)":53.1,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1119.0
+  },
+  {
+    "Date":"03\/09\/2026",
+    "Average Daily Temp (F)":45.3,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1980.0
+  },
+  {
+    "Date":"03\/10\/2026",
+    "Average Daily Temp (F)":71.7,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":526.0
+  },
+  {
+    "Date":"03\/11\/2026",
+    "Average Daily Temp (F)":48.7,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"03\/12\/2026",
+    "Average Daily Temp (F)":82.6,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":889.0
+  },
+  {
+    "Date":"03\/13\/2026",
+    "Average Daily Temp (F)":35.1,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":398.0
+  },
+  {
+    "Date":"03\/14\/2026",
+    "Average Daily Temp (F)":76.6,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1436.0
+  },
+  {
+    "Date":"03\/15\/2026",
+    "Average Daily Temp (F)":74.4,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1694.0
+  },
+  {
+    "Date":"03\/16\/2026",
+    "Average Daily Temp (F)":59.5,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":975.0
+  },
+  {
+    "Date":"03\/17\/2026",
+    "Average Daily Temp (F)":60.4,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":1898.0
+  },
+  {
+    "Date":"03\/18\/2026",
+    "Average Daily Temp (F)":78.7,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":940.0
+  },
+  {
+    "Date":"03\/19\/2026",
+    "Average Daily Temp (F)":40.6,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":342.0
+  },
+  {
+    "Date":"03\/20\/2026",
+    "Average Daily Temp (F)":66.4,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1783.0
+  },
+  {
+    "Date":"03\/21\/2026",
+    "Average Daily Temp (F)":84.2,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1951.0
+  },
+  {
+    "Date":"03\/22\/2026",
+    "Average Daily Temp (F)":77.7,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":978.0
+  },
+  {
+    "Date":"03\/23\/2026",
+    "Average Daily Temp (F)":54.9,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1908.0
+  },
+  {
+    "Date":"03\/24\/2026",
+    "Average Daily Temp (F)":38.9,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":927.0
+  },
+  {
+    "Date":"03\/25\/2026",
+    "Average Daily Temp (F)":66.9,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1637.0
+  },
+  {
+    "Date":"03\/26\/2026",
+    "Average Daily Temp (F)":63.5,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":550.0
+  },
+  {
+    "Date":"03\/27\/2026",
+    "Average Daily Temp (F)":70.1,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":534.0
+  },
+  {
+    "Date":"03\/28\/2026",
+    "Average Daily Temp (F)":50.9,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":1510.0
+  },
+  {
+    "Date":"03\/29\/2026",
+    "Average Daily Temp (F)":42.1,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":864.0
+  },
+  {
+    "Date":"03\/30\/2026",
+    "Average Daily Temp (F)":42.6,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":265.0
+  },
+  {
+    "Date":"03\/31\/2026",
+    "Average Daily Temp (F)":52.1,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":335.0
+  },
+  {
+    "Date":"04\/01\/2026",
+    "Average Daily Temp (F)":80.2,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"04\/02\/2026",
+    "Average Daily Temp (F)":41.7,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1222.0
+  },
+  {
+    "Date":"04\/03\/2026",
+    "Average Daily Temp (F)":78.7,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1516.0
+  },
+  {
+    "Date":"04\/04\/2026",
+    "Average Daily Temp (F)":37.9,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":485.0
+  },
+  {
+    "Date":"04\/05\/2026",
+    "Average Daily Temp (F)":71.0,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1303.0
+  },
+  {
+    "Date":"04\/06\/2026",
+    "Average Daily Temp (F)":71.1,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1077.0
+  },
+  {
+    "Date":"04\/07\/2026",
+    "Average Daily Temp (F)":52.0,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":649.0
+  },
+  {
+    "Date":"04\/08\/2026",
+    "Average Daily Temp (F)":58.0,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":386.0
+  },
+  {
+    "Date":"04\/09\/2026",
+    "Average Daily Temp (F)":77.4,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":513.0
+  },
+  {
+    "Date":"04\/10\/2026",
+    "Average Daily Temp (F)":73.6,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1064.0
+  },
+  {
+    "Date":"04\/11\/2026",
+    "Average Daily Temp (F)":33.5,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":981.0
+  },
+  {
+    "Date":"04\/12\/2026",
+    "Average Daily Temp (F)":84.8,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1283.0
+  },
+  {
+    "Date":"04\/13\/2026",
+    "Average Daily Temp (F)":83.4,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1962.0
+  },
+  {
+    "Date":"04\/14\/2026",
+    "Average Daily Temp (F)":67.4,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":434.0
+  },
+  {
+    "Date":"04\/15\/2026",
+    "Average Daily Temp (F)":71.3,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1774.0
+  },
+  {
+    "Date":"04\/16\/2026",
+    "Average Daily Temp (F)":36.1,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1090.0
+  },
+  {
+    "Date":"04\/17\/2026",
+    "Average Daily Temp (F)":55.0,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1678.0
+  },
+  {
+    "Date":"04\/18\/2026",
+    "Average Daily Temp (F)":83.5,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1760.0
+  },
+  {
+    "Date":"04\/19\/2026",
+    "Average Daily Temp (F)":57.9,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":417.0
+  },
+  {
+    "Date":"04\/20\/2026",
+    "Average Daily Temp (F)":76.3,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1239.0
+  },
+  {
+    "Date":"04\/21\/2026",
+    "Average Daily Temp (F)":40.9,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":965.0
+  },
+  {
+    "Date":"04\/22\/2026",
+    "Average Daily Temp (F)":59.7,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1794.0
+  },
+  {
+    "Date":"04\/23\/2026",
+    "Average Daily Temp (F)":80.5,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"04\/24\/2026",
+    "Average Daily Temp (F)":56.9,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":429.0
+  },
+  {
+    "Date":"04\/25\/2026",
+    "Average Daily Temp (F)":78.3,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1903.0
+  },
+  {
+    "Date":"04\/26\/2026",
+    "Average Daily Temp (F)":43.2,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":693.0
+  },
+  {
+    "Date":"04\/27\/2026",
+    "Average Daily Temp (F)":82.1,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":375.0
+  },
+  {
+    "Date":"04\/28\/2026",
+    "Average Daily Temp (F)":74.9,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":1757.0
+  },
+  {
+    "Date":"04\/29\/2026",
+    "Average Daily Temp (F)":72.1,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":462.0
+  },
+  {
+    "Date":"04\/30\/2026",
+    "Average Daily Temp (F)":82.1,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":538.0
+  },
+  {
+    "Date":"05\/01\/2026",
+    "Average Daily Temp (F)":59.0,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1442.0
+  },
+  {
+    "Date":"05\/02\/2026",
+    "Average Daily Temp (F)":83.0,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1304.0
+  },
+  {
+    "Date":"05\/03\/2026",
+    "Average Daily Temp (F)":69.2,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1017.0
+  },
+  {
+    "Date":"05\/04\/2026",
+    "Average Daily Temp (F)":54.1,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1259.0
+  },
+  {
+    "Date":"05\/05\/2026",
+    "Average Daily Temp (F)":36.7,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":660.0
+  },
+  {
+    "Date":"05\/06\/2026",
+    "Average Daily Temp (F)":48.6,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"05\/07\/2026",
+    "Average Daily Temp (F)":42.7,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":651.0
+  },
+  {
+    "Date":"05\/08\/2026",
+    "Average Daily Temp (F)":33.9,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1492.0
+  },
+  {
+    "Date":"05\/09\/2026",
+    "Average Daily Temp (F)":42.6,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":264.0
+  },
+  {
+    "Date":"05\/10\/2026",
+    "Average Daily Temp (F)":33.9,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":687.0
+  },
+  {
+    "Date":"05\/11\/2026",
+    "Average Daily Temp (F)":66.8,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":638.0
+  },
+  {
+    "Date":"05\/12\/2026",
+    "Average Daily Temp (F)":37.3,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"05\/13\/2026",
+    "Average Daily Temp (F)":56.0,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1806.0
+  },
+  {
+    "Date":"05\/14\/2026",
+    "Average Daily Temp (F)":74.4,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"05\/15\/2026",
+    "Average Daily Temp (F)":35.3,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":1082.0
+  },
+  {
+    "Date":"05\/16\/2026",
+    "Average Daily Temp (F)":null,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1156.0
+  },
+  {
+    "Date":"05\/17\/2026",
+    "Average Daily Temp (F)":67.0,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1523.0
+  },
+  {
+    "Date":"05\/18\/2026",
+    "Average Daily Temp (F)":33.3,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":1691.0
+  },
+  {
+    "Date":"05\/19\/2026",
+    "Average Daily Temp (F)":null,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":423.0
+  },
+  {
+    "Date":"05\/20\/2026",
+    "Average Daily Temp (F)":40.5,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1298.0
+  },
+  {
+    "Date":"05\/21\/2026",
+    "Average Daily Temp (F)":37.7,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":575.0
+  },
+  {
+    "Date":"05\/22\/2026",
+    "Average Daily Temp (F)":55.4,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1990.0
+  },
+  {
+    "Date":"05\/23\/2026",
+    "Average Daily Temp (F)":54.4,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":1964.0
+  },
+  {
+    "Date":"05\/24\/2026",
+    "Average Daily Temp (F)":null,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1535.0
+  },
+  {
+    "Date":"05\/25\/2026",
+    "Average Daily Temp (F)":76.0,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":391.0
+  },
+  {
+    "Date":"05\/26\/2026",
+    "Average Daily Temp (F)":39.1,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1194.0
+  },
+  {
+    "Date":"05\/27\/2026",
+    "Average Daily Temp (F)":41.8,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":1021.0
+  },
+  {
+    "Date":"05\/28\/2026",
+    "Average Daily Temp (F)":39.1,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":204.0
+  },
+  {
+    "Date":"05\/29\/2026",
+    "Average Daily Temp (F)":44.6,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1805.0
+  },
+  {
+    "Date":"05\/30\/2026",
+    "Average Daily Temp (F)":45.7,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":1626.0
+  },
+  {
+    "Date":"05\/31\/2026",
+    "Average Daily Temp (F)":66.4,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1196.0
+  },
+  {
+    "Date":"06\/01\/2026",
+    "Average Daily Temp (F)":40.4,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":645.0
+  },
+  {
+    "Date":"06\/02\/2026",
+    "Average Daily Temp (F)":61.9,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1310.0
+  },
+  {
+    "Date":"06\/03\/2026",
+    "Average Daily Temp (F)":71.1,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":317.0
+  },
+  {
+    "Date":"06\/04\/2026",
+    "Average Daily Temp (F)":62.1,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1229.0
+  },
+  {
+    "Date":"06\/05\/2026",
+    "Average Daily Temp (F)":38.7,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1240.0
+  },
+  {
+    "Date":"06\/06\/2026",
+    "Average Daily Temp (F)":76.8,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":340.0
+  },
+  {
+    "Date":"06\/07\/2026",
+    "Average Daily Temp (F)":33.7,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1965.0
+  },
+  {
+    "Date":"06\/08\/2026",
+    "Average Daily Temp (F)":52.2,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1366.0
+  }
+]
