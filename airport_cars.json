@@ -1,0 +1,1502 @@
+[
+  {
+    "Date": "03-01-26",
+    "Average Daily Temp in Fahr": 45.3,
+    "City": "Seattle",
+    "State": "WA",
+    "Airport Code": "SEA",
+    "Number of Airport Car Rentals": 1004.0,
+    "car rental companies": {
+      "Alamo": 144,
+      "Avis": 362,
+      "Hertz": 216,
+      "Budget": 277,
+      "Sixt": 490
+    }
+  },
+  {
+    "Date": "Mar 02, 2026",
+    "Average Daily Temp in Fahr": 55.6,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": null,
+    "car rental companies": {
+      "Hertz": 375,
+      "Alamo": 397,
+      "National": 86,
+      "Enterprise": 148,
+      "Budget": 155
+    }
+  },
+  {
+    "Date": "03/03/2026",
+    "Average Daily Temp in Fahr": 38.0,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1276.0,
+    "car rental companies": {
+      "Alamo": 384,
+      "Avis": 333,
+      "Budget": 328,
+      "National": 133,
+      "Enterprise": 248
+    }
+  },
+  {
+    "Date": "03-04-26",
+    "Average Daily Temp in Fahr": 60.1,
+    "City": "San Francisco",
+    "State": "CA",
+    "Airport Code": "SFO",
+    "Number of Airport Car Rentals": 1352.0,
+    "car rental companies": {
+      "Hertz": 237,
+      "Avis": 144,
+      "Sixt": 101,
+      "Enterprise": 119,
+      "National": 415
+    }
+  },
+  {
+    "Date": "03/05/2026",
+    "Average Daily Temp in Fahr": 60.9,
+    "City": "San Francisco",
+    "State": "CA",
+    "Airport Code": "SFO",
+    "Number of Airport Car Rentals": 1231.0,
+    "car rental companies": {
+      "National": 234,
+      "Hertz": 79,
+      "Avis": 180,
+      "Alamo": 234,
+      "Budget": 116
+    }
+  },
+  {
+    "Date": "Mar 06, 2026",
+    "Average Daily Temp in Fahr": 76.0,
+    "City": "Miami",
+    "State": "FL",
+    "Airport Code": "MIA",
+    "Number of Airport Car Rentals": 1562.0,
+    "car rental companies": {
+      "Avis": 455,
+      "Budget": 333,
+      "Hertz": 492,
+      "Sixt": 111,
+      "Alamo": 391
+    }
+  },
+  {
+    "Date": "03-07-26",
+    "Average Daily Temp in Fahr": 53.0,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": 986.0,
+    "car rental companies": {
+      "National": 493,
+      "Hertz": 440,
+      "Avis": 386,
+      "Sixt": 207,
+      "Budget": 275
+    }
+  },
+  {
+    "Date": "Mar 08, 2026",
+    "Average Daily Temp in Fahr": 57.5,
+    "City": "San Francisco",
+    "State": "CA",
+    "Airport Code": "SFO",
+    "Number of Airport Car Rentals": 1174.0,
+    "car rental companies": {
+      "Enterprise": 101,
+      "Hertz": 442,
+      "Alamo": 275,
+      "National": 478,
+      "Avis": 248
+    }
+  },
+  {
+    "Date": "03/09/2026",
+    "Average Daily Temp in Fahr": 72.6,
+    "City": "Miami",
+    "State": "FL",
+    "Airport Code": "MIA",
+    "Number of Airport Car Rentals": 1574.0,
+    "car rental companies": {
+      "Sixt": 50,
+      "Avis": 262,
+      "Enterprise": 157,
+      "National": 172,
+      "Budget": 52
+    }
+  },
+  {
+    "Date": "03-10-26",
+    "Average Daily Temp in Fahr": 38.2,
+    "City": "Denver",
+    "State": "CO",
+    "Airport Code": "DEN",
+    "Number of Airport Car Rentals": null,
+    "car rental companies": {
+      "Sixt": 324,
+      "Budget": 186,
+      "Enterprise": 265,
+      "Hertz": 136,
+      "Alamo": 448
+    }
+  },
+  {
+    "Date": "2026-03-11",
+    "Average Daily Temp in Fahr": 73.7,
+    "City": "Miami",
+    "State": "FL",
+    "Airport Code": "MIA",
+    "Number of Airport Car Rentals": 1402.0,
+    "car rental companies": {
+      "Budget": 455,
+      "Avis": 341,
+      "Hertz": 251,
+      "National": 186,
+      "Sixt": 341
+    }
+  },
+  {
+    "Date": "Mar 12, 2026",
+    "Average Daily Temp in Fahr": 43.8,
+    "City": "Seattle",
+    "State": "WA",
+    "Airport Code": "SEA",
+    "Number of Airport Car Rentals": 1169.0,
+    "car rental companies": {
+      "Hertz": 209,
+      "Alamo": 355,
+      "National": 330,
+      "Enterprise": 451,
+      "Budget": 388
+    }
+  },
+  {
+    "Date": "Mar 13, 2026",
+    "Average Daily Temp in Fahr": 39.8,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1165.0,
+    "car rental companies": {
+      "Avis": 500,
+      "Hertz": 152,
+      "Enterprise": 268,
+      "Sixt": 158,
+      "National": 304
+    }
+  },
+  {
+    "Date": "03/14/2026",
+    "Average Daily Temp in Fahr": 43.2,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1205.0,
+    "car rental companies": {
+      "Hertz": 391,
+      "Budget": 74,
+      "Sixt": 331,
+      "Enterprise": 163,
+      "National": 474
+    }
+  },
+  {
+    "Date": "Mar 15, 2026",
+    "Average Daily Temp in Fahr": 57.5,
+    "City": "San Francisco",
+    "State": "CA",
+    "Airport Code": "SFO",
+    "Number of Airport Car Rentals": 1145.0,
+    "car rental companies": {
+      "Hertz": 341,
+      "Budget": 417,
+      "National": 468,
+      "Enterprise": 491,
+      "Alamo": 272
+    }
+  },
+  {
+    "Date": "Mar 16, 2026",
+    "Average Daily Temp in Fahr": 51.1,
+    "City": "Denver",
+    "State": "CO",
+    "Airport Code": "DEN",
+    "Number of Airport Car Rentals": null,
+    "car rental companies": {
+      "Alamo": 95,
+      "National": 274,
+      "Avis": 71,
+      "Hertz": 323,
+      "Budget": 209
+    }
+  },
+  {
+    "Date": "2026-03-17",
+    "Average Daily Temp in Fahr": 52.4,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": 886.0,
+    "car rental companies": {
+      "Alamo": 487,
+      "Hertz": 379,
+      "Enterprise": 318,
+      "Sixt": 100,
+      "Budget": 415
+    }
+  },
+  {
+    "Date": "2026-03-18",
+    "Average Daily Temp in Fahr": null,
+    "City": "Seattle",
+    "State": "WA",
+    "Airport Code": "SEA",
+    "Number of Airport Car Rentals": 1102.0,
+    "car rental companies": {
+      "Hertz": 388,
+      "Budget": 143,
+      "Alamo": 379,
+      "National": 386,
+      "Enterprise": 257
+    }
+  },
+  {
+    "Date": "Mar 19, 2026",
+    "Average Daily Temp in Fahr": 63.6,
+    "City": "Seattle",
+    "State": "WA",
+    "Airport Code": "SEA",
+    "Number of Airport Car Rentals": 903.0,
+    "car rental companies": {
+      "Budget": 160,
+      "Alamo": 127,
+      "Hertz": 386,
+      "National": 461,
+      "Sixt": 379
+    }
+  },
+  {
+    "Date": "03/20/2026",
+    "Average Daily Temp in Fahr": 35.6,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1323.0,
+    "car rental companies": {
+      "Enterprise": 311,
+      "Alamo": 265,
+      "National": 411,
+      "Avis": 184,
+      "Sixt": 195
+    }
+  },
+  {
+    "Date": "03-21-26",
+    "Average Daily Temp in Fahr": 69.4,
+    "City": "Denver",
+    "State": "CO",
+    "Airport Code": "DEN",
+    "Number of Airport Car Rentals": 1273.0,
+    "car rental companies": {
+      "Budget": 347,
+      "Enterprise": 359,
+      "National": 413,
+      "Hertz": 123,
+      "Sixt": 316
+    }
+  },
+  {
+    "Date": "Mar 22, 2026",
+    "Average Daily Temp in Fahr": 44.2,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1334.0,
+    "car rental companies": {
+      "Sixt": 385,
+      "National": 176,
+      "Alamo": 370,
+      "Hertz": 458,
+      "Enterprise": 473
+    }
+  },
+  {
+    "Date": "03-23-26",
+    "Average Daily Temp in Fahr": 62.9,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1305.0,
+    "car rental companies": {
+      "National": 463,
+      "Budget": 435,
+      "Hertz": 288,
+      "Avis": 241,
+      "Enterprise": 381
+    }
+  },
+  {
+    "Date": "2026-03-24",
+    "Average Daily Temp in Fahr": 61.6,
+    "City": "Atlanta",
+    "State": "GA",
+    "Airport Code": "ATL",
+    "Number of Airport Car Rentals": 1520.0,
+    "car rental companies": {
+      "Alamo": 136,
+      "Avis": 70,
+      "National": 241,
+      "Sixt": 76,
+      "Hertz": 349
+    }
+  },
+  {
+    "Date": "03/25/2026",
+    "Average Daily Temp in Fahr": 60.6,
+    "City": "Denver",
+    "State": "CO",
+    "Airport Code": "DEN",
+    "Number of Airport Car Rentals": 1162.0,
+    "car rental companies": {
+      "Hertz": 140,
+      "Budget": 103,
+      "Avis": 386,
+      "Alamo": 366,
+      "National": 87
+    }
+  },
+  {
+    "Date": "03/26/2026",
+    "Average Daily Temp in Fahr": 50.6,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": 906.0,
+    "car rental companies": {
+      "Enterprise": 397,
+      "National": 414,
+      "Budget": 100,
+      "Sixt": 440,
+      "Avis": 299
+    }
+  },
+  {
+    "Date": "Mar 27, 2026",
+    "Average Daily Temp in Fahr": 54.6,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": 1006.0,
+    "car rental companies": {
+      "National": 211,
+      "Enterprise": 359,
+      "Sixt": 373,
+      "Budget": 482,
+      "Alamo": 263
+    }
+  },
+  {
+    "Date": "03/28/2026",
+    "Average Daily Temp in Fahr": 48.6,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": 952.0,
+    "car rental companies": {
+      "Sixt": 296,
+      "Alamo": 140,
+      "Avis": 170,
+      "National": 102,
+      "Budget": 423
+    }
+  },
+  {
+    "Date": "2026-03-29",
+    "Average Daily Temp in Fahr": 47.7,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": 1435.0,
+    "car rental companies": {
+      "Alamo": 70,
+      "Hertz": 121,
+      "National": 125,
+      "Enterprise": 463,
+      "Budget": 382
+    }
+  },
+  {
+    "Date": "03-30-26",
+    "Average Daily Temp in Fahr": 59.4,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1525.0,
+    "car rental companies": {
+      "Enterprise": 500,
+      "Alamo": 177,
+      "Budget": 310,
+      "Sixt": 384,
+      "Avis": 143
+    }
+  },
+  {
+    "Date": "03-31-26",
+    "Average Daily Temp in Fahr": 75.7,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1558.0,
+    "car rental companies": {
+      "Sixt": 129,
+      "Budget": 191,
+      "National": 229,
+      "Hertz": 396,
+      "Enterprise": 308
+    }
+  },
+  {
+    "Date": "04/01/2026",
+    "Average Daily Temp in Fahr": 43.3,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": null,
+    "car rental companies": {
+      "Alamo": 432,
+      "Budget": 484,
+      "Enterprise": 500,
+      "Hertz": 291,
+      "National": 252
+    }
+  },
+  {
+    "Date": "2026-04-02",
+    "Average Daily Temp in Fahr": 46.8,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": null,
+    "car rental companies": {
+      "Avis": 95,
+      "Hertz": 217,
+      "Budget": 277,
+      "National": 287,
+      "Sixt": 57
+    }
+  },
+  {
+    "Date": "2026-04-03",
+    "Average Daily Temp in Fahr": 60.2,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1487.0,
+    "car rental companies": {
+      "Hertz": 448,
+      "Sixt": 172,
+      "Avis": 408,
+      "National": 330,
+      "Enterprise": 405
+    }
+  },
+  {
+    "Date": "Apr 04, 2026",
+    "Average Daily Temp in Fahr": 54.4,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1407.0,
+    "car rental companies": {
+      "Alamo": 169,
+      "National": 66,
+      "Budget": 144,
+      "Avis": 114,
+      "Sixt": 384
+    }
+  },
+  {
+    "Date": "04/05/2026",
+    "Average Daily Temp in Fahr": 68.7,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1405.0,
+    "car rental companies": {
+      "Budget": 479,
+      "Enterprise": 57,
+      "Sixt": 228,
+      "National": 382,
+      "Avis": 114
+    }
+  },
+  {
+    "Date": "Apr 06, 2026",
+    "Average Daily Temp in Fahr": 39.1,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": 1347.0,
+    "car rental companies": {
+      "Avis": 86,
+      "Sixt": 227,
+      "National": 155,
+      "Alamo": 457,
+      "Budget": 74
+    }
+  },
+  {
+    "Date": "04-07-26",
+    "Average Daily Temp in Fahr": null,
+    "City": "Denver",
+    "State": "CO",
+    "Airport Code": "DEN",
+    "Number of Airport Car Rentals": 1218.0,
+    "car rental companies": {
+      "Hertz": 298,
+      "National": 313,
+      "Enterprise": 265,
+      "Sixt": 254,
+      "Avis": 410
+    }
+  },
+  {
+    "Date": "04-08-26",
+    "Average Daily Temp in Fahr": 48.9,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1477.0,
+    "car rental companies": {
+      "Budget": 167,
+      "Hertz": 218,
+      "Enterprise": 407,
+      "National": 262,
+      "Sixt": 427
+    }
+  },
+  {
+    "Date": "2026-04-09",
+    "Average Daily Temp in Fahr": 42.3,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": 1275.0,
+    "car rental companies": {
+      "Budget": 310,
+      "Hertz": 242,
+      "Sixt": 102,
+      "Alamo": 150,
+      "Enterprise": 181
+    }
+  },
+  {
+    "Date": "2026-04-10",
+    "Average Daily Temp in Fahr": 69.1,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Airport Code": "LAX",
+    "Number of Airport Car Rentals": 1388.0,
+    "car rental companies": {
+      "Hertz": 147,
+      "Alamo": 92,
+      "Sixt": 493,
+      "Avis": 83,
+      "National": 266
+    }
+  },
+  {
+    "Date": "2026-04-11",
+    "Average Daily Temp in Fahr": 53.8,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1625.0,
+    "car rental companies": {
+      "Sixt": 415,
+      "Alamo": 70,
+      "Budget": 262,
+      "National": 76,
+      "Enterprise": 98
+    }
+  },
+  {
+    "Date": "04-12-26",
+    "Average Daily Temp in Fahr": 74.1,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1452.0,
+    "car rental companies": {
+      "Avis": 220,
+      "National": 238,
+      "Budget": 228,
+      "Alamo": 82,
+      "Sixt": 220
+    }
+  },
+  {
+    "Date": "04/13/2026",
+    "Average Daily Temp in Fahr": 60.4,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1750.0,
+    "car rental companies": {
+      "National": 250,
+      "Enterprise": 306,
+      "Hertz": 214,
+      "Sixt": 66,
+      "Alamo": 472
+    }
+  },
+  {
+    "Date": "2026-04-14",
+    "Average Daily Temp in Fahr": 66.2,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Airport Code": "LAX",
+    "Number of Airport Car Rentals": 1558.0,
+    "car rental companies": {
+      "Enterprise": 213,
+      "Avis": 359,
+      "Alamo": 291,
+      "National": 234,
+      "Hertz": 165
+    }
+  },
+  {
+    "Date": "04-15-26",
+    "Average Daily Temp in Fahr": 55.6,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": 1122.0,
+    "car rental companies": {
+      "National": 156,
+      "Hertz": 219,
+      "Sixt": 173,
+      "Budget": 408,
+      "Alamo": 293
+    }
+  },
+  {
+    "Date": "04/16/2026",
+    "Average Daily Temp in Fahr": 58.7,
+    "City": "Atlanta",
+    "State": "GA",
+    "Airport Code": "ATL",
+    "Number of Airport Car Rentals": 1407.0,
+    "car rental companies": {
+      "National": 287,
+      "Enterprise": 296,
+      "Avis": 453,
+      "Alamo": 219,
+      "Hertz": 293
+    }
+  },
+  {
+    "Date": "Apr 17, 2026",
+    "Average Daily Temp in Fahr": 51.9,
+    "City": "Denver",
+    "State": "CO",
+    "Airport Code": "DEN",
+    "Number of Airport Car Rentals": 896.0,
+    "car rental companies": {
+      "Alamo": 418,
+      "Budget": 200,
+      "Sixt": 90,
+      "Avis": 383,
+      "Enterprise": 251
+    }
+  },
+  {
+    "Date": "04-18-26",
+    "Average Daily Temp in Fahr": 50.2,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": 1336.0,
+    "car rental companies": {
+      "Sixt": 339,
+      "Budget": 338,
+      "Hertz": 363,
+      "Avis": 321,
+      "Enterprise": 116
+    }
+  },
+  {
+    "Date": "Apr 19, 2026",
+    "Average Daily Temp in Fahr": 74.0,
+    "City": "Miami",
+    "State": "FL",
+    "Airport Code": "MIA",
+    "Number of Airport Car Rentals": 1310.0,
+    "car rental companies": {
+      "Enterprise": 277,
+      "Hertz": 396,
+      "Sixt": 362,
+      "Budget": 189,
+      "Avis": 360
+    }
+  },
+  {
+    "Date": "04/20/2026",
+    "Average Daily Temp in Fahr": 53.7,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": 1207.0,
+    "car rental companies": {
+      "Enterprise": 263,
+      "Avis": 463,
+      "Sixt": 427,
+      "National": 92,
+      "Alamo": 348
+    }
+  },
+  {
+    "Date": "Apr 21, 2026",
+    "Average Daily Temp in Fahr": 59.9,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": 1209.0,
+    "car rental companies": {
+      "Budget": 405,
+      "National": 373,
+      "Hertz": 119,
+      "Avis": 136,
+      "Enterprise": 226
+    }
+  },
+  {
+    "Date": "2026-04-22",
+    "Average Daily Temp in Fahr": 47.5,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": 1464.0,
+    "car rental companies": {
+      "Alamo": 262,
+      "National": 129,
+      "Enterprise": 132,
+      "Sixt": 282,
+      "Budget": 187
+    }
+  },
+  {
+    "Date": "04/23/2026",
+    "Average Daily Temp in Fahr": 68.3,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Airport Code": "LAX",
+    "Number of Airport Car Rentals": 1373.0,
+    "car rental companies": {
+      "National": 147,
+      "Enterprise": 351,
+      "Sixt": 354,
+      "Alamo": 75,
+      "Budget": 434
+    }
+  },
+  {
+    "Date": "04-24-26",
+    "Average Daily Temp in Fahr": 66.5,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1433.0,
+    "car rental companies": {
+      "Sixt": 142,
+      "Avis": 131,
+      "Enterprise": 445,
+      "Budget": 220,
+      "Hertz": 368
+    }
+  },
+  {
+    "Date": "2026-04-25",
+    "Average Daily Temp in Fahr": 55.0,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1363.0,
+    "car rental companies": {
+      "Alamo": 174,
+      "Enterprise": 71,
+      "Avis": 227,
+      "Hertz": 160,
+      "Budget": 92
+    }
+  },
+  {
+    "Date": "2026-04-26",
+    "Average Daily Temp in Fahr": 66.2,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": 965.0,
+    "car rental companies": {
+      "Enterprise": 334,
+      "Budget": 318,
+      "Alamo": 75,
+      "Sixt": 360,
+      "Hertz": 386
+    }
+  },
+  {
+    "Date": "Apr 27, 2026",
+    "Average Daily Temp in Fahr": 59.6,
+    "City": "Seattle",
+    "State": "WA",
+    "Airport Code": "SEA",
+    "Number of Airport Car Rentals": 1048.0,
+    "car rental companies": {
+      "Enterprise": 171,
+      "Alamo": 394,
+      "Hertz": 207,
+      "Budget": 137,
+      "National": 280
+    }
+  },
+  {
+    "Date": "2026-04-28",
+    "Average Daily Temp in Fahr": 66.1,
+    "City": "Denver",
+    "State": "CO",
+    "Airport Code": "DEN",
+    "Number of Airport Car Rentals": 1292.0,
+    "car rental companies": {
+      "Sixt": 254,
+      "Enterprise": 61,
+      "National": 365,
+      "Avis": 299,
+      "Budget": 209
+    }
+  },
+  {
+    "Date": "Apr 29, 2026",
+    "Average Daily Temp in Fahr": 65.8,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Airport Code": "LAX",
+    "Number of Airport Car Rentals": 1356.0,
+    "car rental companies": {
+      "Budget": 123,
+      "Sixt": 148,
+      "National": 167,
+      "Enterprise": 203,
+      "Avis": 430
+    }
+  },
+  {
+    "Date": "Apr 30, 2026",
+    "Average Daily Temp in Fahr": 77.2,
+    "City": "Miami",
+    "State": "FL",
+    "Airport Code": "MIA",
+    "Number of Airport Car Rentals": 1501.0,
+    "car rental companies": {
+      "Alamo": 350,
+      "Budget": 409,
+      "National": 455,
+      "Enterprise": 151,
+      "Avis": 131
+    }
+  },
+  {
+    "Date": "2026-05-01",
+    "Average Daily Temp in Fahr": 45.1,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1179.0,
+    "car rental companies": {
+      "National": 110,
+      "Enterprise": 98,
+      "Alamo": 204,
+      "Budget": 371,
+      "Avis": 140
+    }
+  },
+  {
+    "Date": "May 02, 2026",
+    "Average Daily Temp in Fahr": 59.5,
+    "City": "Seattle",
+    "State": "WA",
+    "Airport Code": "SEA",
+    "Number of Airport Car Rentals": 1074.0,
+    "car rental companies": {
+      "Alamo": 332,
+      "Hertz": 376,
+      "Budget": 459,
+      "National": 168,
+      "Sixt": 455
+    }
+  },
+  {
+    "Date": "05-03-26",
+    "Average Daily Temp in Fahr": 59.1,
+    "City": "San Francisco",
+    "State": "CA",
+    "Airport Code": "SFO",
+    "Number of Airport Car Rentals": 1206.0,
+    "car rental companies": {
+      "National": 337,
+      "Budget": 202,
+      "Hertz": 186,
+      "Avis": 170,
+      "Enterprise": 127
+    }
+  },
+  {
+    "Date": "05-04-26",
+    "Average Daily Temp in Fahr": 70.1,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": 1145.0,
+    "car rental companies": {
+      "National": 414,
+      "Enterprise": 96,
+      "Alamo": 259,
+      "Hertz": 312,
+      "Avis": 204
+    }
+  },
+  {
+    "Date": "2026-05-05",
+    "Average Daily Temp in Fahr": 82.5,
+    "City": "Miami",
+    "State": "FL",
+    "Airport Code": "MIA",
+    "Number of Airport Car Rentals": 1445.0,
+    "car rental companies": {
+      "Budget": 308,
+      "Hertz": 86,
+      "Enterprise": 273,
+      "Sixt": 328,
+      "National": 208
+    }
+  },
+  {
+    "Date": "May 06, 2026",
+    "Average Daily Temp in Fahr": 80.4,
+    "City": "Miami",
+    "State": "FL",
+    "Airport Code": "MIA",
+    "Number of Airport Car Rentals": 1539.0,
+    "car rental companies": {
+      "Hertz": 221,
+      "Budget": 115,
+      "Sixt": 275,
+      "Enterprise": 465,
+      "Alamo": 433
+    }
+  },
+  {
+    "Date": "2026-05-07",
+    "Average Daily Temp in Fahr": 67.8,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Airport Code": "LAX",
+    "Number of Airport Car Rentals": 1400.0,
+    "car rental companies": {
+      "Alamo": 303,
+      "Budget": 295,
+      "Avis": 229,
+      "Hertz": 240,
+      "National": 485
+    }
+  },
+  {
+    "Date": "May 08, 2026",
+    "Average Daily Temp in Fahr": 64.4,
+    "City": "Denver",
+    "State": "CO",
+    "Airport Code": "DEN",
+    "Number of Airport Car Rentals": 1270.0,
+    "car rental companies": {
+      "Hertz": 343,
+      "Enterprise": 319,
+      "Avis": 97,
+      "National": 102,
+      "Alamo": 54
+    }
+  },
+  {
+    "Date": "05-09-26",
+    "Average Daily Temp in Fahr": 56.3,
+    "City": "Seattle",
+    "State": "WA",
+    "Airport Code": "SEA",
+    "Number of Airport Car Rentals": 965.0,
+    "car rental companies": {
+      "Alamo": 279,
+      "Sixt": 248,
+      "Avis": 127,
+      "National": 141,
+      "Enterprise": 173
+    }
+  },
+  {
+    "Date": "05-10-26",
+    "Average Daily Temp in Fahr": 73.3,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Airport Code": "LAX",
+    "Number of Airport Car Rentals": 1540.0,
+    "car rental companies": {
+      "Enterprise": 281,
+      "Alamo": 436,
+      "Avis": 123,
+      "Sixt": 467,
+      "National": 448
+    }
+  },
+  {
+    "Date": "05-11-26",
+    "Average Daily Temp in Fahr": 44.7,
+    "City": "Denver",
+    "State": "CO",
+    "Airport Code": "DEN",
+    "Number of Airport Car Rentals": null,
+    "car rental companies": {
+      "Alamo": 243,
+      "National": 132,
+      "Enterprise": 182,
+      "Budget": 343,
+      "Sixt": 237
+    }
+  },
+  {
+    "Date": "2026-05-12",
+    "Average Daily Temp in Fahr": 57.6,
+    "City": "Denver",
+    "State": "CO",
+    "Airport Code": "DEN",
+    "Number of Airport Car Rentals": null,
+    "car rental companies": {
+      "Sixt": 383,
+      "Budget": 52,
+      "National": 411,
+      "Alamo": 168,
+      "Avis": 293
+    }
+  },
+  {
+    "Date": "May 13, 2026",
+    "Average Daily Temp in Fahr": 59.9,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Airport Code": "LAX",
+    "Number of Airport Car Rentals": 1406.0,
+    "car rental companies": {
+      "Enterprise": 356,
+      "Alamo": 226,
+      "National": 277,
+      "Sixt": 462,
+      "Hertz": 415
+    }
+  },
+  {
+    "Date": "05/14/2026",
+    "Average Daily Temp in Fahr": 76.2,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1209.0,
+    "car rental companies": {
+      "National": 282,
+      "Avis": 392,
+      "Hertz": 77,
+      "Budget": 171,
+      "Enterprise": 61
+    }
+  },
+  {
+    "Date": "2026-05-15",
+    "Average Daily Temp in Fahr": 75.8,
+    "City": "Miami",
+    "State": "FL",
+    "Airport Code": "MIA",
+    "Number of Airport Car Rentals": 1640.0,
+    "car rental companies": {
+      "Avis": 143,
+      "Enterprise": 392,
+      "Sixt": 444,
+      "Alamo": 384,
+      "Budget": 131
+    }
+  },
+  {
+    "Date": "05-16-26",
+    "Average Daily Temp in Fahr": 58.5,
+    "City": "San Francisco",
+    "State": "CA",
+    "Airport Code": "SFO",
+    "Number of Airport Car Rentals": 1204.0,
+    "car rental companies": {
+      "Enterprise": 191,
+      "National": 451,
+      "Sixt": 255,
+      "Alamo": 330,
+      "Avis": 292
+    }
+  },
+  {
+    "Date": "05-17-26",
+    "Average Daily Temp in Fahr": 72.1,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Airport Code": "LAX",
+    "Number of Airport Car Rentals": 1454.0,
+    "car rental companies": {
+      "Hertz": 450,
+      "Budget": 405,
+      "National": 388,
+      "Alamo": 216,
+      "Enterprise": 456
+    }
+  },
+  {
+    "Date": "May 18, 2026",
+    "Average Daily Temp in Fahr": 64.7,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": null,
+    "car rental companies": {
+      "Enterprise": 204,
+      "Hertz": 97,
+      "Sixt": 237,
+      "Budget": 135,
+      "Avis": 263
+    }
+  },
+  {
+    "Date": "05-19-26",
+    "Average Daily Temp in Fahr": 61.6,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": 1263.0,
+    "car rental companies": {
+      "Avis": 70,
+      "Budget": 78,
+      "National": 172,
+      "Alamo": 125,
+      "Sixt": 287
+    }
+  },
+  {
+    "Date": "2026-05-20",
+    "Average Daily Temp in Fahr": 71.3,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1024.0,
+    "car rental companies": {
+      "Sixt": 303,
+      "Budget": 70,
+      "Enterprise": 489,
+      "Hertz": 368,
+      "Avis": 479
+    }
+  },
+  {
+    "Date": "2026-05-21",
+    "Average Daily Temp in Fahr": 64.7,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": 1164.0,
+    "car rental companies": {
+      "National": 60,
+      "Avis": 402,
+      "Enterprise": 83,
+      "Sixt": 87,
+      "Hertz": 311
+    }
+  },
+  {
+    "Date": "05-22-26",
+    "Average Daily Temp in Fahr": 62.9,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Airport Code": "LAX",
+    "Number of Airport Car Rentals": 1426.0,
+    "car rental companies": {
+      "National": 376,
+      "Sixt": 148,
+      "Budget": 216,
+      "Alamo": 459,
+      "Enterprise": 250
+    }
+  },
+  {
+    "Date": "May 23, 2026",
+    "Average Daily Temp in Fahr": 71.6,
+    "City": "Atlanta",
+    "State": "GA",
+    "Airport Code": "ATL",
+    "Number of Airport Car Rentals": 1510.0,
+    "car rental companies": {
+      "Sixt": 67,
+      "Alamo": 389,
+      "Enterprise": 396,
+      "National": 314,
+      "Hertz": 149
+    }
+  },
+  {
+    "Date": "May 24, 2026",
+    "Average Daily Temp in Fahr": 70.9,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1295.0,
+    "car rental companies": {
+      "Alamo": 120,
+      "Avis": 325,
+      "Sixt": 469,
+      "Budget": 250,
+      "Enterprise": 214
+    }
+  },
+  {
+    "Date": "05/25/2026",
+    "Average Daily Temp in Fahr": 62.1,
+    "City": "Seattle",
+    "State": "WA",
+    "Airport Code": "SEA",
+    "Number of Airport Car Rentals": 1179.0,
+    "car rental companies": {
+      "Enterprise": 374,
+      "Sixt": 169,
+      "Alamo": 236,
+      "Hertz": 104,
+      "National": 365
+    }
+  },
+  {
+    "Date": "2026-05-26",
+    "Average Daily Temp in Fahr": 67.1,
+    "City": "San Francisco",
+    "State": "CA",
+    "Airport Code": "SFO",
+    "Number of Airport Car Rentals": 1458.0,
+    "car rental companies": {
+      "Budget": 438,
+      "Hertz": 484,
+      "Alamo": 339,
+      "Avis": 71,
+      "Sixt": 381
+    }
+  },
+  {
+    "Date": "2026-05-27",
+    "Average Daily Temp in Fahr": 59.4,
+    "City": "New York",
+    "State": "NY",
+    "Airport Code": "JFK",
+    "Number of Airport Car Rentals": 1224.0,
+    "car rental companies": {
+      "National": 375,
+      "Budget": 150,
+      "Avis": 471,
+      "Hertz": 443,
+      "Alamo": 490
+    }
+  },
+  {
+    "Date": "05/28/2026",
+    "Average Daily Temp in Fahr": 59.9,
+    "City": "Denver",
+    "State": "CO",
+    "Airport Code": "DEN",
+    "Number of Airport Car Rentals": 1219.0,
+    "car rental companies": {
+      "Sixt": 351,
+      "Avis": 370,
+      "Budget": 208,
+      "Enterprise": 153,
+      "National": 351
+    }
+  },
+  {
+    "Date": "05/29/2026",
+    "Average Daily Temp in Fahr": 57.4,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": 987.0,
+    "car rental companies": {
+      "Avis": 298,
+      "Sixt": 238,
+      "Budget": 310,
+      "Alamo": 349,
+      "National": 237
+    }
+  },
+  {
+    "Date": "05-30-26",
+    "Average Daily Temp in Fahr": 78.5,
+    "City": "Miami",
+    "State": "FL",
+    "Airport Code": "MIA",
+    "Number of Airport Car Rentals": 1340.0,
+    "car rental companies": {
+      "Enterprise": 118,
+      "Budget": 123,
+      "Alamo": 377,
+      "Hertz": 272,
+      "Avis": 429
+    }
+  },
+  {
+    "Date": "May 31, 2026",
+    "Average Daily Temp in Fahr": 79.4,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1431.0,
+    "car rental companies": {
+      "Hertz": 302,
+      "Alamo": 379,
+      "Avis": 158,
+      "Budget": 157,
+      "National": 218
+    }
+  },
+  {
+    "Date": "06/01/2026",
+    "Average Daily Temp in Fahr": 61.8,
+    "City": "San Francisco",
+    "State": "CA",
+    "Airport Code": "SFO",
+    "Number of Airport Car Rentals": 1191.0,
+    "car rental companies": {
+      "Hertz": 115,
+      "Enterprise": 184,
+      "Alamo": 176,
+      "National": 272,
+      "Avis": 120
+    }
+  },
+  {
+    "Date": "Jun 02, 2026",
+    "Average Daily Temp in Fahr": 72.0,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": 1324.0,
+    "car rental companies": {
+      "National": 147,
+      "Sixt": 52,
+      "Budget": 82,
+      "Alamo": 428,
+      "Avis": 374
+    }
+  },
+  {
+    "Date": "06/03/2026",
+    "Average Daily Temp in Fahr": 86.8,
+    "City": "Dallas",
+    "State": "TX",
+    "Airport Code": "DFW",
+    "Number of Airport Car Rentals": 1330.0,
+    "car rental companies": {
+      "National": 131,
+      "Alamo": 176,
+      "Sixt": 77,
+      "Enterprise": 491,
+      "Avis": 305
+    }
+  },
+  {
+    "Date": "06/04/2026",
+    "Average Daily Temp in Fahr": 68.0,
+    "City": "Seattle",
+    "State": "WA",
+    "Airport Code": "SEA",
+    "Number of Airport Car Rentals": 1179.0,
+    "car rental companies": {
+      "Avis": 337,
+      "Sixt": 83,
+      "Enterprise": 325,
+      "Budget": 209,
+      "National": 382
+    }
+  },
+  {
+    "Date": "06-05-26",
+    "Average Daily Temp in Fahr": 60.2,
+    "City": "San Francisco",
+    "State": "CA",
+    "Airport Code": "SFO",
+    "Number of Airport Car Rentals": 1090.0,
+    "car rental companies": {
+      "Sixt": 217,
+      "Budget": 165,
+      "Enterprise": 233,
+      "Alamo": 324,
+      "Hertz": 420
+    }
+  },
+  {
+    "Date": "06-06-26",
+    "Average Daily Temp in Fahr": 71.2,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Airport Code": "LAX",
+    "Number of Airport Car Rentals": 1612.0,
+    "car rental companies": {
+      "National": 377,
+      "Sixt": 224,
+      "Hertz": 447,
+      "Enterprise": 284,
+      "Budget": 450
+    }
+  },
+  {
+    "Date": "Jun 07, 2026",
+    "Average Daily Temp in Fahr": 67.7,
+    "City": "Portland",
+    "State": "OR",
+    "Airport Code": "PDX",
+    "Number of Airport Car Rentals": 914.0,
+    "car rental companies": {
+      "Alamo": 369,
+      "Hertz": 405,
+      "Sixt": 79,
+      "Budget": 255,
+      "National": 82
+    }
+  },
+  {
+    "Date": "06/08/2026",
+    "Average Daily Temp in Fahr": 72.9,
+    "City": "Chicago",
+    "State": "IL",
+    "Airport Code": "ORD",
+    "Number of Airport Car Rentals": 1047.0,
+    "car rental companies": {
+      "Enterprise": 381,
+      "Alamo": 147,
+      "Hertz": 500,
+      "Sixt": 180,
+      "Budget": 173
+    }
+  }
+]
