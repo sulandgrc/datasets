@@ -1,0 +1,802 @@
+[
+  {
+    "Date":"03-01-26",
+    "Average Daily Temp in Fahr":45.3,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1004.0
+  },
+  {
+    "Date":"Mar 02, 2026",
+    "Average Daily Temp in Fahr":55.6,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"03\/03\/2026",
+    "Average Daily Temp in Fahr":38.0,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1276.0
+  },
+  {
+    "Date":"03-04-26",
+    "Average Daily Temp in Fahr":60.1,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1352.0
+  },
+  {
+    "Date":"03\/05\/2026",
+    "Average Daily Temp in Fahr":60.9,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1231.0
+  },
+  {
+    "Date":"Mar 06, 2026",
+    "Average Daily Temp in Fahr":76.0,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1562.0
+  },
+  {
+    "Date":"03-07-26",
+    "Average Daily Temp in Fahr":53.0,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":986.0
+  },
+  {
+    "Date":"Mar 08, 2026",
+    "Average Daily Temp in Fahr":57.5,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1174.0
+  },
+  {
+    "Date":"03\/09\/2026",
+    "Average Daily Temp in Fahr":72.6,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1574.0
+  },
+  {
+    "Date":"03-10-26",
+    "Average Daily Temp in Fahr":38.2,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"2026-03-11",
+    "Average Daily Temp in Fahr":73.7,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1402.0
+  },
+  {
+    "Date":"Mar 12, 2026",
+    "Average Daily Temp in Fahr":43.8,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1169.0
+  },
+  {
+    "Date":"Mar 13, 2026",
+    "Average Daily Temp in Fahr":39.8,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1165.0
+  },
+  {
+    "Date":"03\/14\/2026",
+    "Average Daily Temp in Fahr":43.2,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1205.0
+  },
+  {
+    "Date":"Mar 15, 2026",
+    "Average Daily Temp in Fahr":57.5,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1145.0
+  },
+  {
+    "Date":"Mar 16, 2026",
+    "Average Daily Temp in Fahr":51.1,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"2026-03-17",
+    "Average Daily Temp in Fahr":52.4,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":886.0
+  },
+  {
+    "Date":"2026-03-18",
+    "Average Daily Temp in Fahr":null,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1102.0
+  },
+  {
+    "Date":"Mar 19, 2026",
+    "Average Daily Temp in Fahr":63.6,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":903.0
+  },
+  {
+    "Date":"03\/20\/2026",
+    "Average Daily Temp in Fahr":35.6,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1323.0
+  },
+  {
+    "Date":"03-21-26",
+    "Average Daily Temp in Fahr":69.4,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1273.0
+  },
+  {
+    "Date":"Mar 22, 2026",
+    "Average Daily Temp in Fahr":44.2,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1334.0
+  },
+  {
+    "Date":"03-23-26",
+    "Average Daily Temp in Fahr":62.9,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1305.0
+  },
+  {
+    "Date":"2026-03-24",
+    "Average Daily Temp in Fahr":61.6,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":1520.0
+  },
+  {
+    "Date":"03\/25\/2026",
+    "Average Daily Temp in Fahr":60.6,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1162.0
+  },
+  {
+    "Date":"03\/26\/2026",
+    "Average Daily Temp in Fahr":50.6,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":906.0
+  },
+  {
+    "Date":"Mar 27, 2026",
+    "Average Daily Temp in Fahr":54.6,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":1006.0
+  },
+  {
+    "Date":"03\/28\/2026",
+    "Average Daily Temp in Fahr":48.6,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":952.0
+  },
+  {
+    "Date":"2026-03-29",
+    "Average Daily Temp in Fahr":47.7,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1435.0
+  },
+  {
+    "Date":"03-30-26",
+    "Average Daily Temp in Fahr":59.4,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1525.0
+  },
+  {
+    "Date":"03-31-26",
+    "Average Daily Temp in Fahr":75.7,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1558.0
+  },
+  {
+    "Date":"04\/01\/2026",
+    "Average Daily Temp in Fahr":43.3,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"2026-04-02",
+    "Average Daily Temp in Fahr":46.8,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"2026-04-03",
+    "Average Daily Temp in Fahr":60.2,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1487.0
+  },
+  {
+    "Date":"Apr 04, 2026",
+    "Average Daily Temp in Fahr":54.4,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1407.0
+  },
+  {
+    "Date":"04\/05\/2026",
+    "Average Daily Temp in Fahr":68.7,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1405.0
+  },
+  {
+    "Date":"Apr 06, 2026",
+    "Average Daily Temp in Fahr":39.1,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1347.0
+  },
+  {
+    "Date":"04-07-26",
+    "Average Daily Temp in Fahr":null,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1218.0
+  },
+  {
+    "Date":"04-08-26",
+    "Average Daily Temp in Fahr":48.9,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1477.0
+  },
+  {
+    "Date":"2026-04-09",
+    "Average Daily Temp in Fahr":42.3,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1275.0
+  },
+  {
+    "Date":"2026-04-10",
+    "Average Daily Temp in Fahr":69.1,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1388.0
+  },
+  {
+    "Date":"2026-04-11",
+    "Average Daily Temp in Fahr":53.8,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1625.0
+  },
+  {
+    "Date":"04-12-26",
+    "Average Daily Temp in Fahr":74.1,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1452.0
+  },
+  {
+    "Date":"04\/13\/2026",
+    "Average Daily Temp in Fahr":60.4,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1750.0
+  },
+  {
+    "Date":"2026-04-14",
+    "Average Daily Temp in Fahr":66.2,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1558.0
+  },
+  {
+    "Date":"04-15-26",
+    "Average Daily Temp in Fahr":55.6,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":1122.0
+  },
+  {
+    "Date":"04\/16\/2026",
+    "Average Daily Temp in Fahr":58.7,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":1407.0
+  },
+  {
+    "Date":"Apr 17, 2026",
+    "Average Daily Temp in Fahr":51.9,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":896.0
+  },
+  {
+    "Date":"04-18-26",
+    "Average Daily Temp in Fahr":50.2,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1336.0
+  },
+  {
+    "Date":"Apr 19, 2026",
+    "Average Daily Temp in Fahr":74.0,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1310.0
+  },
+  {
+    "Date":"04\/20\/2026",
+    "Average Daily Temp in Fahr":53.7,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1207.0
+  },
+  {
+    "Date":"Apr 21, 2026",
+    "Average Daily Temp in Fahr":59.9,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1209.0
+  },
+  {
+    "Date":"2026-04-22",
+    "Average Daily Temp in Fahr":47.5,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1464.0
+  },
+  {
+    "Date":"04\/23\/2026",
+    "Average Daily Temp in Fahr":68.3,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1373.0
+  },
+  {
+    "Date":"04-24-26",
+    "Average Daily Temp in Fahr":66.5,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1433.0
+  },
+  {
+    "Date":"2026-04-25",
+    "Average Daily Temp in Fahr":55.0,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1363.0
+  },
+  {
+    "Date":"2026-04-26",
+    "Average Daily Temp in Fahr":66.2,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":965.0
+  },
+  {
+    "Date":"Apr 27, 2026",
+    "Average Daily Temp in Fahr":59.6,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1048.0
+  },
+  {
+    "Date":"2026-04-28",
+    "Average Daily Temp in Fahr":66.1,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1292.0
+  },
+  {
+    "Date":"Apr 29, 2026",
+    "Average Daily Temp in Fahr":65.8,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1356.0
+  },
+  {
+    "Date":"Apr 30, 2026",
+    "Average Daily Temp in Fahr":77.2,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1501.0
+  },
+  {
+    "Date":"2026-05-01",
+    "Average Daily Temp in Fahr":45.1,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1179.0
+  },
+  {
+    "Date":"May 02, 2026",
+    "Average Daily Temp in Fahr":59.5,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1074.0
+  },
+  {
+    "Date":"05-03-26",
+    "Average Daily Temp in Fahr":59.1,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1206.0
+  },
+  {
+    "Date":"05-04-26",
+    "Average Daily Temp in Fahr":70.1,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1145.0
+  },
+  {
+    "Date":"2026-05-05",
+    "Average Daily Temp in Fahr":82.5,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1445.0
+  },
+  {
+    "Date":"May 06, 2026",
+    "Average Daily Temp in Fahr":80.4,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1539.0
+  },
+  {
+    "Date":"2026-05-07",
+    "Average Daily Temp in Fahr":67.8,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1400.0
+  },
+  {
+    "Date":"May 08, 2026",
+    "Average Daily Temp in Fahr":64.4,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1270.0
+  },
+  {
+    "Date":"05-09-26",
+    "Average Daily Temp in Fahr":56.3,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":965.0
+  },
+  {
+    "Date":"05-10-26",
+    "Average Daily Temp in Fahr":73.3,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1540.0
+  },
+  {
+    "Date":"05-11-26",
+    "Average Daily Temp in Fahr":44.7,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"2026-05-12",
+    "Average Daily Temp in Fahr":57.6,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"May 13, 2026",
+    "Average Daily Temp in Fahr":59.9,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1406.0
+  },
+  {
+    "Date":"05\/14\/2026",
+    "Average Daily Temp in Fahr":76.2,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1209.0
+  },
+  {
+    "Date":"2026-05-15",
+    "Average Daily Temp in Fahr":75.8,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1640.0
+  },
+  {
+    "Date":"05-16-26",
+    "Average Daily Temp in Fahr":58.5,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1204.0
+  },
+  {
+    "Date":"05-17-26",
+    "Average Daily Temp in Fahr":72.1,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1454.0
+  },
+  {
+    "Date":"May 18, 2026",
+    "Average Daily Temp in Fahr":64.7,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":null
+  },
+  {
+    "Date":"05-19-26",
+    "Average Daily Temp in Fahr":61.6,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1263.0
+  },
+  {
+    "Date":"2026-05-20",
+    "Average Daily Temp in Fahr":71.3,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1024.0
+  },
+  {
+    "Date":"2026-05-21",
+    "Average Daily Temp in Fahr":64.7,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":1164.0
+  },
+  {
+    "Date":"05-22-26",
+    "Average Daily Temp in Fahr":62.9,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1426.0
+  },
+  {
+    "Date":"May 23, 2026",
+    "Average Daily Temp in Fahr":71.6,
+    "City":"Atlanta",
+    "State":"GA",
+    "Airport Code":"ATL",
+    "Number of Airport Car Rentals":1510.0
+  },
+  {
+    "Date":"May 24, 2026",
+    "Average Daily Temp in Fahr":70.9,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1295.0
+  },
+  {
+    "Date":"05\/25\/2026",
+    "Average Daily Temp in Fahr":62.1,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1179.0
+  },
+  {
+    "Date":"2026-05-26",
+    "Average Daily Temp in Fahr":67.1,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1458.0
+  },
+  {
+    "Date":"2026-05-27",
+    "Average Daily Temp in Fahr":59.4,
+    "City":"New York",
+    "State":"NY",
+    "Airport Code":"JFK",
+    "Number of Airport Car Rentals":1224.0
+  },
+  {
+    "Date":"05\/28\/2026",
+    "Average Daily Temp in Fahr":59.9,
+    "City":"Denver",
+    "State":"CO",
+    "Airport Code":"DEN",
+    "Number of Airport Car Rentals":1219.0
+  },
+  {
+    "Date":"05\/29\/2026",
+    "Average Daily Temp in Fahr":57.4,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":987.0
+  },
+  {
+    "Date":"05-30-26",
+    "Average Daily Temp in Fahr":78.5,
+    "City":"Miami",
+    "State":"FL",
+    "Airport Code":"MIA",
+    "Number of Airport Car Rentals":1340.0
+  },
+  {
+    "Date":"May 31, 2026",
+    "Average Daily Temp in Fahr":79.4,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1431.0
+  },
+  {
+    "Date":"06\/01\/2026",
+    "Average Daily Temp in Fahr":61.8,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1191.0
+  },
+  {
+    "Date":"Jun 02, 2026",
+    "Average Daily Temp in Fahr":72.0,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1324.0
+  },
+  {
+    "Date":"06\/03\/2026",
+    "Average Daily Temp in Fahr":86.8,
+    "City":"Dallas",
+    "State":"TX",
+    "Airport Code":"DFW",
+    "Number of Airport Car Rentals":1330.0
+  },
+  {
+    "Date":"06\/04\/2026",
+    "Average Daily Temp in Fahr":68.0,
+    "City":"Seattle",
+    "State":"WA",
+    "Airport Code":"SEA",
+    "Number of Airport Car Rentals":1179.0
+  },
+  {
+    "Date":"06-05-26",
+    "Average Daily Temp in Fahr":60.2,
+    "City":"San Francisco",
+    "State":"CA",
+    "Airport Code":"SFO",
+    "Number of Airport Car Rentals":1090.0
+  },
+  {
+    "Date":"06-06-26",
+    "Average Daily Temp in Fahr":71.2,
+    "City":"Los Angeles",
+    "State":"CA",
+    "Airport Code":"LAX",
+    "Number of Airport Car Rentals":1612.0
+  },
+  {
+    "Date":"Jun 07, 2026",
+    "Average Daily Temp in Fahr":67.7,
+    "City":"Portland",
+    "State":"OR",
+    "Airport Code":"PDX",
+    "Number of Airport Car Rentals":914.0
+  },
+  {
+    "Date":"06\/08\/2026",
+    "Average Daily Temp in Fahr":72.9,
+    "City":"Chicago",
+    "State":"IL",
+    "Airport Code":"ORD",
+    "Number of Airport Car Rentals":1047.0
+  }
+]
